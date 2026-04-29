@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ABRASUS | Área administrativa</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:wght@500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --verde: #1d9e75;
+    --verde-claro: #e6f5f0;
+    --azul: #1d5fa8;
+    --azul-escuro: #1a3d7a;
+    --cinza-claro: #f7f8f9;
+    --cinza-texto: #4a5568;
+    --cinza-borda: #e2e8f0;
+    --texto: #1a202c;
+    --erro: #b91c1c;
+    --ok: #166534;
+    --radius: 14px;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'DM Sans', sans-serif; color: var(--texto); background: #f3f6f8; line-height: 1.6; }
+  a { color: inherit; }
+  button, input, textarea, select { font-family: inherit; }
+  .topbar { background: white; border-bottom: 1px solid var(--cinza-borda); position: sticky; top: 0; z-index: 10; }
+  .topbar-inner { max-width: 1180px; margin: 0 auto; min-height: 68px; padding: 0 1.2rem; display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+  .brand { text-decoration: none; display: flex; align-items: center; gap: 10px; }
+  .brand-mark { width: 42px; height: 42px; border-radius: 12px; background: linear-gradient(135deg, var(--azul), var(--verde)); color: white; display: grid; place-items: center; font-weight: 800; }
+  .brand strong { display: block; letter-spacing: 0.04em; }
+  .brand small { color: var(--cinza-texto); font-size: 0.76rem; }
+  .top-actions { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; justify-content: flex-end; }
+  .shell { max-width: 1180px; margin: 0 auto; padding: 1.4rem; }
+  .panel { background: white; border: 1px solid var(--cinza-borda); border-radius: var(--radius); padding: 1.25rem; box-shadow: 0 2px 12px rgba(0,0,0,0.05); }
+  .hero { display: grid; gap: 0.35rem; margin-bottom: 1.2rem; }
+  .hero h1 { font-family: 'Fraunces', serif; font-size: clamp(1.6rem, 3vw, 2.3rem); font-weight: 500; }
+  .hero p { color: var(--cinza-texto); max-width: 760px; }
+  .login-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(280px, 420px); gap: 1.2rem; align-items: start; }
+  .notice { background: var(--verde-claro); border: 1px solid rgba(29,158,117,0.18); color: #14532d; border-radius: 12px; padding: 1rem; font-size: 0.92rem; }
+  .form-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+  .field { display: grid; gap: 5px; }
+  .field.full { grid-column: 1 / -1; }
+  label { color: var(--cinza-texto); font-size: 0.76rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; }
+  input, textarea, select { width: 100%; border: 1.5px solid var(--cinza-borda); border-radius: 10px; padding: 10px 12px; font-size: 0.93rem; background: white; outline: none; transition: border-color 0.2s, box-shadow 0.2s; }
+  textarea { min-height: 98px; resize: vertical; }
+  input:focus, textarea:focus, select:focus { border-color: var(--verde); box-shadow: 0 0 0 4px rgba(29,158,117,0.12); }
+  .btn { border: 1.5px solid transparent; border-radius: 10px; min-height: 42px; padding: 10px 15px; background: var(--cinza-claro); color: var(--texto); font-weight: 700; cursor: pointer; transition: transform 0.15s, background 0.2s, color 0.2s, border-color 0.2s; display: inline-flex; align-items: center; justify-content: center; gap: 8px; text-decoration: none; }
+  .btn:hover { transform: translateY(-1px); }
+  .btn-primary { background: var(--verde); color: white; }
+  .btn-secondary { background: white; border-color: var(--azul); color: var(--azul); }
+  .btn-danger { background: #fff1f1; border-color: #fecaca; color: var(--erro); }
+  .btn-muted { background: white; border-color: var(--cinza-borda); color: var(--cinza-texto); }
+  .btn-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+  .status { margin-top: 12px; border-radius: 10px; padding: 10px 12px; font-size: 0.88rem; display: none; }
+  .status.show { display: block; }
+  .status.ok { background: #ecfdf5; color: var(--ok); border: 1px solid #bbf7d0; }
+  .status.err { background: #fef2f2; color: var(--erro); border: 1px solid #fecaca; }
+  .admin-layout { display: grid; grid-template-columns: 380px minmax(0, 1fr); gap: 1.2rem; align-items: start; }
+  .list { display: grid; gap: 10px; }
+  .item { border: 1px solid var(--cinza-borda); border-radius: 12px; padding: 0.9rem; background: white; display: grid; gap: 8px; }
+  .item-top { display: flex; justify-content: space-between; gap: 12px; align-items: flex-start; }
+  .item h3 { font-size: 1rem; line-height: 1.3; }
+  .item p { color: var(--cinza-texto); font-size: 0.84rem; }
+  .badge { border-radius: 50px; padding: 4px 9px; font-size: 0.68rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.05em; white-space: nowrap; }
+  .badge.pub { background: #dcfce7; color: #166534; }
+  .badge.draft { background: #fee2e2; color: #991b1b; }
+  .badge.scheduled { background: #dbeafe; color: #1e40af; }
+  .empty { color: var(--cinza-texto); text-align: center; padding: 2rem; border: 1.5px dashed var(--cinza-borda); border-radius: 12px; background: var(--cinza-claro); }
+  .help { font-size: 0.78rem; color: var(--cinza-texto); }
+  .hidden { display: none !important; }
+  .divider { height: 1px; background: var(--cinza-borda); margin: 1rem 0; }
+  .file-note { font-size: 0.78rem; color: var(--cinza-texto); }
+  @media (max-width: 920px) {
+    .login-grid, .admin-layout { grid-template-columns: 1fr; }
+    .form-grid { grid-template-columns: 1fr; }
+    .shell { padding: 1rem; }
+  }
+</style>
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="index.html">
+      <span class="brand-mark">A</span>
+      <span>
+        <strong>ABRASUS</strong>
+        <small>Área administrativa</small>
+      </span>
+    </a>
+    <div class="top-actions">
+      <a class="btn btn-muted" href="index.html">Ver site</a>
+      <button class="btn btn-danger hidden" id="logoutBtn" type="button">Sair</button>
+    </div>
+  </div>
+</header>
+
+<main class="shell">
+  <section class="hero">
+    <h1>Painel de panfletos</h1>
+    <p>Entre como administrador para cadastrar, editar, agendar e excluir panfletos diretamente pelo navegador.</p>
+  </section>
+
+  <section class="login-grid" id="loginView">
+    <div class="panel">
+      <h2>Como funciona</h2>
+      <div class="divider"></div>
+      <p class="notice">Visitantes não precisam fazer login. Só a conta cadastrada em <strong>admin_users</strong> consegue abrir este painel e alterar os panfletos.</p>
+      <div class="divider"></div>
+      <p class="help">Se o login com Google ainda não estiver configurado no Supabase, use e-mail e senha. Depois podemos ativar Google no painel do Supabase em Authentication > Providers.</p>
+    </div>
+
+    <form class="panel" id="loginForm">
+      <h2>Entrar</h2>
+      <div class="divider"></div>
+      <div class="field">
+        <label for="email">E-mail</label>
+        <input id="email" name="email" type="email" autocomplete="email" required value="abrasusprogramadocuidadocontin@gmail.com">
+      </div>
+      <div class="field" style="margin-top:10px;">
+        <label for="password">Senha</label>
+        <input id="password" name="password" type="password" autocomplete="current-password" required>
+      </div>
+      <div class="btn-row">
+        <button class="btn btn-primary" type="submit">Entrar com e-mail</button>
+        <button class="btn btn-secondary" type="button" id="googleBtn">Entrar com Google</button>
+      </div>
+      <div class="status" id="loginStatus"></div>
+    </form>
+  </section>
+
+  <section class="admin-layout hidden" id="adminView">
+    <aside class="panel">
+      <div style="display:flex; justify-content:space-between; gap:12px; align-items:center; margin-bottom:12px;">
+        <h2>Panfletos</h2>
+        <button class="btn btn-primary" type="button" id="newBtn">Novo</button>
+      </div>
+      <div class="list" id="panfletosList"></div>
+    </aside>
+
+    <form class="panel" id="panfletoForm">
+      <h2 id="formTitle">Novo panfleto</h2>
+      <p class="help">Campos marcados como texto/links são salvos no Supabase. Arquivos são enviados para o bucket <strong>panfletos</strong>.</p>
+      <div class="divider"></div>
+
+      <div class="form-grid">
+        <div class="field">
+          <label for="titulo">Título</label>
+          <input id="titulo" name="titulo" type="text" required>
+        </div>
+        <div class="field">
+          <label for="id">ID amigável</label>
+          <input id="id" name="id" type="text" required placeholder="ex.: diabetes-mellitus">
+        </div>
+        <div class="field">
+          <label for="categoria">Categoria</label>
+          <select id="categoria" name="categoria" required>
+            <option>Clínica Médica</option>
+            <option>Pneumologia</option>
+            <option>Cardiologia</option>
+            <option>Infectologia</option>
+            <option>Nefrologia</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="publicado">Status</label>
+          <select id="publicado" name="publicado">
+            <option value="true">Publicado</option>
+            <option value="false">Rascunho/oculto</option>
+          </select>
+        </div>
+        <div class="field full">
+          <label for="descricao">Descrição curta</label>
+          <textarea id="descricao" name="descricao" required></textarea>
+        </div>
+        <div class="field full">
+          <label for="descricaoLonga">Descrição detalhada</label>
+          <textarea id="descricaoLonga" name="descricaoLonga" placeholder="Escreva uma explicação maior. Separe parágrafos com uma linha em branco."></textarea>
+        </div>
+        <div class="field full">
+          <label for="palavras">Palavras-chave</label>
+          <input id="palavras" name="palavras" type="text" placeholder="diabetes, glicemia, prevenção">
+        </div>
+        <div class="field">
+          <label for="dataPublicacao">Data de publicação</label>
+          <input id="dataPublicacao" name="dataPublicacao" type="date">
+        </div>
+        <div class="field">
+          <label for="horaPublicacao">Horário</label>
+          <input id="horaPublicacao" name="horaPublicacao" type="time">
+        </div>
+        <div class="field full">
+          <label for="pdfFile">PDF do panfleto</label>
+          <input id="pdfFile" name="pdfFile" type="file" accept="application/pdf">
+          <p class="file-note" id="pdfAtual"></p>
+        </div>
+        <div class="field full">
+          <label for="imagemFile">Imagem/capa opcional</label>
+          <input id="imagemFile" name="imagemFile" type="file" accept="image/png,image/jpeg,image/webp">
+          <p class="file-note" id="imagemAtual"></p>
+        </div>
+        <div class="field full">
+          <label for="paginasFiles">Imagens das páginas para leitura no site</label>
+          <input id="paginasFiles" name="paginasFiles" type="file" accept="image/png,image/jpeg,image/webp" multiple>
+          <p class="file-note" id="paginasAtual"></p>
+        </div>
+      </div>
+
+      <div class="btn-row">
+        <button class="btn btn-primary" type="submit">Salvar panfleto</button>
+        <button class="btn btn-muted" type="button" id="clearBtn">Limpar</button>
+        <button class="btn btn-danger hidden" type="button" id="deleteBtn">Excluir</button>
+      </div>
+      <div class="status" id="formStatus"></div>
+    </form>
+  </section>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script>
+const SUPABASE_CONFIG = {
+  url: "https://ndvxslryeexocgcmszsi.supabase.co",
+  key: "sb_publishable_wgmk0GlYoka4hJjEf-c1cg_NEekpNoo",
+  bucket: "panfletos"
+};
+
+const client = window.supabase.createClient(SUPABASE_CONFIG.url, SUPABASE_CONFIG.key);
+let currentUser = null;
+let panfletos = [];
+let editingId = "";
+let currentRow = null;
+
+const $ = id => document.getElementById(id);
+
+function slugify(value) {
+  return String(value || "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "") || `panfleto-${Date.now()}`;
+}
+
+function setStatus(id, message, type = "ok") {
+  const el = $(id);
+  el.textContent = message;
+  el.className = `status show ${type}`;
+}
+
+function clearStatus(id) {
+  const el = $(id);
+  el.textContent = "";
+  el.className = "status";
+}
+
+function parseKeywords(value) {
+  return String(value || "").split(",").map(item => item.trim()).filter(Boolean);
+}
+
+function parseDescricaoLonga(value) {
+  const text = String(value || "").trim();
+  if (!text) return [];
+  return text.split(/\n{2,}/).map((paragraph, index) => ({
+    titulo: index === 0 ? "Descrição detalhada" : "Informações complementares",
+    texto: paragraph.trim(),
+    itens: []
+  })).filter(section => section.texto);
+}
+
+function descricaoLongaToText(value) {
+  if (!Array.isArray(value)) return "";
+  return value.map(section => {
+    const parts = [];
+    if (section.texto) parts.push(section.texto);
+    if (Array.isArray(section.itens) && section.itens.length) parts.push(section.itens.join("\n"));
+    return parts.join("\n");
+  }).filter(Boolean).join("\n\n");
+}
+
+function combineDateTime(date, time) {
+  if (!date) return null;
+  return `${date}T${time || "00:00"}:00-03:00`;
+}
+
+function splitDateTime(value) {
+  if (!value) return { date: "", time: "" };
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return { date: "", time: "" };
+  const local = new Date(date.getTime() - date.getTimezoneOffset() * 60000).toISOString();
+  return { date: local.slice(0, 10), time: local.slice(11, 16) };
+}
+
+function statusLabel(row) {
+  if (!row.publicado) return { text: "Rascunho", cls: "draft" };
+  if (row.data_publicacao && new Date(row.data_publicacao) > new Date()) return { text: "Agendado", cls: "scheduled" };
+  return { text: "Publicado", cls: "pub" };
+}
+
+async function checkAdmin(user) {
+  const { data, error } = await client
+    .from("admin_users")
+    .select("user_id,email")
+    .eq("user_id", user.id)
+    .maybeSingle();
+
+  if (error) throw error;
+  return Boolean(data);
+}
+
+async function init() {
+  const { data: { session } } = await client.auth.getSession();
+  if (!session?.user) {
+    showLogin();
+    return;
+  }
+
+  currentUser = session.user;
+  try {
+    const isAdmin = await checkAdmin(currentUser);
+    if (!isAdmin) {
+      await client.auth.signOut();
+      showLogin();
+      setStatus("loginStatus", "Esta conta entrou, mas não está cadastrada como administradora.", "err");
+      return;
+    }
+    showAdmin();
+    await loadPanfletos();
+  } catch (error) {
+    showLogin();
+    setStatus("loginStatus", `Falha ao verificar administrador: ${error.message}`, "err");
+  }
+}
+
+function showLogin() {
+  $("loginView").classList.remove("hidden");
+  $("adminView").classList.add("hidden");
+  $("logoutBtn").classList.add("hidden");
+}
+
+function showAdmin() {
+  $("loginView").classList.add("hidden");
+  $("adminView").classList.remove("hidden");
+  $("logoutBtn").classList.remove("hidden");
+}
+
+async function loginWithEmail(event) {
+  event.preventDefault();
+  clearStatus("loginStatus");
+  const email = $("email").value.trim();
+  const password = $("password").value;
+  const { error } = await client.auth.signInWithPassword({ email, password });
+  if (error) {
+    setStatus("loginStatus", error.message, "err");
+    return;
+  }
+  await init();
+}
+
+async function loginWithGoogle() {
+  clearStatus("loginStatus");
+  const { error } = await client.auth.signInWithOAuth({
+    provider: "google",
+    options: { redirectTo: window.location.href.split("#")[0] }
+  });
+  if (error) setStatus("loginStatus", error.message, "err");
+}
+
+async function logout() {
+  await client.auth.signOut();
+  currentUser = null;
+  showLogin();
+}
+
+async function loadPanfletos() {
+  const { data, error } = await client
+    .from("panfletos")
+    .select("*")
+    .order("created_at", { ascending: false });
+
+  if (error) {
+    setStatus("formStatus", `Erro ao carregar: ${error.message}`, "err");
+    return;
+  }
+
+  panfletos = data || [];
+  renderList();
+}
+
+function renderList() {
+  const list = $("panfletosList");
+  if (!panfletos.length) {
+    list.innerHTML = `<div class="empty">Nenhum panfleto cadastrado no banco ainda.</div>`;
+    return;
+  }
+
+  list.innerHTML = panfletos.map(row => {
+    const status = statusLabel(row);
+    const date = row.data_publicacao ? new Date(row.data_publicacao).toLocaleString("pt-BR") : "sem agendamento";
+    return `
+      <article class="item">
+        <div class="item-top">
+          <div>
+            <h3>${escapeHtml(row.titulo)}</h3>
+            <p>${escapeHtml(row.categoria)} · ${escapeHtml(date)}</p>
+          </div>
+          <span class="badge ${status.cls}">${status.text}</span>
+        </div>
+        <p>${escapeHtml(row.descricao || "")}</p>
+        <div class="btn-row">
+          <button class="btn btn-secondary" type="button" data-edit="${escapeHtml(row.id)}">Editar</button>
+        </div>
+      </article>
+    `;
+  }).join("");
+}
+
+function escapeHtml(value) {
+  return String(value ?? "").replace(/[&<>"']/g, char => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#039;"
+  }[char]));
+}
+
+function clearForm() {
+  editingId = "";
+  currentRow = null;
+  $("panfletoForm").reset();
+  $("formTitle").textContent = "Novo panfleto";
+  $("deleteBtn").classList.add("hidden");
+  $("id").readOnly = false;
+  $("pdfAtual").textContent = "";
+  $("imagemAtual").textContent = "";
+  $("paginasAtual").textContent = "";
+  clearStatus("formStatus");
+}
+
+function editRow(id) {
+  const row = panfletos.find(item => item.id === id);
+  if (!row) return;
+  editingId = row.id;
+  currentRow = row;
+  $("formTitle").textContent = "Editar panfleto";
+  $("titulo").value = row.titulo || "";
+  $("id").value = row.id || "";
+  $("id").readOnly = true;
+  $("categoria").value = row.categoria || "Clínica Médica";
+  $("publicado").value = row.publicado ? "true" : "false";
+  $("descricao").value = row.descricao || "";
+  $("descricaoLonga").value = descricaoLongaToText(row.descricao_longa);
+  $("palavras").value = Array.isArray(row.palavras_chave) ? row.palavras_chave.join(", ") : "";
+  const split = splitDateTime(row.data_publicacao);
+  $("dataPublicacao").value = split.date;
+  $("horaPublicacao").value = split.time;
+  $("pdfAtual").textContent = row.pdf_url ? `PDF atual: ${row.pdf_url}` : "Nenhum PDF cadastrado.";
+  $("imagemAtual").textContent = row.imagem_url ? `Imagem atual: ${row.imagem_url}` : "Nenhuma imagem cadastrada.";
+  const paginas = Array.isArray(row.paginas) ? row.paginas.length : 0;
+  $("paginasAtual").textContent = paginas ? `${paginas} imagem(ns) de página cadastrada(s). Envie novas para substituir.` : "Nenhuma imagem de página cadastrada.";
+  $("deleteBtn").classList.remove("hidden");
+  clearStatus("formStatus");
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+async function uploadFile(file, id, type) {
+  if (!file) return "";
+  const ext = file.name.split(".").pop()?.toLowerCase() || "bin";
+  const path = `${id}/${type}-${Date.now()}.${ext}`;
+  const { error } = await client.storage.from(SUPABASE_CONFIG.bucket).upload(path, file, {
+    cacheControl: "3600",
+    upsert: true
+  });
+  if (error) throw error;
+  const { data } = client.storage.from(SUPABASE_CONFIG.bucket).getPublicUrl(path);
+  return data.publicUrl;
+}
+
+async function uploadMany(files, id) {
+  const uploads = [];
+  for (const file of files) uploads.push(await uploadFile(file, id, `pagina-${uploads.length + 1}`));
+  return uploads;
+}
+
+async function savePanfleto(event) {
+  event.preventDefault();
+  clearStatus("formStatus");
+
+  const id = $("id").value.trim() || slugify($("titulo").value);
+  $("id").value = id;
+
+  try {
+    setStatus("formStatus", "Salvando panfleto...", "ok");
+    const pdfFile = $("pdfFile").files[0];
+    const imageFile = $("imagemFile").files[0];
+    const pagesFiles = $("paginasFiles").files;
+
+    const pdfUrl = pdfFile ? await uploadFile(pdfFile, id, "pdf") : currentRow?.pdf_url || "";
+    const imageUrl = imageFile ? await uploadFile(imageFile, id, "capa") : currentRow?.imagem_url || "";
+    const pagesUrls = pagesFiles.length ? await uploadMany(pagesFiles, id) : (Array.isArray(currentRow?.paginas) ? currentRow.paginas : []);
+
+    const payload = {
+      id,
+      titulo: $("titulo").value.trim(),
+      categoria: $("categoria").value,
+      descricao: $("descricao").value.trim(),
+      descricao_longa: parseDescricaoLonga($("descricaoLonga").value),
+      palavras_chave: parseKeywords($("palavras").value),
+      pdf_url: pdfUrl || null,
+      imagem_url: imageUrl || null,
+      paginas: pagesUrls,
+      data_publicacao: combineDateTime($("dataPublicacao").value, $("horaPublicacao").value),
+      publicado: $("publicado").value === "true"
+    };
+
+    const { error } = await client.from("panfletos").upsert(payload, { onConflict: "id" });
+    if (error) throw error;
+
+    setStatus("formStatus", "Panfleto salvo com sucesso.", "ok");
+    await loadPanfletos();
+    editRow(id);
+  } catch (error) {
+    setStatus("formStatus", `Erro ao salvar: ${error.message}`, "err");
+  }
+}
+
+async function deleteCurrent() {
+  if (!editingId) return;
+  const ok = confirm("Tem certeza que deseja excluir este panfleto? Essa ação remove o registro do banco.");
+  if (!ok) return;
+
+  const { error } = await client.from("panfletos").delete().eq("id", editingId);
+  if (error) {
+    setStatus("formStatus", `Erro ao excluir: ${error.message}`, "err");
+    return;
+  }
+
+  clearForm();
+  await loadPanfletos();
+  setStatus("formStatus", "Panfleto excluído.", "ok");
+}
+
+$("loginForm").addEventListener("submit", loginWithEmail);
+$("googleBtn").addEventListener("click", loginWithGoogle);
+$("logoutBtn").addEventListener("click", logout);
+$("newBtn").addEventListener("click", clearForm);
+$("clearBtn").addEventListener("click", clearForm);
+$("deleteBtn").addEventListener("click", deleteCurrent);
+$("panfletoForm").addEventListener("submit", savePanfleto);
+$("titulo").addEventListener("input", () => {
+  if (!editingId) $("id").value = slugify($("titulo").value);
+});
+$("panfletosList").addEventListener("click", event => {
+  const button = event.target.closest("[data-edit]");
+  if (button) editRow(button.dataset.edit);
+});
+
+init();
+</script>
+</body>
+</html>

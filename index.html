@@ -687,6 +687,12 @@
           </span>
           abrasusprogramadocuidadocontin@gmail.com
         </a>
+        <a href="admin.html">
+          <span class="sicon" style="background:#4a5568;">
+            <svg width="14" height="14" fill="none" stroke="white" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 15.5A3.5 3.5 0 1112 8a3.5 3.5 0 010 7.5z"/><path stroke-linecap="round" stroke-linejoin="round" d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 01-2.83 2.83l-.06-.06A1.65 1.65 0 0015 19.4a1.65 1.65 0 00-1 .6 1.65 1.65 0 00-.33 1.82V22a2 2 0 01-4 0v-.09A1.65 1.65 0 009 20a1.65 1.65 0 00-1-.6 1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 01-2.83-2.83l.06-.06A1.65 1.65 0 004.6 15a1.65 1.65 0 00-.6-1 1.65 1.65 0 00-1.82-.33H2a2 2 0 010-4h.09A1.65 1.65 0 004 9a1.65 1.65 0 00.6-1 1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 012.83-2.83l.06.06A1.65 1.65 0 009 4.6a1.65 1.65 0 001-.6 1.65 1.65 0 00.33-1.82V2a2 2 0 014 0v.09A1.65 1.65 0 0015 4a1.65 1.65 0 001 .6 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 012.83 2.83l-.06.06A1.65 1.65 0 0019.4 9c.36.28.56.72.6 1.18H20a2 2 0 010 4h-.09c-.04.46-.24.9-.51 1.18z"/></svg>
+          </span>
+          Área administrativa
+        </a>
       </div>
     </div>
   </div>
@@ -708,6 +714,7 @@
 <a href="#panfletos" class="quick-panfletos">Panfletos</a>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script>
 // =====================================================
 // DADOS DOS PANFLETOS - ABRASUS / HDT-UFT
@@ -754,6 +761,15 @@ const panfletos = [
 // =====================================================
 // CONFIGURAÇÕES E ESTADO LOCAL
 // =====================================================
+const SUPABASE_CONFIG = {
+  url: "https://ndvxslryeexocgcmszsi.supabase.co",
+  key: "sb_publishable_wgmk0GlYoka4hJjEf-c1cg_NEekpNoo",
+  bucket: "panfletos"
+};
+
+const supabaseClient = window.supabase?.createClient(SUPABASE_CONFIG.url, SUPABASE_CONFIG.key);
+window.ABRASUS_SUPABASE = SUPABASE_CONFIG;
+
 const STORAGE_KEYS = {
   favoritos: "abrasus_favoritos_v1",
   locais: "abrasus_panfletos_locais_v2",
@@ -779,6 +795,7 @@ let ordenacaoAtiva = "categoria"; // preparado para alternar futuramente para "m
 let favoritos = new Set(carregarLocal(STORAGE_KEYS.favoritos, []));
 let panfletosLocais = carregarLocal(STORAGE_KEYS.locais, []).map(p => normalizarPanfleto({ ...p, local: true }));
 let acessosSalvos = carregarLocal(STORAGE_KEYS.acessos, {});
+let panfletosRemotos = [];
 const parametrosPagina = new URLSearchParams(window.location.search);
 const previewAgendados = parametrosPagina.get("preview") === "agendados";
 
@@ -868,6 +885,22 @@ function estaPublicado(panfleto) {
   return data <= new Date();
 }
 
+function mapearPanfletoRemoto(row) {
+  return normalizarPanfleto({
+    id: row.id,
+    titulo: row.titulo,
+    categoria: row.categoria,
+    descricao: row.descricao,
+    descricaoLonga: row.descricao_longa,
+    dataPublicacao: row.data_publicacao,
+    imagem: row.imagem_url,
+    linkPdf: row.pdf_url,
+    palavrasChave: row.palavras_chave,
+    paginas: row.paginas,
+    acessos: row.acessos
+  });
+}
+
 function estiloDaCategoria(categoria) {
   return categoriaVisual[categoria] || categoriaVisual.default;
 }
@@ -903,9 +936,30 @@ function normalizarPanfleto(panfleto) {
 }
 
 function todosPanfletos(opcoes = {}) {
-  const lista = [...panfletos.map(normalizarPanfleto), ...panfletosLocais];
+  const porId = new Map();
+  [...panfletos.map(normalizarPanfleto), ...panfletosRemotos, ...panfletosLocais]
+    .forEach(panfleto => porId.set(panfleto.id, panfleto));
+  const lista = [...porId.values()];
   if (opcoes.incluirAgendados || previewAgendados) return lista;
   return lista.filter(estaPublicado);
+}
+
+async function carregarPanfletosRemotos() {
+  if (!supabaseClient) return;
+
+  try {
+    const { data, error } = await supabaseClient
+      .from("panfletos")
+      .select("*")
+      .order("categoria", { ascending: true })
+      .order("titulo", { ascending: true });
+
+    if (error) throw error;
+    panfletosRemotos = (data || []).map(mapearPanfletoRemoto);
+    renderTudo();
+  } catch (erro) {
+    console.warn("Não foi possível carregar panfletos do Supabase:", erro);
+  }
 }
 
 function categoriasDisponiveis() {
@@ -1474,6 +1528,7 @@ document.addEventListener("click", (evento) => {
 document.addEventListener("DOMContentLoaded", () => {
   prepararRevealsEstaticos();
   renderTudo();
+  carregarPanfletosRemotos();
   iniciarReveal();
 
   document.getElementById("busca")?.addEventListener("input", filtrarPanfletos);

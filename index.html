@@ -506,6 +506,13 @@
               <option value="Cardiologia"></option>
               <option value="Infectologia"></option>
               <option value="Nefrologia"></option>
+              <option value="Gastroenterologia"></option>
+              <option value="Ginecologia e Obstetrícia"></option>
+              <option value="Cirurgia"></option>
+              <option value="Neurologia"></option>
+              <option value="Anestesiologia"></option>
+              <option value="Ortopedia/Reumatologia"></option>
+              <option value="Promoção da Saúde"></option>
             </datalist>
           </div>
           <div class="form-campo full">
@@ -785,10 +792,29 @@ const categoriaVisual = {
   "Nefrologia": { icone: "🫘", cor: "#faf5ff", tagCor: "#f3e8ff", tagTexto: "#6b21a8" },
   "Prevenção": { icone: "✅", cor: "#f0fdf4", tagCor: "#dcfce7", tagTexto: "#14532d" },
   "Gastroenterologia": { icone: "🫄", cor: "#fff1f2", tagCor: "#ffe4e6", tagTexto: "#9f1239" },
+  "Ginecologia e Obstetrícia": { icone: "🌸", cor: "#fff1f5", tagCor: "#fce7f3", tagTexto: "#9d174d" },
+  "Cirurgia": { icone: "🏥", cor: "#f8fafc", tagCor: "#e2e8f0", tagTexto: "#334155" },
+  "Neurologia": { icone: "🧠", cor: "#f5f3ff", tagCor: "#ede9fe", tagTexto: "#5b21b6" },
+  "Anestesiologia": { icone: "💤", cor: "#ecfeff", tagCor: "#cffafe", tagTexto: "#155e75" },
+  "Ortopedia/Reumatologia": { icone: "🦴", cor: "#fffbeb", tagCor: "#fef3c7", tagTexto: "#92400e" },
+  "Promoção da Saúde": { icone: "🌿", cor: "#f0fdf4", tagCor: "#dcfce7", tagTexto: "#166534" },
   "default": { icone: "📄", cor: "#f7f8f9", tagCor: "#e2e8f0", tagTexto: "#4a5568" }
 };
 
-const categoriasBase = ["Clínica Médica", "Pneumologia", "Cardiologia", "Infectologia", "Nefrologia"];
+const categoriasBase = [
+  "Clínica Médica",
+  "Pneumologia",
+  "Cardiologia",
+  "Infectologia",
+  "Nefrologia",
+  "Gastroenterologia",
+  "Ginecologia e Obstetrícia",
+  "Cirurgia",
+  "Neurologia",
+  "Anestesiologia",
+  "Ortopedia/Reumatologia",
+  "Promoção da Saúde"
+];
 
 let filtroAtivo = "todos";
 let ordenacaoAtiva = "categoria"; // preparado para alternar futuramente para "mais-acessados"

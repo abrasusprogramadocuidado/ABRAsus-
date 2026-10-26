@@ -92,22 +92,13 @@ const hero = `<!-- HERO -->
       </div>
     </div>
 
-    <div class="hero-visual" aria-label="Seleção de panfletos educativos AbraSUS">
-      <div class="hero-showcase">
+    <div class="hero-visual" aria-label="Identidade visual do AbraSUS">
+      <div class="hero-showcase hero-brand-card">
         <div class="hero-slides" aria-live="polite">
-          <figure class="hero-slide ativo"><img src="assets/hero/asma.webp" alt="Panfleto educativo AbraSUS sobre asma"></figure>
-          <figure class="hero-slide"><img src="assets/hero/diabetes.webp" alt="Panfleto educativo AbraSUS sobre diabetes"></figure>
-          <figure class="hero-slide"><img src="assets/hero/sepse.webp" alt="Panfleto educativo AbraSUS sobre sepse"></figure>
-          <figure class="hero-slide"><img src="assets/hero/acidente-ofidico.webp" alt="Panfleto educativo AbraSUS sobre acidente ofídico"></figure>
+          <figure class="hero-slide ativo"><img src="assets/branding/abrasus-logo.png" alt="Logo do projeto AbraSUS"></figure>
         </div>
         <div class="hero-carousel-bar">
-          <div class="hero-dots" aria-label="Escolher imagem em destaque">
-            <button class="hero-dot ativo" type="button" aria-label="Ver panfleto sobre asma" aria-current="true"></button>
-            <button class="hero-dot" type="button" aria-label="Ver panfleto sobre diabetes"></button>
-            <button class="hero-dot" type="button" aria-label="Ver panfleto sobre sepse"></button>
-            <button class="hero-dot" type="button" aria-label="Ver panfleto sobre acidente ofídico"></button>
-          </div>
-          <button class="hero-pause" type="button" aria-label="Pausar rotação das imagens">Ⅱ</button>
+          <strong class="hero-empty-label">Novos materiais em breve</strong>
         </div>
       </div>
     </div>
@@ -129,7 +120,7 @@ const project = `<!-- PROJETO PIT -->
       <article class="projeto-card">
         <span class="projeto-card-numero" aria-hidden="true">01</span>
         <h3>Orientação científica</h3>
-        <p><strong>Prof.ª Carolina Galgani e Laje Miranda</strong><br>Orientação acadêmica e acompanhamento científico do projeto.</p>
+        <p><strong>Professora Carolina Galgane Lage Miranda</strong><br>Orientação acadêmica e acompanhamento científico do projeto.</p>
       </article>
       <article class="projeto-card">
         <span class="projeto-card-numero" aria-hidden="true">02</span>

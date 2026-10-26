@@ -252,6 +252,24 @@ body {
   padding: 15px 4px 1px;
 }
 
+.hero-brand-card .hero-slides {
+  aspect-ratio: 1 / 1;
+  padding: clamp(28px, 5vw, 54px);
+  background: linear-gradient(145deg, #ffffff, #edfaff);
+}
+
+.hero-brand-card .hero-slide img {
+  object-fit: contain;
+}
+
+.hero-empty-label {
+  width: 100%;
+  color: #fff;
+  text-align: center;
+  font-size: .9rem;
+  letter-spacing: .04em;
+}
+
 .hero-dots {
   display: flex;
   gap: 8px;

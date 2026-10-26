@@ -49,6 +49,7 @@
   .btn-primary { background: var(--verde); color: white; }
   .btn-secondary { background: white; border-color: var(--azul); color: var(--azul); }
   .btn-danger { background: #fff1f1; border-color: #fecaca; color: var(--erro); }
+  .btn-unpublish { background: #fff7ed; border-color: #fdba74; color: #9a3412; }
   .btn-muted { background: white; border-color: var(--cinza-borda); color: var(--cinza-texto); }
   .btn-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
   .status { margin-top: 12px; border-radius: 10px; padding: 10px 12px; font-size: 0.88rem; display: none; }
@@ -135,11 +136,12 @@
         <button class="btn btn-primary" type="button" id="newBtn">Novo</button>
       </div>
       <div class="list" id="panfletosList"></div>
+      <div class="status" id="listStatus" role="status" aria-live="polite"></div>
     </aside>
 
     <form class="panel" id="panfletoForm">
       <h2 id="formTitle">Novo panfleto</h2>
-      <p class="help">Campos marcados como texto/links são salvos no Supabase. Arquivos são enviados para o bucket <strong>panfletos</strong>.</p>
+      <p class="help">Campos marcados como texto/links são salvos no Supabase. Arquivos são enviados para o bucket <strong>panfletos</strong>. Para corrigir um material sem perdê-lo, use <strong>Retirar do site</strong> e publique novamente após a revisão.</p>
       <div class="divider"></div>
 
       <div class="form-grid">
@@ -215,7 +217,7 @@
       <div class="btn-row">
         <button class="btn btn-primary" type="submit">Salvar panfleto</button>
         <button class="btn btn-muted" type="button" id="clearBtn">Limpar</button>
-        <button class="btn btn-danger hidden" type="button" id="deleteBtn">Excluir</button>
+        <button class="btn btn-danger hidden" type="button" id="deleteBtn">Excluir definitivamente</button>
       </div>
       <div class="status" id="formStatus"></div>
     </form>
@@ -414,6 +416,9 @@ function renderList() {
         <p>${escapeHtml(row.descricao || "")}</p>
         <div class="btn-row">
           <button class="btn btn-secondary" type="button" data-edit="${escapeHtml(row.id)}">Editar</button>
+          ${row.publicado
+            ? `<button class="btn btn-unpublish" type="button" data-unpublish="${escapeHtml(row.id)}">Retirar do site</button>`
+            : `<button class="btn btn-primary" type="button" data-publish="${escapeHtml(row.id)}">Publicar novamente</button>`}
         </div>
       </article>
     `;
@@ -532,7 +537,7 @@ async function savePanfleto(event) {
 
 async function deleteCurrent() {
   if (!editingId) return;
-  const ok = confirm("Tem certeza que deseja excluir este panfleto? Essa ação remove o registro do banco.");
+  const ok = confirm("Excluir definitivamente este panfleto? Essa ação remove o registro do banco. Para apenas ocultar e corrigir depois, cancele e use ‘Retirar do site’.");
   if (!ok) return;
 
   const { error } = await client.from("panfletos").delete().eq("id", editingId);
@@ -546,6 +551,39 @@ async function deleteCurrent() {
   setStatus("formStatus", "Panfleto excluído.", "ok");
 }
 
+async function setPublicationStatus(id, publicado) {
+  const row = panfletos.find(item => item.id === id);
+  if (!row) return;
+
+  const action = publicado ? "publicar novamente" : "retirar do site";
+  const detail = publicado
+    ? "O material voltará a ficar visível conforme a data de publicação cadastrada."
+    : "O material ficará oculto imediatamente, mas o cadastro e os arquivos serão preservados para correção.";
+  const ok = confirm(`Deseja ${action} “${row.titulo}”?\n\n${detail}`);
+  if (!ok) return;
+
+  clearStatus("listStatus");
+  setStatus("listStatus", publicado ? "Publicando material..." : "Retirando material do site...", "ok");
+
+  const { error } = await client
+    .from("panfletos")
+    .update({ publicado })
+    .eq("id", id);
+
+  if (error) {
+    setStatus("listStatus", `Erro ao alterar a publicação: ${error.message}`, "err");
+    return;
+  }
+
+  await loadPanfletos();
+  if (editingId === id) editRow(id);
+  setStatus(
+    "listStatus",
+    publicado ? "Panfleto publicado novamente." : "Panfleto retirado do site. O cadastro foi preservado.",
+    "ok"
+  );
+}
+
 $("loginForm").addEventListener("submit", loginWithEmail);
 $("googleBtn").addEventListener("click", loginWithGoogle);
 $("logoutBtn").addEventListener("click", logout);
@@ -557,8 +595,20 @@ $("titulo").addEventListener("input", () => {
   if (!editingId) $("id").value = slugify($("titulo").value);
 });
 $("panfletosList").addEventListener("click", event => {
-  const button = event.target.closest("[data-edit]");
-  if (button) editRow(button.dataset.edit);
+  const editButton = event.target.closest("[data-edit]");
+  if (editButton) {
+    editRow(editButton.dataset.edit);
+    return;
+  }
+
+  const unpublishButton = event.target.closest("[data-unpublish]");
+  if (unpublishButton) {
+    setPublicationStatus(unpublishButton.dataset.unpublish, false);
+    return;
+  }
+
+  const publishButton = event.target.closest("[data-publish]");
+  if (publishButton) setPublicationStatus(publishButton.dataset.publish, true);
 });
 
 init();

@@ -973,6 +973,7 @@ function combinarDataHora(data, hora) {
 }
 
 function estaPublicado(panfleto) {
+  if (panfleto.publicado === false) return false;
   if (!panfleto.dataPublicacao) return true;
   const data = new Date(panfleto.dataPublicacao);
   if (Number.isNaN(data.getTime())) return true;
@@ -991,7 +992,8 @@ function mapearPanfletoRemoto(row) {
     linkPdf: row.pdf_url,
     palavrasChave: row.palavras_chave,
     paginas: row.paginas,
-    acessos: row.acessos
+    acessos: row.acessos,
+    publicado: row.publicado !== false
   });
 }
 
@@ -1025,6 +1027,7 @@ function normalizarPanfleto(panfleto) {
     palavrasChave: Array.isArray(panfleto.palavrasChave) ? panfleto.palavrasChave : parsePalavrasChave(panfleto.palavrasChave),
     paginas: Array.isArray(panfleto.paginas) ? panfleto.paginas.filter(Boolean).map(String) : [],
     acessos: Number(panfleto.acessos || 0),
+    publicado: panfleto.publicado !== false,
     local: Boolean(panfleto.local)
   };
 }
@@ -1033,7 +1036,7 @@ function todosPanfletos(opcoes = {}) {
   const porId = new Map();
   [...panfletos.map(normalizarPanfleto), ...panfletosRemotos, ...panfletosLocais]
     .forEach(panfleto => porId.set(panfleto.id, panfleto));
-  const lista = [...porId.values()];
+  const lista = [...porId.values()].filter(panfleto => panfleto.publicado !== false);
   if (opcoes.incluirAgendados || previewAgendados) return lista;
   return lista.filter(estaPublicado);
 }

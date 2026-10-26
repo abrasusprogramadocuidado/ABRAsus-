@@ -17,6 +17,7 @@ const seo = `<title>AbraSUS | Informação e educação em saúde — PIT HDT-UF
 <meta name="keywords" content="AbraSUS, PIT, HDT-UFT, panfletos educativos, saúde, Ministério da Saúde, PCDT, prevenção, autocuidado, Araguaína, Tocantins">
 <meta name="author" content="AbraSUS — PIT HDT-UFT">
 <meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="google-site-verification" content="a7SPSUnmpS5xKXXU5toE-p13Plepyb4bm_mk2k1yYSA">
 <meta name="theme-color" content="#0757a7">
 <link rel="canonical" href="https://abrasusprogramadocuidado.github.io/ABRAsus-/">
 <link rel="sitemap" type="application/xml" href="https://abrasusprogramadocuidado.github.io/ABRAsus-/sitemap.xml">

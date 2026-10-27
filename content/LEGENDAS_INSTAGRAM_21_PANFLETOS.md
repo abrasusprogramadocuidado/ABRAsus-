@@ -4,7 +4,7 @@ Textos preparados para uso manual no Instagram. Nenhuma publicação em rede soc
 
 ## 1. Acidente ofídico: o que fazer após uma picada
 
-Data prevista no site: 2026-10-26T20:00:00-03:00
+Data prevista no site: 2026-10-26T22:20:00-03:00
 
 ACIDENTE OFÍDICO: O QUE FAZER APÓS UMA PICADA
 
@@ -85,7 +85,7 @@ Conteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individ
 
 ## 4. Infecção do trato urinário: sintomas e cuidados
 
-Data prevista no site: 2026-11-02T10:00:00-03:00
+Data prevista no site: 2026-11-04T10:00:00-03:00
 
 INFECÇÃO DO TRATO URINÁRIO: SINTOMAS E CUIDADOS
 
@@ -112,7 +112,7 @@ Conteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individ
 
 ## 5. Febre: sinais de alarme, medicamentos e cuidados
 
-Data prevista no site: 2026-11-04T10:00:00-03:00
+Data prevista no site: 2026-11-06T10:00:00-03:00
 
 FEBRE: SINAIS DE ALARME, MEDICAMENTOS E CUIDADOS
 
@@ -139,7 +139,7 @@ Conteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individ
 
 ## 6. Erisipela e celulite: infecções da pele
 
-Data prevista no site: 2026-11-06T10:00:00-03:00
+Data prevista no site: 2026-11-11T10:00:00-03:00
 
 ERISIPELA E CELULITE: INFECÇÕES DA PELE
 
@@ -172,7 +172,7 @@ Conteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individ
 
 ## 7. Choque anafilático: reconhecer para agir rápido
 
-Data prevista no site: 2026-11-09T10:00:00-03:00
+Data prevista no site: 2026-11-13T10:00:00-03:00
 
 CHOQUE ANAFILÁTICO: RECONHECER PARA AGIR RÁPIDO
 
@@ -199,7 +199,7 @@ Conteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individ
 
 ## 8. Sepse: sinais de alerta e atendimento urgente
 
-Data prevista no site: 2026-11-11T10:00:00-03:00
+Data prevista no site: 2026-11-18T10:00:00-03:00
 
 SEPSE: SINAIS DE ALERTA E ATENDIMENTO URGENTE
 
@@ -226,7 +226,7 @@ Conteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individ
 
 ## 9. Falta de ar: causas e quando procurar ajuda
 
-Data prevista no site: 2026-11-13T10:00:00-03:00
+Data prevista no site: 2026-11-20T10:00:00-03:00
 
 FALTA DE AR: CAUSAS E QUANDO PROCURAR AJUDA
 
@@ -253,7 +253,7 @@ Conteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individ
 
 ## 10. Asma: controle, crises e sinais de alerta
 
-Data prevista no site: 2026-11-16T10:00:00-03:00
+Data prevista no site: 2026-11-25T10:00:00-03:00
 
 ASMA: CONTROLE, CRISES E SINAIS DE ALERTA
 
@@ -280,7 +280,7 @@ Conteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individ
 
 ## 11. Espirometria: o exame do sopro
 
-Data prevista no site: 2026-11-18T10:00:00-03:00
+Data prevista no site: 2026-11-27T10:00:00-03:00
 
 ESPIROMETRIA: O EXAME DO SOPRO
 
@@ -307,7 +307,7 @@ Conteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individ
 
 ## 12. Tosse: causas comuns e sinais de alerta
 
-Data prevista no site: 2026-11-20T10:00:00-03:00
+Data prevista no site: 2026-12-02T10:00:00-03:00
 
 TOSSE: CAUSAS COMUNS E SINAIS DE ALERTA
 
@@ -334,7 +334,7 @@ Conteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individ
 
 ## 13. EVALI: lesão pulmonar associada ao uso de vape
 
-Data prevista no site: 2026-11-23T10:00:00-03:00
+Data prevista no site: 2026-12-04T10:00:00-03:00
 
 EVALI: LESÃO PULMONAR ASSOCIADA AO USO DE VAPE
 
@@ -361,7 +361,7 @@ Conteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individ
 
 ## 14. Broncoscopia: preparo, exame e cuidados
 
-Data prevista no site: 2026-11-25T10:00:00-03:00
+Data prevista no site: 2026-12-09T10:00:00-03:00
 
 BRONCOSCOPIA: PREPARO, EXAME E CUIDADOS
 
@@ -388,7 +388,7 @@ Conteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individ
 
 ## 15. Pneumonia x gripe x COVID-19: entenda as diferenças
 
-Data prevista no site: 2026-11-27T10:00:00-03:00
+Data prevista no site: 2026-12-11T10:00:00-03:00
 
 PNEUMONIA X GRIPE X COVID-19: ENTENDA AS DIFERENÇAS
 
@@ -415,7 +415,7 @@ Conteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individ
 
 ## 16. Hipertensão arterial: diagnóstico, controle e cuidados
 
-Data prevista no site: 2026-11-30T10:00:00-03:00
+Data prevista no site: 2026-12-16T10:00:00-03:00
 
 HIPERTENSÃO ARTERIAL: DIAGNÓSTICO, CONTROLE E CUIDADOS
 
@@ -442,7 +442,7 @@ Conteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individ
 
 ## 17. Cateterismo cardíaco: como é feito
 
-Data prevista no site: 2026-12-02T10:00:00-03:00
+Data prevista no site: 2026-12-18T10:00:00-03:00
 
 CATETERISMO CARDÍACO: COMO É FEITO
 
@@ -469,7 +469,7 @@ Conteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individ
 
 ## 18. Arritmias: do ritmo ao cuidado
 
-Data prevista no site: 2026-12-04T10:00:00-03:00
+Data prevista no site: 2026-12-23T10:00:00-03:00
 
 ARRITMIAS: DO RITMO AO CUIDADO
 
@@ -496,7 +496,7 @@ Conteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individ
 
 ## 19. Insuficiência cardíaca: sinais, cuidados e acompanhamento
 
-Data prevista no site: 2026-12-07T10:00:00-03:00
+Data prevista no site: 2026-12-25T10:00:00-03:00
 
 INSUFICIÊNCIA CARDÍACA: SINAIS, CUIDADOS E ACOMPANHAMENTO
 
@@ -523,7 +523,7 @@ Conteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individ
 
 ## 20. Antiácidos x IBP: entenda a diferença
 
-Data prevista no site: 2026-12-09T10:00:00-03:00
+Data prevista no site: 2026-12-30T10:00:00-03:00
 
 ANTIÁCIDOS X IBP: ENTENDA A DIFERENÇA
 
@@ -556,7 +556,7 @@ Conteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individ
 
 ## 21. Tuberculose: transmissão, sintomas e tratamento
 
-Data prevista no site: 2026-12-11T10:00:00-03:00
+Data prevista no site: 2027-01-01T10:00:00-03:00
 
 TUBERCULOSE: TRANSMISSÃO, SINTOMAS E TRATAMENTO
 

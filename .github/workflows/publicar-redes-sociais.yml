@@ -1,0 +1,53 @@
+name: Publicar panfletos nas redes sociais
+
+on:
+  schedule:
+    # 10:00 em Araguaína/São Paulo (UTC-3), às quartas e sextas.
+    - cron: "0 13 * * 3,5"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Somente simular, sem publicar"
+        required: true
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar-panfletos-abrasus
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
+      META_PAGE_ID: ${{ vars.META_PAGE_ID }}
+      META_IG_USER_ID: ${{ vars.META_IG_USER_ID }}
+      MAX_POSTS_PER_RUN: "1"
+      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
+
+    steps:
+      - name: Baixar o conteúdo do site
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Publicar o próximo panfleto elegível
+        run: node scripts/publish_social_media.mjs
+
+      - name: Registrar a publicação concluída
+        if: env.DRY_RUN != 'true'
+        run: |
+          if git diff --quiet -- content/redes-sociais-publicadas.json; then
+            echo "Nenhuma alteração de estado para registrar."
+            exit 0
+          fi
+          git config user.name "AbraSUS Automação"
+          git config user.email "actions@users.noreply.github.com"
+          git add content/redes-sociais-publicadas.json
+          git commit -m "Registrar publicação automática nas redes sociais"
+          git push

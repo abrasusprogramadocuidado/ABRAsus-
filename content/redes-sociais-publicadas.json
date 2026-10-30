@@ -18,11 +18,33 @@
     },
     "diabetes-mellitus-conhecer-para-cuidar": {
       "title": "Diabetes mellitus: conhecer para cuidar",
-      "scheduledAt": "2026-10-28T10:00:00-03:00"
+      "scheduledAt": "2026-10-28T10:00:00-03:00",
+      "facebook": {
+        "id": "1348151428388603_122107867395515666",
+        "existing": false,
+        "publishedAt": "2026-10-30T20:15:23.505Z"
+      },
+      "instagram": {
+        "id": "18373775215243125",
+        "existing": false,
+        "publishedAt": "2026-10-30T20:15:31.497Z"
+      },
+      "completedAt": "2026-10-30T20:15:31.499Z"
     },
     "acidente-com-arraia-primeiros-cuidados": {
       "title": "Acidente com arraia: primeiros cuidados",
-      "scheduledAt": "2026-10-30T10:00:00-03:00"
+      "scheduledAt": "2026-10-30T10:00:00-03:00",
+      "facebook": {
+        "id": "1348151428388603_122107867509515666",
+        "existing": false,
+        "publishedAt": "2026-10-30T20:15:35.078Z"
+      },
+      "instagram": {
+        "id": "18063047504536644",
+        "existing": false,
+        "publishedAt": "2026-10-30T20:15:48.272Z"
+      },
+      "completedAt": "2026-10-30T20:15:48.280Z"
     }
   }
 }

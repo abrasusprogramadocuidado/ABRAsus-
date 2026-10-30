@@ -124,6 +124,7 @@ if (due.length === 0) {
   process.exit(0);
 }
 
+let failures = 0;
 for (const item of due) {
   console.log(`Processando: ${item.titulo}`);
   if (dryRun) {
@@ -137,18 +138,29 @@ for (const item of due) {
   });
 
   if (!record.facebook) {
+    try {
     record.facebook = await publishFacebook(item);
     await saveState(state);
     console.log(`Facebook concluído: ${record.facebook.id}`);
+    } catch (error) {
+      failures++;
+      console.error(`Facebook: ${error.message}`);
+    }
   }
 
   if (!record.instagram) {
+    try {
     record.instagram = await publishInstagram(item);
     await saveState(state);
     console.log(`Instagram concluído: ${record.instagram.id}`);
+    } catch (error) {
+      failures++;
+      console.error(`Instagram: ${error.message}`);
+    }
   }
 
-  record.completedAt = new Date().toISOString();
+  if (record.facebook && record.instagram) record.completedAt = new Date().toISOString();
   await saveState(state);
-  console.log(`Publicação concluída nas duas redes: ${item.id}`);
+  console.log(`Processamento concluído: ${item.id}`);
 }
+if (failures) process.exitCode = 1;

@@ -27,7 +27,7 @@ jobs:
       META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
       META_PAGE_ID: ${{ vars.META_PAGE_ID }}
       META_IG_USER_ID: ${{ vars.META_IG_USER_ID }}
-      MAX_POSTS_PER_RUN: "1"
+      MAX_POSTS_PER_RUN: "21"
       DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
 
     steps:
@@ -40,7 +40,7 @@ jobs:
         run: node scripts/publish_social_media.mjs
 
       - name: Registrar a publicação concluída
-        if: env.DRY_RUN != 'true'
+        if: always() && env.DRY_RUN != 'true'
         run: |
           if git diff --quiet -- content/redes-sociais-publicadas.json; then
             echo "Nenhuma alteração de estado para registrar."

@@ -2,8 +2,10 @@ name: Publicar panfletos nas redes sociais
 
 on:
   schedule:
-    # 10:00 em Araguaína/São Paulo (UTC-3), às quartas e sextas.
+    # Mantém os 21 agendamentos anteriores: 10:00 em Araguaína/São Paulo.
     - cron: "0 13 * * 3,5"
+    # Programação principal dos 93 temas: 11:00 em Araguaína/São Paulo.
+    - cron: "0 14 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -27,7 +29,7 @@ jobs:
       META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
       META_PAGE_ID: ${{ vars.META_PAGE_ID }}
       META_IG_USER_ID: ${{ vars.META_IG_USER_ID }}
-      MAX_POSTS_PER_RUN: "21"
+      MAX_POSTS_PER_RUN: "4"
       DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
 
     steps:

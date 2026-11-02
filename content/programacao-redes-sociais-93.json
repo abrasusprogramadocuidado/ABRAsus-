@@ -1,0 +1,839 @@
+[
+  {
+    "id": "seja-bem-vindo-a-saude-que-transforma",
+    "titulo": "Seja bem-vindo à saúde que transforma",
+    "categoria": "Promoção da Saúde",
+    "dataPublicacao": "2026-11-01T11:00:00-03:00",
+    "imagemUrl": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/social/seja-bem-vindo-a-saude-que-transforma.jpg",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/seja-bem-vindo-a-saude-que-transforma.png",
+    "legendaInstagram": "Seja bem-vindo à saúde que transforma\n\nO AbraSUS é um projeto de educação em saúde do Programa de Iniciação Tecnológica do HDT. O objetivo é aproximar informação confiável da rotina das pessoas, com linguagem clara e materiais que podem ser consultados e compartilhados.\n\nOrientações práticas:\n• Acompanhe os panfletos e salve os conteúdos úteis.\n• Compartilhe informação confiável com familiares e comunidade.\n• Use o material para preparar dúvidas antes de uma consulta.\n\nProcure atendimento sem demora se:\n• Os conteúdos são educativos e não substituem avaliação profissional.\n• Em urgências, procure um serviço de saúde ou acione o SAMU 192.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #PIT #HDT #educacaoemsaude #informacaoconfiavel"
+  },
+  {
+    "id": "higiene-das-maos-um-cuidado-que-protege",
+    "titulo": "Higiene das mãos: um cuidado que protege",
+    "categoria": "Promoção da Saúde",
+    "dataPublicacao": "2026-11-03T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/higiene-das-maos-um-cuidado-que-protege.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/higiene-das-maos-um-cuidado-que-protege.webp",
+    "legendaInstagram": "Higiene das mãos: um cuidado que protege\n\nAs mãos transportam microrganismos entre pessoas, objetos, alimentos e superfícies. A higiene correta reduz infecções e protege especialmente crianças, idosos e pessoas com imunidade reduzida.\n\nOrientações práticas:\n• Use água e sabonete quando houver sujeira visível, após usar o banheiro e antes de preparar alimentos.\n• Friccione palmas, dorso, entre os dedos, unhas, polegares e punhos.\n• Álcool a 70% é uma alternativa quando as mãos não estão visivelmente sujas.\n\nProcure atendimento sem demora se:\n• Feridas, vermelhidão intensa, secreção ou dor persistente nas mãos merecem avaliação.\n• Em ambientes de cuidado, siga sempre as orientações da equipe de saúde.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #higienedasmaos #prevencaodeinfeccoes #aguaesabao #alcool70"
+  },
+  {
+    "id": "seguranca-dos-alimentos-prevencao-comeca-na-cozinha",
+    "titulo": "Segurança dos alimentos: prevenção começa na cozinha",
+    "categoria": "Promoção da Saúde",
+    "dataPublicacao": "2026-11-05T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/seguranca-dos-alimentos-prevencao-comeca-na-cozinha.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/seguranca-dos-alimentos-prevencao-comeca-na-cozinha.webp",
+    "legendaInstagram": "Segurança dos alimentos: prevenção começa na cozinha\n\nAlimentos podem transmitir microrganismos quando são mal lavados, cozidos de forma insuficiente ou conservados fora da temperatura adequada. Cuidados simples na cozinha evitam diarreia, vômitos e surtos familiares.\n\nOrientações práticas:\n• Lave as mãos, utensílios e superfícies antes de cozinhar.\n• Separe alimentos crus dos prontos para consumo.\n• Cozinhe bem carnes e ovos e refrigere sobras sem demora.\n\nProcure atendimento sem demora se:\n• Procure atendimento diante de sangue nas fezes, vômitos persistentes, pouca urina, sonolência ou sinais de desidratação.\n• Crianças pequenas, idosos, gestantes e imunossuprimidos exigem atenção mais precoce.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #segurancadosalimentos #intoxicacaoalimentar #prevencao #cozinhasegura"
+  },
+  {
+    "id": "atividade-fisica-movimento-e-saude",
+    "titulo": "Atividade física: movimento é saúde",
+    "categoria": "Promoção da Saúde",
+    "dataPublicacao": "2026-11-08T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/atividade-fisica-movimento-e-saude.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/atividade-fisica-movimento-e-saude.webp",
+    "legendaInstagram": "Atividade física: movimento é saúde\n\nMovimentar o corpo regularmente ajuda o coração, os músculos, os ossos, o sono e a saúde mental. O melhor exercício é aquele que combina com a condição de saúde e pode ser mantido com segurança.\n\nOrientações práticas:\n• Comece de forma gradual e escolha atividades prazerosas.\n• Inclua movimentos de força, equilíbrio e resistência conforme orientação.\n• Reduza longos períodos sentado e respeite seus limites.\n\nProcure atendimento sem demora se:\n• Interrompa o exercício e procure avaliação se houver dor no peito, desmaio, falta de ar intensa ou palpitação persistente.\n• Pessoas com doença crônica ou sintomas novos devem conversar com um profissional antes de aumentar muito a intensidade.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #atividadefisica #movimento #prevencao #qualidadedevida"
+  },
+  {
+    "id": "higiene-do-sono-habitos-para-dormir-melhor",
+    "titulo": "Higiene do sono: hábitos para dormir melhor",
+    "categoria": "Promoção da Saúde",
+    "dataPublicacao": "2026-11-10T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/higiene-do-sono-habitos-para-dormir-melhor.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/higiene-do-sono-habitos-para-dormir-melhor.webp",
+    "legendaInstagram": "Higiene do sono: hábitos para dormir melhor\n\nSono de qualidade participa da memória, do humor, da imunidade e do controle metabólico. Horários irregulares, telas, cafeína tarde da noite e ambiente inadequado podem dificultar o descanso.\n\nOrientações práticas:\n• Mantenha horários semelhantes para dormir e acordar.\n• Diminua luz, telas e estimulantes nas horas anteriores ao sono.\n• Deixe o quarto escuro, silencioso e confortável.\n\nProcure atendimento sem demora se:\n• Procure avaliação se ronco alto vier com pausas respiratórias, se houver sonolência perigosa durante o dia ou insônia persistente.\n• Mudanças intensas de humor e pensamentos de autoagressão exigem ajuda imediata.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #sono #higienedosono #insonia #saudemental"
+  },
+  {
+    "id": "saude-mental-cuidar-tambem-e-pedir-ajuda",
+    "titulo": "Saúde mental: cuidar também é pedir ajuda",
+    "categoria": "Promoção da Saúde",
+    "dataPublicacao": "2026-11-12T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/saude-mental-cuidar-tambem-e-pedir-ajuda.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/saude-mental-cuidar-tambem-e-pedir-ajuda.webp",
+    "legendaInstagram": "Saúde mental: cuidar também é pedir ajuda\n\nSaúde mental faz parte da saúde como um todo. Tristeza, ansiedade e sobrecarga podem acontecer, mas sofrimento intenso ou persistente não precisa ser enfrentado sozinho.\n\nOrientações práticas:\n• Converse com alguém de confiança e procure a UBS ou a Rede de Atenção Psicossocial.\n• Mantenha, quando possível, rotina de sono, alimentação, movimento e vínculos sociais.\n• Evite usar álcool ou medicamentos por conta própria para aliviar o sofrimento.\n\nProcure atendimento sem demora se:\n• Risco de autoagressão, confusão, agitação extrema ou incapacidade de se manter seguro exigem ajuda imediata.\n• Nesses casos, procure urgência, SAMU 192 ou apoio presencial de alguém de confiança.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #saudemental #acolhimento #RAPS #autocuidado #pedirajuda"
+  },
+  {
+    "id": "hipertensao-arterial-diagnostico-controle-e-cuidados",
+    "titulo": "Hipertensão arterial: diagnóstico, controle e cuidados",
+    "categoria": "Cardiologia",
+    "dataPublicacao": "2026-12-16T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/hipertensao-arterial-diagnostico-controle-e-cuidados.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/hipertensao-arterial-diagnostico-controle-e-cuidados.png",
+    "legendaInstagram": "Hipertensão arterial: diagnóstico, controle e cuidados\n\nHipertensão é a elevação persistente da pressão arterial e muitas vezes não causa sintomas. O diagnóstico não depende de uma medida isolada: exige técnica correta, repetição e avaliação profissional, podendo incluir MAPA ou MRPA.\n\nOrientações práticas:\n• Meça a pressão em repouso, com manguito adequado e braço apoiado.\n• Use os medicamentos nos horários prescritos e não interrompa por conta própria.\n• Reduza sal, mantenha atividade física e acompanhe diabetes, colesterol e peso.\n\nProcure atendimento sem demora se:\n• Dor no peito, falta de ar intensa, desmaio, fraqueza de um lado do corpo, alteração da fala ou visão exigem emergência.\n• Valores muito elevados acompanhados de sintomas precisam de avaliação imediata.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #hipertensao #pressaoalta #diagnostico #MAPA #MRPA"
+  },
+  {
+    "id": "diabetes-mellitus-conhecer-para-cuidar",
+    "titulo": "Diabetes mellitus: conhecer para cuidar",
+    "categoria": "Clínica Médica",
+    "dataPublicacao": "2026-10-28T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/diabetes-mellitus-conhecer-para-cuidar.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/diabetes-mellitus-conhecer-para-cuidar.png",
+    "legendaInstagram": "Diabetes mellitus: conhecer para cuidar\n\nDiabetes ocorre quando a glicose permanece elevada no sangue por falta de insulina ou dificuldade de seu uso. Sede excessiva, muita urina, perda de peso e visão embaçada podem aparecer, mas a doença também pode ser silenciosa.\n\nOrientações práticas:\n• Faça acompanhamento e exames conforme orientação da equipe de saúde.\n• Use corretamente os medicamentos e observe os pés todos os dias.\n• Alimentação, movimento e controle da pressão ajudam a reduzir complicações.\n\nProcure atendimento sem demora se:\n• Confusão, sonolência, vômitos repetidos, respiração alterada ou desidratação exigem urgência.\n• Ferida no pé, glicose muito baixa com alteração de consciência ou sintomas persistentes precisam de atendimento.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #diabetes #glicose #insulina #pediabetico #prevencao"
+  },
+  {
+    "id": "dislipidemia-colesterol-e-triglicerideos",
+    "titulo": "Dislipidemia: colesterol e triglicerídeos",
+    "categoria": "Cardiologia",
+    "dataPublicacao": "2026-11-22T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/dislipidemia-colesterol-e-triglicerideos.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/dislipidemia-colesterol-e-triglicerideos.webp",
+    "legendaInstagram": "Dislipidemia: colesterol e triglicerídeos\n\nCuidar das gorduras do sangue protege o coração e o cérebro. Dislipidemia é a alteração das gorduras no sangue, como colesterol e triglicerídeos. Em excesso ou fora do equilíbrio, elas favorecem placas nas artérias e aumentam o risco de infarto e AVC. LDL: quando elevado, pode se acumular nas artérias. HDL: ajuda no transporte do colesterol para eliminação.\n\nOrientações práticas:\n• Repita exames na frequência orientada.\n• Leve resultados anteriores às consultas.\n• Converse sobre efeitos adversos antes de abandonar o tratamento.\n• Crianças e adultos jovens também podem ter alterações hereditárias.\n\nProcure atendimento sem demora se:\n• Dor ou pressão no peito, suor frio, falta de ar ou desmaio.\n• Fraqueza ou dormência súbita de um lado do corpo.\n• Fala enrolada, rosto torto ou confusão repentina.\n• Dislipidemia geralmente é silenciosa, mas infarto e AVC são emergências. Ligue para o SAMU 192.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #dislipidemia"
+  },
+  {
+    "id": "eletrocardiograma-o-que-o-exame-mostra",
+    "titulo": "Eletrocardiograma: o que o exame mostra",
+    "categoria": "Cardiologia",
+    "dataPublicacao": "2026-11-24T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/eletrocardiograma-o-que-o-exame-mostra.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/eletrocardiograma-o-que-o-exame-mostra.webp",
+    "legendaInstagram": "Eletrocardiograma: o que o exame mostra\n\nUm exame rápido, seguro e sem dor. O eletrocardiograma registra os sinais elétricos que fazem o coração bater. Ele ajuda a avaliar o ritmo e pode mostrar alterações que precisam de investigação. É simples, rápido e geralmente dura poucos minutos. Não aplica choque nem corrente elétrica no corpo.\n\nOrientações práticas:\n• Em geral, não exige jejum.\n• Evite cremes ou óleos no peito no dia do exame.\n• Use roupa fácil de retirar e avise quais medicamentos utiliza.\n• Leve exames anteriores, se tiver.\n\nProcure atendimento sem demora se:\n• Dor ou aperto no peito, especialmente com suor frio ou náusea.\n• Falta de ar intensa.\n• Desmaio ou sensação de desmaio.\n• Palpitação com fraqueza intensa, confusão ou dor no peito.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #eletrocardiograma"
+  },
+  {
+    "id": "mapa-x-mrpa-qual-e-a-diferenca",
+    "titulo": "MAPA x MRPA: qual é a diferença?",
+    "categoria": "Cardiologia",
+    "dataPublicacao": "2026-11-26T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/mapa-x-mrpa-qual-e-a-diferenca.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/mapa-x-mrpa-qual-e-a-diferenca.webp",
+    "legendaInstagram": "MAPA x MRPA: qual é a diferença?\n\nEntenda a diferença entre os exames. Monitorização Ambulatorial da Pressão Arterial. Um aparelho fica preso ao corpo geralmente por 24 horas. O manguito infla automaticamente várias vezes, inclusive durante o sono.\n\nOrientações práticas:\n• A pressão pode mudar ao longo do dia e também pela ansiedade da consulta. MAPA e MRPA registram medidas no cotidiano e ajudam a confirmar o diagnóstico e avaliar o tratamento.\n• Podem identificar pressão alta só no consultório (‘avental branco’).\n• Podem revelar pressão normal na consulta, mas alta em casa (‘hipertensão mascarada’).\n\nProcure atendimento sem demora se:\n• Pressão muito alta acompanhada de dor no peito ou falta de ar.\n• Fraqueza em um lado do corpo, fala enrolada ou confusão.\n• Desmaio, convulsão ou dor de cabeça súbita e muito intensa.\n• Sintomas importantes valem mais que um número isolado. Procure emergência ou ligue 192 quando houver sinais de gravidade.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #mapa #mrpa"
+  },
+  {
+    "id": "arritmias-do-ritmo-ao-cuidado",
+    "titulo": "Arritmias: do ritmo ao cuidado",
+    "categoria": "Cardiologia",
+    "dataPublicacao": "2026-12-23T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/arritmias-do-ritmo-ao-cuidado.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/arritmias-do-ritmo-ao-cuidado.png",
+    "legendaInstagram": "Arritmias: do ritmo ao cuidado\n\nArritmia é uma alteração na frequência ou no ritmo dos batimentos. Pode causar palpitações, sensação de falha, cansaço ou tontura, mas o tipo só pode ser definido com avaliação e registro do ritmo.\n\nOrientações práticas:\n• Anote quando a palpitação começa, quanto dura e o que estava fazendo.\n• Evite automedicação e excesso de estimulantes.\n• Leve a lista de medicamentos e exames anteriores à consulta.\n\nProcure atendimento sem demora se:\n• Palpitação com dor no peito, desmaio, falta de ar intensa ou fraqueza súbita exige emergência.\n• Batimento muito acelerado ou lento com mal-estar importante também deve ser avaliado rapidamente.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #arritmia #palpitacao #ritmocardiaco #eletrocardiograma"
+  },
+  {
+    "id": "arritmias-cardiacas-tipos-e-sinais-de-alerta",
+    "titulo": "Arritmias cardíacas: tipos e sinais de alerta",
+    "categoria": "Cardiologia",
+    "dataPublicacao": "2026-12-01T11:00:00-03:00",
+    "imagemUrl": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/social/arritmias-cardiacas-tipos-e-sinais-de-alerta.jpg",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/arritmias-cardiacas-tipos-e-sinais-de-alerta.png",
+    "legendaInstagram": "Arritmias cardíacas: tipos e sinais de alerta\n\nAs arritmias podem nascer nos átrios ou ventrículos e deixar o coração rápido, lento ou irregular. Algumas são benignas; outras aumentam o risco de desmaio, insuficiência cardíaca ou AVC.\n\nOrientações práticas:\n• O eletrocardiograma registra o ritmo naquele momento; Holter e outros monitores podem ser necessários.\n• Siga o tratamento indicado e não ajuste antiarrítmicos por conta própria.\n• Controle pressão, diabetes, sono e consumo de estimulantes.\n\nProcure atendimento sem demora se:\n• Desmaio, dor no peito, falta de ar intensa, confusão ou sinais de AVC exigem atendimento imediato.\n• Procure avaliação rápida se a palpitação for prolongada ou acompanhada de fraqueza intensa.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #arritmiascardiacas #fibrilacaoatrial #taquicardia #bradicardia"
+  },
+  {
+    "id": "insuficiencia-cardiaca-sinais-cuidados-e-acompanhamento",
+    "titulo": "Insuficiência cardíaca: sinais, cuidados e acompanhamento",
+    "categoria": "Cardiologia",
+    "dataPublicacao": "2026-12-25T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/insuficiencia-cardiaca-sinais-cuidados-e-acompanhamento.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/insuficiencia-cardiaca-sinais-cuidados-e-acompanhamento.png",
+    "legendaInstagram": "Insuficiência cardíaca: sinais, cuidados e acompanhamento\n\nNa insuficiência cardíaca, o coração não consegue bombear ou receber sangue adequadamente. Falta de ar, cansaço, inchaço nas pernas e necessidade de dormir mais sentado podem indicar acúmulo de líquido.\n\nOrientações práticas:\n• Use os medicamentos exatamente como prescritos.\n• Observe peso, inchaço e piora da falta de ar.\n• Reduza sal e ajuste líquidos apenas conforme orientação da equipe.\n\nProcure atendimento sem demora se:\n• Falta de ar em repouso, lábios arroxeados, desmaio, dor no peito ou piora rápida do inchaço exigem urgência.\n• Ganho rápido de peso e redução importante da urina merecem contato precoce com a equipe.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #insuficienciacardiaca #faltadear #edema #coracao"
+  },
+  {
+    "id": "cateterismo-cardiaco-como-e-feito",
+    "titulo": "Cateterismo cardíaco: como é feito",
+    "categoria": "Cardiologia",
+    "dataPublicacao": "2026-12-18T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/cateterismo-cardiaco-como-e-feito.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/cateterismo-cardiaco-como-e-feito.png",
+    "legendaInstagram": "Cateterismo cardíaco: como é feito\n\nO cateterismo usa um tubo fino introduzido por uma artéria do punho ou da virilha para visualizar vasos do coração e medir pressões. O paciente costuma permanecer acordado, com anestesia local e monitoramento.\n\nOrientações práticas:\n• Informe alergias, gravidez, doença renal e todos os medicamentos, especialmente anticoagulantes.\n• Siga as orientações de jejum e hidratação da equipe.\n• Após o exame, mantenha o local protegido e respeite o repouso indicado.\n\nProcure atendimento sem demora se:\n• Sangramento que não para, aumento rápido de volume no local, dor no peito, falta de ar ou membro frio/pálido exigem atendimento.\n• Febre ou piora da dor no ponto de punção também precisa ser comunicada.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #cateterismo #coronariografia #contraste #procedimentocardiaco"
+  },
+  {
+    "id": "dor-no-peito-tipos-e-sinais-de-alarme",
+    "titulo": "Dor no peito: tipos e sinais de alarme",
+    "categoria": "Cardiologia",
+    "dataPublicacao": "2026-12-09T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/dor-no-peito-tipos-e-sinais-de-alarme.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/dor-no-peito-tipos-e-sinais-de-alarme.webp",
+    "legendaInstagram": "Dor no peito: tipos e sinais de alarme\n\nEntenda os tipos de dor e quando procurar emergência. Anginosa: desconforto em aperto, pressão, peso ou queimação, geralmente no centro do peito; pode surgir com esforço ou estresse e irradiar para braço, ombro, costas, pescoço ou mandíbula. Não anginosa: dor com características menos compatíveis com falta de sangue no coração, como dor localizada que piora ao apertar o local ou com certos movimentos. A aparência da dor não confirma a causa. Infarto pode ser atípico ou ocorrer sem dor forte.\n\nOrientações práticas:\n• Pare a atividade e sente-se em local seguro.\n• Ligue para o SAMU 192 ou procure emergência imediatamente.\n• Não dirija se estiver passando mal.\n• Não espere a dor melhorar e não se automedique.\n\nProcure atendimento sem demora se:\n• Dor leve, já conhecida, claramente ligada a movimento e sem sinais de alarme pode ser avaliada inicialmente em consulta.\n• Ainda assim, procure atendimento se persistir, piorar, repetir ou houver dúvida.\n• Dor nova no peito merece avaliação, especialmente em pessoas com diabetes, hipertensão, colesterol alto, tabagismo ou doença cardíaca.\n• Dor no peito súbita ou acompanhada de sinais de gravidade é emergência: SAMU 192.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #peito"
+  },
+  {
+    "id": "refluxo-gastroesofagico-sintomas-e-cuidados",
+    "titulo": "Refluxo gastroesofágico: sintomas e cuidados",
+    "categoria": "Gastroenterologia",
+    "dataPublicacao": "2026-12-13T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/refluxo-gastroesofagico-sintomas-e-cuidados.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/refluxo-gastroesofagico-sintomas-e-cuidados.webp",
+    "legendaInstagram": "Refluxo gastroesofágico: sintomas e cuidados\n\nQuando o conteúdo do estômago volta para o esôfago. Refluxo ocasional pode acontecer com muitas pessoas. DRGE é quando o refluxo causa sintomas repetidos, incômodos ou complicações. O ácido pode irritar o esôfago e, às vezes, garganta e vias respiratórias.\n\nOrientações práticas:\n• Azia ou queimação atrás do peito.\n• Gosto ácido ou comida voltando à boca.\n• Piora após refeições ou ao deitar.\n• Tosse, rouquidão ou pigarro em algumas pessoas.\n\nProcure atendimento sem demora se:\n• Dor no peito com suor frio, falta de ar ou desmaio.\n• Dificuldade progressiva ou dor para engolir.\n• Vômito com sangue ou aspecto de borra de café.\n• Fezes pretas ou sangue nas fezes.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #refluxo"
+  },
+  {
+    "id": "gastrite-o-que-e-e-como-cuidar",
+    "titulo": "Gastrite: o que é e como cuidar",
+    "categoria": "Gastroenterologia",
+    "dataPublicacao": "2026-12-15T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/gastrite-o-que-e-e-como-cuidar.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/gastrite-o-que-e-e-como-cuidar.webp",
+    "legendaInstagram": "Gastrite: o que é e como cuidar\n\nInflamação da camada interna do estômago tem diferentes causas. Gastrite é inflamação do revestimento do estômago. Gastropatia é dano da mucosa com pouca ou nenhuma inflamação. Muitas pessoas não têm sintomas.\n\nOrientações práticas:\n• Tratar a causa: H. pylori exige combinação prescrita.\n• Revisar anti-inflamatórios com a equipe.\n• Medicamentos que reduzem ácido podem ser usados quando indicados.\n• Evite álcool e gatilhos individuais.\n\nProcure atendimento sem demora se:\n• Vômito com sangue ou aspecto de borra de café.\n• Fezes pretas ou com sangue.\n• Tontura, desmaio, falta de ar ou palidez.\n• Dor súbita e muito intensa.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #gastrite"
+  },
+  {
+    "id": "antiacidos-x-ibp-entenda-a-diferenca",
+    "titulo": "Antiácidos x IBP: entenda a diferença",
+    "categoria": "Gastroenterologia",
+    "dataPublicacao": "2026-12-30T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/antiacidos-x-ibp-entenda-a-diferenca.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/antiacidos-x-ibp-entenda-a-diferenca.png",
+    "legendaInstagram": "Antiácidos x IBP: entenda a diferença\n\nUm neutraliza o ácido; o outro reduz sua produção. Neutralizam temporariamente o ácido já presente no estômago. Podem aliviar azia leve por algumas horas. Não tratam a causa e não são indicados para uso diário sem avaliação.\n\nOrientações práticas:\n• Revise periodicamente se ainda há indicação.\n• Não suspenda abruptamente tratamento longo sem orientação.\n• Informe todos os medicamentos e doenças.\n• Pessoas com doença renal, cardíaca ou dieta com pouco sódio precisam atenção a alguns antiácidos.\n\nProcure atendimento sem demora se:\n• Dor no peito com falta de ar, suor frio ou desmaio.\n• Dificuldade/dor para engolir.\n• Vômito com sangue ou fezes pretas.\n• Perda de peso, anemia ou vômitos persistentes.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #antiacidos"
+  },
+  {
+    "id": "doenca-de-crohn-sintomas-diagnostico-e-tratamento",
+    "titulo": "Doença de Crohn: sintomas, diagnóstico e tratamento",
+    "categoria": "Gastroenterologia",
+    "dataPublicacao": "2026-12-20T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/doenca-de-crohn-sintomas-diagnostico-e-tratamento.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/doenca-de-crohn-sintomas-diagnostico-e-tratamento.webp",
+    "legendaInstagram": "Doença de Crohn: sintomas, diagnóstico e tratamento\n\nPode alternar fases de crise e remissão. É uma doença inflamatória que pode atingir qualquer parte do tubo digestivo. A causa exata não é conhecida e envolve resposta imune e outros fatores. Pode afetar camadas profundas do intestino.\n\nOrientações práticas:\n• Objetiva controlar a inflamação, induzir remissão e evitar complicações.\n• Pode incluir imunomoduladores, biológicos e outros medicamentos.\n• Cirurgia pode ser necessária em obstrução, fístula, abscesso ou falha do tratamento.\n• Não interrompa o tratamento quando melhorar.\n\nProcure atendimento sem demora se:\n• Dor abdominal intensa ou barriga distendida.\n• Vômitos persistentes ou não eliminar gases/fezes.\n• Sangramento importante.\n• Febre alta, calafrios ou dor/inchaço ao redor do ânus.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #doenca #crohn"
+  },
+  {
+    "id": "cancer-colorretal-rastreamento-e-sinais-de-alarme",
+    "titulo": "Câncer colorretal: rastreamento e sinais de alarme",
+    "categoria": "Gastroenterologia",
+    "dataPublicacao": "2026-12-22T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/cancer-colorretal-rastreamento-e-sinais-de-alarme.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/cancer-colorretal-rastreamento-e-sinais-de-alarme.webp",
+    "legendaInstagram": "Câncer colorretal: rastreamento e sinais de alarme\n\nO câncer de intestino pode ser encontrado antes dos sintomas. Começa no cólon ou reto, partes do intestino grosso. Muitos tumores surgem de pólipos, que podem ser retirados. Quando detectado cedo, costuma ter maior chance de cura.\n\nOrientações práticas:\n• Mantenha peso saudável e atividade física.\n• Consuma frutas, verduras, feijões e alimentos com fibras.\n• Evite tabaco e reduza álcool.\n• Limite carnes processadas e excesso de carne vermelha.\n\nProcure atendimento sem demora se:\n• Sangramento em grande quantidade ou fezes pretas.\n• Tontura, desmaio ou fraqueza intensa.\n• Dor abdominal forte, vômitos ou barriga distendida.\n• Não conseguir evacuar/eliminar gases.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #cancer #colorretal"
+  },
+  {
+    "id": "cancer-colorretal-exames-prevencao-e-investigacao",
+    "titulo": "Câncer colorretal: exames, prevenção e investigação",
+    "categoria": "Gastroenterologia",
+    "dataPublicacao": "2026-12-24T11:00:00-03:00",
+    "imagemUrl": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/social/cancer-colorretal-exames-prevencao-e-investigacao.jpg",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/cancer-colorretal-exames-prevencao-e-investigacao.png",
+    "legendaInstagram": "Câncer colorretal: exames, prevenção e investigação\n\nO câncer de intestino pode ser encontrado antes dos sintomas. Começa no cólon ou reto, partes do intestino grosso. Muitos tumores surgem de pólipos, que podem ser retirados. Quando detectado cedo, costuma ter maior chance de cura.\n\nOrientações práticas:\n• Mantenha peso saudável e atividade física.\n• Consuma frutas, verduras, feijões e alimentos com fibras.\n• Evite tabaco e reduza álcool.\n• Limite carnes processadas e excesso de carne vermelha.\n\nProcure atendimento sem demora se:\n• Sangramento em grande quantidade ou fezes pretas.\n• Tontura, desmaio ou fraqueza intensa.\n• Dor abdominal forte, vômitos ou barriga distendida.\n• Não conseguir evacuar/eliminar gases.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #cancer #colorretal"
+  },
+  {
+    "id": "hernias-como-reconhecer-e-quando-procurar-ajuda",
+    "titulo": "Hérnias: como reconhecer e quando procurar ajuda",
+    "categoria": "Cirurgia",
+    "dataPublicacao": "2026-12-27T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/hernias-como-reconhecer-e-quando-procurar-ajuda.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/hernias-como-reconhecer-e-quando-procurar-ajuda.webp",
+    "legendaInstagram": "Hérnias: como reconhecer e quando procurar ajuda\n\nPode aparecer na virilha, umbigo ou cicatriz de cirurgia. Gordura ou intestino atravessa um ponto fraco da parede abdominal. O abaulamento pode aumentar ao tossir, fazer força ou ficar em pé. Pode diminuir ao deitar.\n\nOrientações práticas:\n• Evite esforço que provoque dor até avaliação.\n• Trate tosse e prisão de ventre.\n• Não force um caroço doloroso para dentro.\n• Mantenha peso saudável e pare de fumar.\n\nProcure atendimento sem demora se:\n• Caroço duro, muito doloroso e que não reduz.\n• Pele vermelha, arroxeada ou escura sobre a hérnia.\n• Vômitos, barriga distendida ou dor abdominal forte.\n• Não eliminar gases ou fezes.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #hernias"
+  },
+  {
+    "id": "apendicite-sinais-e-atendimento-rapido",
+    "titulo": "Apendicite: sinais e atendimento rápido",
+    "categoria": "Cirurgia",
+    "dataPublicacao": "2026-12-30T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/apendicite-sinais-e-atendimento-rapido.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/apendicite-sinais-e-atendimento-rapido.webp",
+    "legendaInstagram": "Apendicite: sinais e atendimento rápido\n\nA inflamação do apêndice pode perfurar sem tratamento. Inflamação do apêndice, pequena estrutura ligada ao intestino grosso. Pode bloquear, inchar e infeccionar. Sem tratamento, pode perfurar e espalhar infecção.\n\nOrientações práticas:\n• Cirurgia para retirar o apêndice é comum.\n• Antibióticos fazem parte do tratamento.\n• Alguns casos selecionados podem ser tratados sem cirurgia.\n• A equipe decide conforme gravidade e exames.\n\nProcure atendimento sem demora se:\n• Dor abdominal forte ou que piora por horas.\n• Rigidez da barriga ou dor ao mínimo movimento.\n• Febre alta, confusão ou fraqueza intensa.\n• Vômitos repetidos ou desidratação.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #apendicite"
+  },
+  {
+    "id": "complicacoes-pos-operatorias-sinais-de-alerta",
+    "titulo": "Complicações pós-operatórias: sinais de alerta",
+    "categoria": "Cirurgia",
+    "dataPublicacao": "2027-01-03T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/complicacoes-pos-operatorias-sinais-de-alerta.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/complicacoes-pos-operatorias-sinais-de-alerta.webp",
+    "legendaInstagram": "Complicações pós-operatórias: sinais de alerta\n\nDor leve e cansaço podem ocorrer, mas piora progressiva não é esperada. Dor controlável e que melhora aos poucos. Pequeno inchaço ou roxo perto da incisão. Cansaço e apetite reduzido por curto período.\n\nOrientações práticas:\n• Mantenha limpa e seca conforme instrução.\n• Lave as mãos antes e depois de tocar.\n• Não retire pontos ou cola.\n• Não aplique pomada sem prescrição.\n\nProcure atendimento sem demora se:\n• Falta de ar, dor no peito ou tosse com sangue.\n• Desmaio, confusão ou palidez intensa.\n• Sangramento volumoso.\n• Perna subitamente inchada e dolorosa.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #complicacoes #posoperatorias"
+  },
+  {
+    "id": "curativos-e-feridas-cuidados-e-sinais-de-infeccao",
+    "titulo": "Curativos e feridas: cuidados e sinais de infecção",
+    "categoria": "Cirurgia",
+    "dataPublicacao": "2027-01-05T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/curativos-e-feridas-cuidados-e-sinais-de-infeccao.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/curativos-e-feridas-cuidados-e-sinais-de-infeccao.webp",
+    "legendaInstagram": "Curativos e feridas: cuidados e sinais de infecção\n\nNem toda ferida deve ser fechada imediatamente. Ferida recente, limpa e com bordas aproximáveis pode ser suturada/colada. A equipe avalia profundidade, local e tempo. Feridas cirúrgicas limpas costumam fechar por primeira intenção.\n\nOrientações práticas:\n• Lave as mãos.\n• Controle sangramento com pressão direta.\n• Irrigue com água limpa/soro e retire sujeira superficial.\n• Cubra com material limpo que não grude.\n\nProcure atendimento sem demora se:\n• Sangramento que não para com pressão.\n• Ferida profunda, extensa, sobre articulação ou com perda de sensibilidade.\n• Mordida humana/animal ou objeto sujo/enferrujado.\n• Corpo estranho, tendão/osso visível ou movimento comprometido.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #curativo #ideal"
+  },
+  {
+    "id": "videolaparoscopia-pequenas-incisoes-visao-ampliada",
+    "titulo": "Videolaparoscopia: pequenas incisões, visão ampliada",
+    "categoria": "Cirurgia",
+    "dataPublicacao": "2027-01-07T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/videolaparoscopia-pequenas-incisoes-visao-ampliada.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/videolaparoscopia-pequenas-incisoes-visao-ampliada.webp",
+    "legendaInstagram": "Videolaparoscopia: pequenas incisões, visão ampliada\n\nUma câmera e instrumentos finos permitem ver e operar o abdome. Técnica também chamada de laparoscopia ou cirurgia por vídeo. Pode servir para diagnosticar e tratar. Uma câmera transmite imagens ampliadas para um monitor.\n\nOrientações práticas:\n• Geralmente sob anestesia geral.\n• Faz-se uma pequena incisão perto do umbigo.\n• Outras pequenas incisões recebem os instrumentos.\n• O cirurgião opera olhando o monitor.\n\nProcure atendimento sem demora se:\n• Sangramento, infecção, trombose e reação à anestesia podem ocorrer.\n• Raramente há lesão de órgão ou necessidade de converter para cirurgia aberta.\n• Procure urgência por falta de ar, dor intensa, febre ou desmaio.\n• Vômitos persistentes, barriga muito inchada ou ferida com pus também alertam.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #videolaparoscopia"
+  },
+  {
+    "id": "queimaduras-primeiros-cuidados-e-quando-buscar-ajuda",
+    "titulo": "Queimaduras: primeiros cuidados e quando buscar ajuda",
+    "categoria": "Cirurgia",
+    "dataPublicacao": "2027-01-10T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/queimaduras-primeiros-cuidados-e-quando-buscar-ajuda.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/queimaduras-primeiros-cuidados-e-quando-buscar-ajuda.webp",
+    "legendaInstagram": "Queimaduras: primeiros cuidados e quando buscar ajuda\n\nCalor, eletricidade e produtos químicos podem queimar. Afaste a pessoa da fonte sem se colocar em risco. Desligue a eletricidade antes de tocar. Retire roupa e joias próximas se não estiverem grudadas.\n\nOrientações práticas:\n• Coloque a área sob água corrente fresca.\n• Faça isso o quanto antes.\n• Evite água muito fria em áreas extensas.\n• Cubra depois com pano limpo ou curativo não aderente.\n\nProcure atendimento sem demora se:\n• Fumaça, rouquidão, tosse preta ou dificuldade para respirar.\n• Área extensa, circular ou pele branca, marrom ou carbonizada.\n• Choque elétrico de alta tensão.\n• Confusão, desmaio ou sinais de choque.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #queimaduras"
+  },
+  {
+    "id": "hidratacao-quanta-agua-beber-por-dia",
+    "titulo": "Hidratação: quanta água beber por dia?",
+    "categoria": "Promoção da Saúde",
+    "dataPublicacao": "2027-01-12T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/hidratacao-quanta-agua-beber-por-dia.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/hidratacao-quanta-agua-beber-por-dia.webp",
+    "legendaInstagram": "Hidratação: quanta água beber por dia?\n\nDois litros podem ser suficientes para alguns e inadequados para outros. Depende de idade, peso, alimentação e atividade física. Clima quente e exercício aumentam as perdas. Febre, vômitos, diarreia, gestação e amamentação mudam a necessidade.\n\nOrientações práticas:\n• Beba ao longo do dia, antes de sentir sede intensa.\n• Tenha uma garrafa ou copo acessível.\n• Observe sede, boca seca, calor, atividade e quantidade de urina.\n• Prefira água a bebidas açucaradas.\n\nProcure atendimento sem demora se:\n• Sede intensa persistente com muita urina.\n• Pouca urina apesar de beber líquidos.\n• Confusão, desmaio ou convulsão.\n• Inchaço ou falta de ar.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #quanta #agua #beber"
+  },
+  {
+    "id": "dengue-sinais-de-alarme-e-quando-procurar-ajuda",
+    "titulo": "Dengue: sinais de alarme e quando procurar ajuda",
+    "categoria": "Infectologia",
+    "dataPublicacao": "2027-01-14T11:00:00-03:00",
+    "imagemUrl": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/social/dengue-sinais-de-alarme-e-quando-procurar-ajuda.jpg",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/dengue-sinais-de-alarme-e-quando-procurar-ajuda.png",
+    "legendaInstagram": "Dengue: sinais de alarme e quando procurar ajuda\n\nDoença transmitida pelo mosquito aedes aegypti. A fêmea infectada do Aedes aegypti transmite pela picada. Não passa por abraço, beijo, talheres ou convivência. A pessoa pode ter dengue mais de uma vez.\n\nOrientações práticas:\n• Descanse e beba líquidos com frequência.\n• Use soro de reidratação quando orientado.\n• Tome somente medicamentos liberados pela equipe.\n• Retorne na data indicada mesmo se a febre baixar.\n\nProcure atendimento sem demora se:\n• Dor abdominal intensa e contínua.\n• Vômitos frequentes.\n• Sangramento, tontura ou desmaio.\n• Sonolência, irritabilidade ou fraqueza intensa.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #dengue"
+  },
+  {
+    "id": "dengue-prevencao-reconhecimento-e-cuidado",
+    "titulo": "Dengue: prevenção, reconhecimento e cuidado",
+    "categoria": "Infectologia",
+    "dataPublicacao": "2027-01-17T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/dengue-prevencao-reconhecimento-e-cuidado.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/dengue-prevencao-reconhecimento-e-cuidado.webp",
+    "legendaInstagram": "Dengue: prevenção, reconhecimento e cuidado\n\nDoença transmitida pelo mosquito aedes aegypti. A fêmea infectada do Aedes aegypti transmite pela picada. Não passa por abraço, beijo, talheres ou convivência. A pessoa pode ter dengue mais de uma vez.\n\nOrientações práticas:\n• Descanse e beba líquidos com frequência.\n• Use soro de reidratação quando orientado.\n• Tome somente medicamentos liberados pela equipe.\n• Retorne na data indicada mesmo se a febre baixar.\n\nProcure atendimento sem demora se:\n• Dor abdominal intensa e contínua.\n• Vômitos frequentes.\n• Sangramento, tontura ou desmaio.\n• Sonolência, irritabilidade ou fraqueza intensa.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #dengue"
+  },
+  {
+    "id": "chikungunya-sintomas-transmissao-e-prevencao",
+    "titulo": "Chikungunya: sintomas, transmissão e prevenção",
+    "categoria": "Infectologia",
+    "dataPublicacao": "2027-01-20T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/chikungunya-sintomas-transmissao-e-prevencao.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/chikungunya-sintomas-transmissao-e-prevencao.webp",
+    "legendaInstagram": "Chikungunya: sintomas, transmissão e prevenção\n\nChikungunya é transmitida pelo mosquito Aedes e costuma causar febre e dor intensa nas articulações. Em algumas pessoas, a dor pode persistir por semanas ou meses.\n\nOrientações práticas:\n• Hidrate-se, descanse e procure avaliação para confirmar o diagnóstico.\n• Não use medicamentos por conta própria, especialmente antes de excluir dengue.\n• Elimine água parada e use proteção contra picadas.\n\nProcure atendimento sem demora se:\n• Sonolência, falta de ar, dor no peito, vômitos persistentes, pouca urina ou piora importante exigem atendimento.\n• Recém-nascidos, idosos, gestantes e pessoas com doenças crônicas merecem avaliação precoce.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #chikungunya #Aedesaegypti #dorarticular #prevencao"
+  },
+  {
+    "id": "zika-transmissao-prevencao-e-cuidados",
+    "titulo": "Zika: transmissão, prevenção e cuidados",
+    "categoria": "Infectologia",
+    "dataPublicacao": "2027-01-24T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/zika-transmissao-prevencao-e-cuidados.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/zika-transmissao-prevencao-e-cuidados.webp",
+    "legendaInstagram": "Zika: transmissão, prevenção e cuidados\n\nZika é uma infecção viral transmitida principalmente pelo Aedes. Pode causar manchas, coceira, febre baixa e olhos vermelhos; na gestação, exige atenção especial pelo risco ao bebê.\n\nOrientações práticas:\n• Procure orientação, especialmente durante a gestação.\n• Use repelente adequado, roupas que cubram a pele e elimine criadouros.\n• Utilize preservativo, pois também pode ocorrer transmissão sexual.\n\nProcure atendimento sem demora se:\n• Fraqueza progressiva, dificuldade para respirar, sinais neurológicos ou piora importante exigem urgência.\n• Gestantes com suspeita devem contatar o pré-natal sem demora.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #zika #Aedesaegypti #gestacao #prevencao"
+  },
+  {
+    "id": "febre-amarela-vacinacao-e-prevencao",
+    "titulo": "Febre amarela: vacinação e prevenção",
+    "categoria": "Infectologia",
+    "dataPublicacao": "2027-01-26T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/febre-amarela-vacinacao-e-prevencao.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/febre-amarela-vacinacao-e-prevencao.webp",
+    "legendaInstagram": "Febre amarela: vacinação e prevenção\n\nFebre amarela é transmitida por mosquitos em áreas de circulação do vírus; não passa de pessoa para pessoa. A vacinação é a principal forma de prevenção para quem tem indicação.\n\nOrientações práticas:\n• Mantenha a situação vacinal atualizada conforme o calendário e a área de risco.\n• Use repelente, telas e roupas protetoras em áreas de exposição.\n• Informe à equipe de saúde se estiver grávida, imunossuprimido ou tiver alergias antes de vacinar.\n\nProcure atendimento sem demora se:\n• Febre com pele ou olhos amarelados, sangramento, vômitos persistentes ou redução da urina exige atendimento imediato.\n• Não se automedique com anti-inflamatórios diante de suspeita.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #febreamarela #vacinacao #mosquitos #prevencao"
+  },
+  {
+    "id": "acidente-ofidico-o-que-fazer-apos-uma-picada",
+    "titulo": "Acidente ofídico: o que fazer após uma picada",
+    "categoria": "Clínica Médica",
+    "dataPublicacao": "2026-10-26T22:20:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/acidente-ofidico-o-que-fazer-apos-uma-picada.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/acidente-ofidico-o-que-fazer-apos-uma-picada.png",
+    "legendaInstagram": "Acidente ofídico: o que fazer após uma picada\n\nPicada de serpente pode causar dor, inchaço, sangramento, alterações neurológicas ou musculares. O soro correto depende do tipo de acidente e deve ser administrado em serviço de saúde.\n\nOrientações práticas:\n• Lave o local com água e sabão, mantenha a pessoa em repouso e procure atendimento imediatamente.\n• Retire anéis, pulseiras ou objetos apertados do membro.\n• Se for seguro, fotografe o animal sem tentar capturá-lo.\n\nProcure atendimento sem demora se:\n• Não faça torniquete, cortes, sucção nem aplique substâncias caseiras.\n• Inchaço progressivo, sangramento, vômitos, visão dupla, fraqueza ou urina escura indicam gravidade.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #acidenteofidico #serpente #soroantiofidico #primeirossocorros"
+  },
+  {
+    "id": "animais-peconhentos-prevencao-e-reconhecimento",
+    "titulo": "Animais peçonhentos: prevenção e reconhecimento",
+    "categoria": "Clínica Médica",
+    "dataPublicacao": "2027-01-31T11:00:00-03:00",
+    "imagemUrl": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/social/animais-peconhentos-prevencao-e-reconhecimento.jpg",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/animais-peconhentos-prevencao-e-reconhecimento.png",
+    "legendaInstagram": "Animais peçonhentos: prevenção e reconhecimento\n\nAnimais peçonhentos injetam toxinas por ferrões, presas ou estruturas semelhantes. Serpentes, escorpiões, aranhas, abelhas e algumas lagartas podem causar acidentes relevantes.\n\nOrientações práticas:\n• Use calçados e luvas em áreas de risco e sacuda roupas e sapatos antes de usar.\n• Mantenha quintais limpos e vede frestas.\n• Após um acidente, lave o local e procure orientação rapidamente.\n\nProcure atendimento sem demora se:\n• Falta de ar, vômitos, suor intenso, sonolência, sangramento ou dor/inchaço progressivos exigem urgência.\n• Crianças pequenas e idosos devem ser avaliados precocemente.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #animaispeconhentos #escorpiao #aranha #serpente #prevencao"
+  },
+  {
+    "id": "acidente-com-arraia-primeiros-cuidados",
+    "titulo": "Acidente com arraia: primeiros cuidados",
+    "categoria": "Clínica Médica",
+    "dataPublicacao": "2026-10-30T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/acidente-com-arraia-primeiros-cuidados.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/acidente-com-arraia-primeiros-cuidados.png",
+    "legendaInstagram": "Acidente com arraia: primeiros cuidados\n\nO ferrão da arraia causa ferida dolorosa, pode deixar fragmentos e aumentar o risco de infecção. A dor costuma ser intensa e o ferimento precisa ser avaliado.\n\nOrientações práticas:\n• Saia da água com segurança, lave o local e procure atendimento.\n• Água morna suportável pode ajudar na dor enquanto se busca cuidado.\n• Mantenha a vacinação contra tétano atualizada.\n\nProcure atendimento sem demora se:\n• Não corte, não sugue e não tente retirar fragmentos profundos.\n• Sangramento intenso, desmaio, falta de ar, ferida no tórax/abdome ou dor persistente exigem emergência.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #acidentecomarraia #ferimento #primeirossocorros #tetano"
+  },
+  {
+    "id": "choque-anafilatico-reconhecer-para-agir-rapido",
+    "titulo": "Choque anafilático: reconhecer para agir rápido",
+    "categoria": "Clínica Médica",
+    "dataPublicacao": "2026-11-13T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/choque-anafilatico-reconhecer-para-agir-rapido.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/choque-anafilatico-reconhecer-para-agir-rapido.png",
+    "legendaInstagram": "Choque anafilático: reconhecer para agir rápido\n\nAnafilaxia é uma reação alérgica grave e rápida. Pode ocorrer após alimentos, medicamentos, picadas ou outras exposições e comprometer respiração e circulação.\n\nOrientações práticas:\n• Afaste o possível gatilho quando for seguro e acione o SAMU 192.\n• Se a pessoa possui autoinjetor de adrenalina prescrito, use conforme o plano médico.\n• Mantenha a pessoa deitada, salvo dificuldade respiratória ou vômitos.\n\nProcure atendimento sem demora se:\n• Inchaço de língua ou garganta, chiado, falta de ar, desmaio, pressão baixa ou urticária generalizada com outros sintomas são emergência.\n• Não espere a reação passar sozinha.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #anafilaxia #alergiagrave #adrenalina #emergencia"
+  },
+  {
+    "id": "sepse-sinais-de-alerta-e-atendimento-urgente",
+    "titulo": "Sepse: sinais de alerta e atendimento urgente",
+    "categoria": "Clínica Médica",
+    "dataPublicacao": "2026-11-18T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/sepse-sinais-de-alerta-e-atendimento-urgente.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/sepse-sinais-de-alerta-e-atendimento-urgente.png",
+    "legendaInstagram": "Sepse: sinais de alerta e atendimento urgente\n\nSepse acontece quando a resposta do organismo a uma infecção começa a comprometer órgãos. Pode surgir a partir de infecções pulmonares, urinárias, abdominais, de pele e de outros locais.\n\nOrientações práticas:\n• Procure avaliação se uma infecção vier acompanhada de piora geral importante.\n• Informe doenças, medicamentos, cirurgias recentes e quando os sintomas começaram.\n• Não adie atendimento esperando apenas a febre baixar.\n\nProcure atendimento sem demora se:\n• Confusão, respiração rápida ou difícil, pressão baixa, pele fria/manchada, pouca urina ou sonolência intensa exigem emergência.\n• Idosos e imunossuprimidos podem ter sepse mesmo sem febre alta.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #sepse #infeccao #sinaisdealerta #emergencia"
+  },
+  {
+    "id": "erisipela-e-celulite-infeccoes-da-pele",
+    "titulo": "Erisipela e celulite: infecções da pele",
+    "categoria": "Clínica Médica",
+    "dataPublicacao": "2026-11-11T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/erisipela-e-celulite-infeccoes-da-pele.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/erisipela-e-celulite-infeccoes-da-pele.png",
+    "legendaInstagram": "Erisipela e celulite: infecções da pele\n\nInfecções costumam ser quentes, dolorosas e podem se espalhar. Infecção bacteriana mais superficial da pele. Placa vermelha, quente, dolorosa e inchada. A borda costuma ser mais nítida e elevada.\n\nOrientações práticas:\n• Infecção de camadas mais profundas da pele e tecido abaixo dela.\n• Vermelhidão tende a ter bordas menos definidas.\n• Causa calor, dor e inchaço.\n• Pode aumentar rapidamente.\n\nProcure atendimento sem demora se:\n• Vermelhidão nova que cresce, dói ou aquece.\n• Inchaço persistente de uma perna.\n• Mancha com dormência ou fraqueza.\n• Ferida, secreção ou mau cheiro.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #erisipela #celulite #outra #marca"
+  },
+  {
+    "id": "infeccao-do-trato-urinario-sintomas-e-cuidados",
+    "titulo": "Infecção do trato urinário: sintomas e cuidados",
+    "categoria": "Clínica Médica",
+    "dataPublicacao": "2026-11-04T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/infeccao-do-trato-urinario-sintomas-e-cuidados.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/infeccao-do-trato-urinario-sintomas-e-cuidados.png",
+    "legendaInstagram": "Infecção do trato urinário: sintomas e cuidados\n\nInfecção urinária pode causar ardor, urgência, aumento da frequência e dor na parte baixa do abdome. Febre e dor nas costas podem indicar acometimento dos rins.\n\nOrientações práticas:\n• Procure avaliação para confirmar a causa e definir se precisa de antibiótico.\n• Beba líquidos conforme sua condição de saúde.\n• Não use antibiótico guardado nem interrompa o tratamento prescrito.\n\nProcure atendimento sem demora se:\n• Febre, calafrios, vômitos, dor lombar, confusão, gravidez ou piora rápida exigem avaliação precoce.\n• Pouca urina ou mal-estar intenso precisa de atendimento imediato.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #infeccaourinaria #ITU #ardoraourinar #antibioticos"
+  },
+  {
+    "id": "febre-sinais-de-alarme-medicamentos-e-cuidados",
+    "titulo": "Febre: sinais de alarme, medicamentos e cuidados",
+    "categoria": "Clínica Médica",
+    "dataPublicacao": "2026-11-06T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/febre-sinais-de-alarme-medicamentos-e-cuidados.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/febre-sinais-de-alarme-medicamentos-e-cuidados.png",
+    "legendaInstagram": "Febre: sinais de alarme, medicamentos e cuidados\n\nFebre é um sinal do organismo, não uma doença isolada. O contexto, a duração, a idade e os sintomas associados ajudam a identificar a causa e a gravidade.\n\nOrientações práticas:\n• Meça a temperatura, mantenha hidratação e observe a evolução.\n• Use antitérmicos apenas na dose e no intervalo orientados.\n• Não alterne remédios nem use antibiótico por conta própria.\n\nProcure atendimento sem demora se:\n• Rigidez na nuca, falta de ar, confusão, convulsão, manchas arroxeadas, desidratação ou piora intensa exigem urgência.\n• Bebês pequenos, gestantes, idosos e imunossuprimidos precisam de avaliação mais precoce.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #febre #antitermicos #sinaisdealarme #hidratacao"
+  },
+  {
+    "id": "febre-como-identificar-e-quando-procurar-atendimento",
+    "titulo": "Febre: como identificar e quando procurar atendimento",
+    "categoria": "Clínica Médica",
+    "dataPublicacao": "2027-02-18T11:00:00-03:00",
+    "imagemUrl": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/social/febre-como-identificar-e-quando-procurar-atendimento.jpg",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/febre-como-identificar-e-quando-procurar-atendimento.png",
+    "legendaInstagram": "Febre: como identificar e quando procurar atendimento\n\nA sensação de estar quente não substitui a medida com termômetro. A febre pode acompanhar infecções e outras condições, e deve ser interpretada junto com o estado geral da pessoa.\n\nOrientações práticas:\n• Registre temperatura, horários e sintomas associados.\n• Ofereça líquidos e roupas leves; evite banhos gelados.\n• Procure orientação se a febre persistir ou não houver causa clara.\n\nProcure atendimento sem demora se:\n• Sonolência difícil de despertar, confusão, convulsão, dificuldade para respirar, manchas roxas ou incapacidade de beber líquidos exigem emergência.\n• Recém-nascidos com febre devem ser avaliados imediatamente.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #febre #termometro #sinaisdealerta #quandoprocuraratendimento"
+  },
+  {
+    "id": "dpoc-respiracao-prevencao-e-tratamento",
+    "titulo": "DPOC: respiração, prevenção e tratamento",
+    "categoria": "Pneumologia",
+    "dataPublicacao": "2027-02-21T11:00:00-03:00",
+    "imagemUrl": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/social/dpoc-respiracao-prevencao-e-tratamento.jpg",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/dpoc-respiracao-prevencao-e-tratamento.png",
+    "legendaInstagram": "DPOC: respiração, prevenção e tratamento\n\nDPOC causa limitação persistente do fluxo de ar, geralmente relacionada ao tabagismo ou exposição prolongada a fumaças e poeiras. Tosse, catarro e falta de ar aos esforços podem piorar com o tempo.\n\nOrientações práticas:\n• Parar de fumar é a medida mais importante.\n• Use inaladores com a técnica ensinada e mantenha vacinas e acompanhamento em dia.\n• Atividade física e reabilitação pulmonar podem melhorar a capacidade funcional.\n\nProcure atendimento sem demora se:\n• Falta de ar em repouso, lábios arroxeados, confusão, febre alta ou dificuldade para falar frases exigem urgência.\n• Aumento súbito do catarro ou mudança de cor merece avaliação.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #DPOC #tabagismo #faltadear #inaladores"
+  },
+  {
+    "id": "asma-controle-crises-e-sinais-de-alerta",
+    "titulo": "Asma: controle, crises e sinais de alerta",
+    "categoria": "Pneumologia",
+    "dataPublicacao": "2026-11-25T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/asma-controle-crises-e-sinais-de-alerta.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/asma-controle-crises-e-sinais-de-alerta.png",
+    "legendaInstagram": "Asma: controle, crises e sinais de alerta\n\nAsma é uma inflamação crônica das vias aéreas que causa chiado, aperto no peito, tosse e falta de ar. Os sintomas variam e podem piorar à noite, com exercício, infecções ou exposição a gatilhos.\n\nOrientações práticas:\n• Use o controlador e o alívio conforme o plano prescrito.\n• Confira a técnica do inalador e reconheça seus gatilhos.\n• Mantenha acompanhamento mesmo quando estiver sem sintomas.\n\nProcure atendimento sem demora se:\n• Dificuldade para falar, lábios arroxeados, sonolência, esforço intenso para respirar ou pouca resposta ao remédio de alívio exigem emergência.\n• Crises repetidas indicam controle inadequado e precisam de revisão.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #asma #chiado #bombinha #crisedeasma"
+  },
+  {
+    "id": "tosse-causas-comuns-e-sinais-de-alerta",
+    "titulo": "Tosse: causas comuns e sinais de alerta",
+    "categoria": "Pneumologia",
+    "dataPublicacao": "2026-12-02T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/tosse-causas-comuns-e-sinais-de-alerta.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/tosse-causas-comuns-e-sinais-de-alerta.webp",
+    "legendaInstagram": "Tosse: causas comuns e sinais de alerta\n\nTosse é um reflexo de proteção e pode ocorrer em resfriados, alergias, asma, refluxo, uso de medicamentos e outras doenças. A duração e os sintomas associados ajudam na investigação.\n\nOrientações práticas:\n• Hidrate-se, evite fumaça e observe se a tosse é seca ou com secreção.\n• Não use antibióticos ou xaropes por conta própria.\n• Procure avaliação se durar semanas ou estiver piorando.\n\nProcure atendimento sem demora se:\n• Sangue no escarro, falta de ar, dor no peito, febre persistente, perda de peso ou queda do estado geral exigem avaliação rápida.\n• Engasgo súbito com dificuldade respiratória é emergência.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #tosse #sinaisdealerta #viasaereas #pneumologia"
+  },
+  {
+    "id": "falta-de-ar-causas-e-quando-procurar-ajuda",
+    "titulo": "Falta de ar: causas e quando procurar ajuda",
+    "categoria": "Pneumologia",
+    "dataPublicacao": "2026-11-20T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/falta-de-ar-causas-e-quando-procurar-ajuda.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/falta-de-ar-causas-e-quando-procurar-ajuda.png",
+    "legendaInstagram": "Falta de ar: causas e quando procurar ajuda\n\nFalta de ar pode vir dos pulmões, do coração, do sangue, de infecções ou de outras condições. O início, os gatilhos e os sintomas associados orientam a investigação.\n\nOrientações práticas:\n• Interrompa o esforço e fique em posição confortável.\n• Use somente medicamentos já prescritos para essa situação.\n• Observe início, duração, chiado, febre, dor e inchaço.\n\nProcure atendimento sem demora se:\n• Falta de ar súbita ou em repouso, lábios arroxeados, dor no peito, desmaio, confusão ou incapacidade de falar frases exige emergência.\n• Acione o SAMU 192 se houver piora rápida.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #faltadear #dispneia #sinaisdegravidade #emergencia"
+  },
+  {
+    "id": "ciclo-menstrual-fases-e-variacoes",
+    "titulo": "Ciclo menstrual: fases e variações",
+    "categoria": "Ginecologia e Obstetrícia",
+    "dataPublicacao": "2027-03-03T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/ciclo-menstrual-fases-e-variacoes.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/ciclo-menstrual-fases-e-variacoes.webp",
+    "legendaInstagram": "Ciclo menstrual: fases e variações\n\nO ciclo é contado do primeiro dia de uma menstruação ao primeiro dia da próxima. Hormônios preparam o ovário e o útero para uma possível gravidez. Ovulação é a liberação do óvulo. Sem gravidez, o revestimento do útero descama: é a menstruação.\n\nOrientações práticas:\n• Anote início e fim do sangramento.\n• Registre intensidade, coágulos e escapes.\n• Observe cólica, tontura, cansaço e humor.\n• Leve o registro às consultas.\n\nProcure atendimento sem demora se:\n• Encharcar absorventes repetidamente em pouco tempo.\n• Desmaio, falta de ar, palidez ou fraqueza intensa.\n• Dor pélvica súbita e muito forte.\n• Atraso menstrual com dor e sangramento.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #ciclo #menstrual"
+  },
+  {
+    "id": "ciclo-menstrual-x-metodos-contraceptivos",
+    "titulo": "Ciclo menstrual x métodos contraceptivos",
+    "categoria": "Ginecologia e Obstetrícia",
+    "dataPublicacao": "2027-03-07T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/ciclo-menstrual-x-metodos-contraceptivos.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/ciclo-menstrual-x-metodos-contraceptivos.webp",
+    "legendaInstagram": "Ciclo menstrual x métodos contraceptivos\n\nEficácia, saúde, preferências e possibilidade de gravidez futura importam. DIU de cobre, implante e métodos hormonais. Pílulas e injetáveis. Preservativos internos e externos.\n\nOrientações práticas:\n• Métodos que não dependem de lembrar todo dia costumam ser mais eficazes.\n• A pílula perde eficácia com esquecimentos.\n• Camisinha pode falhar se usada incorretamente.\n• Tabelinha é menos confiável quando o ciclo varia.\n\nProcure atendimento sem demora se:\n• Dor no peito, falta de ar ou tosse com sangue.\n• Inchaço e dor súbitos em uma perna.\n• Dor de cabeça nova e intensa com alteração visual ou fraqueza.\n• Dor abdominal forte, desmaio ou atraso com sangramento.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #metodos #contraceptivos"
+  },
+  {
+    "id": "corrimentos-vaginais-o-que-e-normal-e-quando-procurar-ajuda",
+    "titulo": "Corrimentos vaginais: o que é normal e quando procurar ajuda",
+    "categoria": "Ginecologia e Obstetrícia",
+    "dataPublicacao": "2027-03-09T11:00:00-03:00",
+    "imagemUrl": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/social/corrimentos-vaginais-o-que-e-normal-e-quando-procurar-ajuda.jpg",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/corrimentos-vaginais-o-que-e-normal-e-quando-procurar-ajuda.png",
+    "legendaInstagram": "Corrimentos vaginais: o que é normal e quando procurar ajuda\n\nObserve mudanças de cor, odor e sintomas associados. Secreção clara ou esbranquiçada, sem cheiro forte. Pode variar ao longo do ciclo, gravidez ou excitação. Não costuma causar coceira, ardor, dor ou feridas.\n\nOrientações práticas:\n• Lave apenas a parte externa com água e produto suave.\n• Mantenha a região seca e troque roupa úmida.\n• Use preservativo interno ou externo.\n• Se houver suspeita de IST, parceiros podem precisar de avaliação.\n\nProcure atendimento sem demora se:\n• Corrimento novo, persistente ou recorrente.\n• Mau cheiro, coceira ou dor.\n• Sintomas após relação sem preservativo.\n• Durante a gestação.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #corrimentos #vaginais"
+  },
+  {
+    "id": "corrimentos-vaginais-causas-prevencao-e-tratamento",
+    "titulo": "Corrimentos vaginais: causas, prevenção e tratamento",
+    "categoria": "Ginecologia e Obstetrícia",
+    "dataPublicacao": "2027-03-11T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/corrimentos-vaginais-causas-prevencao-e-tratamento.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/corrimentos-vaginais-causas-prevencao-e-tratamento.webp",
+    "legendaInstagram": "Corrimentos vaginais: causas, prevenção e tratamento\n\nObserve mudanças de cor, odor e sintomas associados. Secreção clara ou esbranquiçada, sem cheiro forte. Pode variar ao longo do ciclo, gravidez ou excitação. Não costuma causar coceira, ardor, dor ou feridas.\n\nOrientações práticas:\n• Lave apenas a parte externa com água e produto suave.\n• Mantenha a região seca e troque roupa úmida.\n• Use preservativo interno ou externo.\n• Se houver suspeita de IST, parceiros podem precisar de avaliação.\n\nProcure atendimento sem demora se:\n• Corrimento novo, persistente ou recorrente.\n• Mau cheiro, coceira ou dor.\n• Sintomas após relação sem preservativo.\n• Durante a gestação.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #corrimentos #vaginais"
+  },
+  {
+    "id": "sop-conhecer-para-cuidar-melhor-da-sua-saude",
+    "titulo": "SOP: conhecer para cuidar melhor da sua saúde",
+    "categoria": "Ginecologia e Obstetrícia",
+    "dataPublicacao": "2027-03-14T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/sop-conhecer-para-cuidar-melhor-da-sua-saude.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/sop-conhecer-para-cuidar-melhor-da-sua-saude.webp",
+    "legendaInstagram": "SOP: conhecer para cuidar melhor da sua saúde\n\nEnvolve alterações de ovulação e/ou excesso de hormônios androgênicos. Condição hormonal comum na idade reprodutiva. Pode causar ovulação irregular e sinais de excesso de andrógenos. Ultrassom com muitos folículos não confirma SOP sozinho.\n\nOrientações práticas:\n• Aumenta o risco de alteração da glicose e diabetes.\n• Pode se associar a colesterol alterado e pressão alta.\n• Longos períodos sem menstruar podem engrossar o endométrio.\n• Pode afetar sono, autoestima, ansiedade e humor.\n\nProcure atendimento sem demora se:\n• Ciclos muito irregulares ou meses sem menstruar.\n• Acne ou pelos que incomodam.\n• Desejo de engravidar sem sucesso.\n• Sinais de glicose alta ou ganho de peso rápido.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #sindrome #ovarios #policisticos"
+  },
+  {
+    "id": "pre-natal-baixo-risco-x-alto-risco",
+    "titulo": "Pré-natal: baixo risco x alto risco",
+    "categoria": "Ginecologia e Obstetrícia",
+    "dataPublicacao": "2027-03-16T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/pre-natal-baixo-risco-x-alto-risco.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/pre-natal-baixo-risco-x-alto-risco.webp",
+    "legendaInstagram": "Pré-natal: baixo risco x alto risco\n\nUma condição materna ou fetal exige vigilância mais próxima. Há maior chance de problema na gestação, parto ou pós-parto. Pode existir desde antes da gravidez ou surgir depois. Hipertensão, diabetes e doença cardíaca são exemplos.\n\nOrientações práticas:\n• A UBS continua participando do acompanhamento.\n• Equipe especializada compartilha decisões e exames.\n• Consultas podem ser mais frequentes.\n• Medicamentos e plano de parto são revistos.\n\nProcure atendimento sem demora se:\n• Sangramento, perda de líquido ou dor intensa.\n• Falta de ar, dor no peito ou desmaio.\n• Convulsão, confusão ou fraqueza de um lado.\n• Dor de cabeça forte com alteração visual.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #prenatal #alto #risco"
+  },
+  {
+    "id": "sindromes-hipertensivas-da-gestacao",
+    "titulo": "Síndromes hipertensivas da gestação",
+    "categoria": "Ginecologia e Obstetrícia",
+    "dataPublicacao": "2027-03-18T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/sindromes-hipertensivas-da-gestacao.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/sindromes-hipertensivas-da-gestacao.webp",
+    "legendaInstagram": "Síndromes hipertensivas da gestação\n\nPré-eclâmpsia pode surgir após 20 semanas e também no pós-parto. Hipertensão crônica: já existia antes ou aparece cedo. Hipertensão gestacional: surge após 20 semanas sem outros sinais iniciais. Pré-eclâmpsia: pressão alta associada a sinais de comprometimento de órgãos.\n\nOrientações práticas:\n• Dor de cabeça forte ou persistente.\n• Visão borrada, luzes ou manchas.\n• Dor forte na boca do estômago ou lado direito superior.\n• Inchaço súbito em face e mãos.\n\nProcure atendimento sem demora se:\n• Pressão muito alta conforme o plano da equipe.\n• Convulsão, confusão ou desmaio.\n• Dor de cabeça intensa com alteração visual.\n• Falta de ar, dor no peito ou dor abdominal forte.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #pressao #alta #gestacao"
+  },
+  {
+    "id": "ulceras-genitais-causas-e-quando-procurar-atendimento",
+    "titulo": "Úlceras genitais: causas e quando procurar atendimento",
+    "categoria": "Ginecologia e Obstetrícia",
+    "dataPublicacao": "2027-03-21T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/ulceras-genitais-causas-e-quando-procurar-atendimento.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/ulceras-genitais-causas-e-quando-procurar-atendimento.webp",
+    "legendaInstagram": "Úlceras genitais: causas e quando procurar atendimento\n\nPodem doer ou não e algumas são infecções sexualmente transmissíveis. Bolhas, feridas abertas, cortes ou áreas descamadas. Podem surgir na vulva, vagina, pênis, ânus ou boca. Podem doer, arder, coçar ou não causar dor.\n\nOrientações práticas:\n• Procure UBS ou serviço de IST o quanto antes.\n• Evite relações até avaliação e orientação.\n• Não estoure bolhas nem aplique substâncias caseiras.\n• Lave suavemente e mantenha a região seca.\n\nProcure atendimento sem demora se:\n• Dor muito forte ou dificuldade para urinar.\n• Febre alta, mal-estar ou lesões se espalhando rapidamente.\n• Olhos, boca ou outras mucosas também acometidos.\n• Gestante com feridas, sangramento ou dor.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #ulceras #genitais"
+  },
+  {
+    "id": "cancer-do-colo-do-utero-prevencao-e-diagnostico-precoce",
+    "titulo": "Câncer do colo do útero: prevenção e diagnóstico precoce",
+    "categoria": "Ginecologia e Obstetrícia",
+    "dataPublicacao": "2027-03-24T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/cancer-do-colo-do-utero-prevencao-e-diagnostico-precoce.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/cancer-do-colo-do-utero-prevencao-e-diagnostico-precoce.webp",
+    "legendaInstagram": "Câncer do colo do útero: prevenção e diagnóstico precoce\n\nO teste de DNA-HPV é o exame primário onde já está disponível. Mulheres e qualquer pessoa com colo do útero. Faixa recomendada: 25 a 64 anos. Para quem já teve atividade sexual.\n\nOrientações práticas:\n• O DNA-HPV oncogênico passou a ser o teste primário no país.\n• Com resultado negativo, o intervalo usual é de cinco anos.\n• O Papanicolau continua onde o novo teste ainda não está disponível.\n• Resultado alterado não significa automaticamente câncer.\n\nProcure atendimento sem demora se:\n• Sangramento intenso com tontura ou fraqueza.\n• Dor pélvica forte com febre.\n• Desmaio, palidez intensa ou falta de ar.\n• Sangramento na gravidez.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #cancer #colo #utero"
+  },
+  {
+    "id": "cancer-de-mama-rastreamento-e-sinais-de-alerta",
+    "titulo": "Câncer de mama: rastreamento e sinais de alerta",
+    "categoria": "Ginecologia e Obstetrícia",
+    "dataPublicacao": "2027-03-28T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/cancer-de-mama-rastreamento-e-sinais-de-alerta.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/cancer-de-mama-rastreamento-e-sinais-de-alerta.webp",
+    "legendaInstagram": "Câncer de mama: rastreamento e sinais de alerta\n\nNo brasil, a faixa prioritária é de 50 a 74 anos a cada dois anos. É feito em pessoas sem sinais ou sintomas. A mamografia pode encontrar alterações pequenas. A recomendação nacional prioritária é dos 50 aos 74 anos, a cada dois anos.\n\nOrientações práticas:\n• Observe e toque as mamas quando se sentir confortável.\n• Conhecer o habitual ajuda a perceber mudanças.\n• Não existe técnica obrigatória de autoexame.\n• Uma mudança nova deve ser avaliada.\n\nProcure atendimento sem demora se:\n• Novo nódulo duro ou que cresce.\n• Vermelhidão e inchaço que não melhoram.\n• Ferida no mamilo ou secreção com sangue.\n• Caroço na axila persistente.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #cancer #mama"
+  },
+  {
+    "id": "rastreamento-cancer-do-colo-do-utero-x-cancer-de-mama",
+    "titulo": "Rastreamento: câncer do colo do útero x câncer de mama",
+    "categoria": "Ginecologia e Obstetrícia",
+    "dataPublicacao": "2027-03-30T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/rastreamento-cancer-do-colo-do-utero-x-cancer-de-mama.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/rastreamento-cancer-do-colo-do-utero-x-cancer-de-mama.webp",
+    "legendaInstagram": "Rastreamento: câncer do colo do útero x câncer de mama\n\nO teste de DNA-HPV é o exame primário onde já está disponível. Mulheres e qualquer pessoa com colo do útero. Faixa recomendada: 25 a 64 anos. Para quem já teve atividade sexual.\n\nOrientações práticas:\n• O DNA-HPV oncogênico passou a ser o teste primário no país.\n• Com resultado negativo, o intervalo usual é de cinco anos.\n• O Papanicolau continua onde o novo teste ainda não está disponível.\n• Resultado alterado não significa automaticamente câncer.\n\nProcure atendimento sem demora se:\n• Sangramento intenso com tontura ou fraqueza.\n• Dor pélvica forte com febre.\n• Desmaio, palidez intensa ou falta de ar.\n• Sangramento na gravidez.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #cancer #colo #utero"
+  },
+  {
+    "id": "falta-de-ar-dispneia-tipos-diagnostico-e-cuidados",
+    "titulo": "Falta de ar (dispneia): tipos, diagnóstico e cuidados",
+    "categoria": "Pneumologia",
+    "dataPublicacao": "2027-04-01T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/falta-de-ar-dispneia-tipos-diagnostico-e-cuidados.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/falta-de-ar-dispneia-tipos-diagnostico-e-cuidados.webp",
+    "legendaInstagram": "Falta de ar (dispneia): tipos, diagnóstico e cuidados\n\nDispneia é a sensação desconfortável de dificuldade para respirar. Pode aparecer aos esforços, ao deitar ou de forma súbita, e precisa ser avaliada de acordo com a causa.\n\nOrientações práticas:\n• Registre em quais situações ocorre e se limita atividades.\n• Informe tabagismo, doenças cardíacas ou pulmonares e medicamentos.\n• Exames podem incluir oximetria, radiografia, eletrocardiograma e espirometria.\n\nProcure atendimento sem demora se:\n• Início súbito, dor no peito, desmaio, confusão, lábios arroxeados ou falta de ar em repouso exige emergência.\n• Piora progressiva ou inchaço nas pernas também merece avaliação breve.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #dispneia #faltadear #diagnostico #pneumologia"
+  },
+  {
+    "id": "pneumonia-x-gripe-x-covid-19-entenda-as-diferencas",
+    "titulo": "Pneumonia x gripe x COVID-19: entenda as diferenças",
+    "categoria": "Pneumologia",
+    "dataPublicacao": "2026-12-11T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/pneumonia-x-gripe-x-covid-19-entenda-as-diferencas.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/pneumonia-x-gripe-x-covid-19-entenda-as-diferencas.png",
+    "legendaInstagram": "Pneumonia x gripe x COVID-19: entenda as diferenças\n\nGripe e COVID-19 são infecções virais que podem causar febre, tosse e dores; pneumonia é uma infecção do pulmão que pode ser viral ou bacteriana. Os sintomas se sobrepõem e o exame clínico é importante.\n\nOrientações práticas:\n• Mantenha hidratação, repouso e evite contato próximo enquanto houver sintomas contagiosos.\n• Faça testagem e use máscara conforme orientação local.\n• Não use antibiótico sem avaliação, pois ele não trata vírus.\n\nProcure atendimento sem demora se:\n• Falta de ar, dor no peito, confusão, lábios arroxeados, febre persistente ou queda importante do estado geral exigem atendimento.\n• Idosos, gestantes, crianças pequenas e pessoas com doenças crônicas precisam de avaliação mais precoce.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #pneumonia #gripe #COVID19 #sintomasrespiratorios"
+  },
+  {
+    "id": "espirometria-o-exame-do-sopro",
+    "titulo": "Espirometria: o exame do sopro",
+    "categoria": "Pneumologia",
+    "dataPublicacao": "2026-11-27T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/espirometria-o-exame-do-sopro.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/espirometria-o-exame-do-sopro.webp",
+    "legendaInstagram": "Espirometria: o exame do sopro\n\nA espirometria mede quanto ar a pessoa consegue inspirar e expirar e com que velocidade. Ajuda no diagnóstico e acompanhamento de asma, DPOC e outras alterações respiratórias.\n\nOrientações práticas:\n• Use roupa confortável e siga as orientações sobre inaladores e alimentação.\n• Avise sobre infecção recente, cirurgia, gravidez ou problemas cardíacos.\n• Durante o exame, será necessário soprar com força várias vezes para obter medidas confiáveis.\n\nProcure atendimento sem demora se:\n• O exame deve ser adiado ou ajustado quando houver condição clínica que aumente o risco, conforme avaliação da equipe.\n• Dor no peito, tontura intensa ou falta de ar importante durante o teste deve ser comunicada imediatamente.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #espirometria #examedosopro #asma #DPOC"
+  },
+  {
+    "id": "broncoscopia-preparo-exame-e-cuidados",
+    "titulo": "Broncoscopia: preparo, exame e cuidados",
+    "categoria": "Pneumologia",
+    "dataPublicacao": "2026-12-09T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/broncoscopia-preparo-exame-e-cuidados.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/broncoscopia-preparo-exame-e-cuidados.png",
+    "legendaInstagram": "Broncoscopia: preparo, exame e cuidados\n\nBroncoscopia permite visualizar as vias respiratórias com um aparelho fino e flexível, além de coletar amostras quando necessário. É feita com anestesia local e sedação conforme o caso.\n\nOrientações práticas:\n• Respeite o jejum e informe medicamentos, alergias e uso de anticoagulantes.\n• Organize acompanhante se houver sedação.\n• Após o exame, aguarde a liberação para comer e beber.\n\nProcure atendimento sem demora se:\n• Falta de ar crescente, dor no peito, febre persistente ou sangramento em quantidade exige contato imediato com o serviço.\n• Pequena irritação na garganta pode ocorrer, mas piora progressiva não é esperada.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #broncoscopia #viasaereas #sedacao #biopsia"
+  },
+  {
+    "id": "broncoscopia-avaliacao-direta-das-vias-aereas",
+    "titulo": "Broncoscopia: avaliação direta das vias aéreas",
+    "categoria": "Pneumologia",
+    "dataPublicacao": "2027-04-11T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/broncoscopia-avaliacao-direta-das-vias-aereas.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/broncoscopia-avaliacao-direta-das-vias-aereas.webp",
+    "legendaInstagram": "Broncoscopia: avaliação direta das vias aéreas\n\nA broncoscopia examina traqueia e brônquios diretamente. Pode investigar sangramento, alterações em exames de imagem, infecções, obstruções e lesões.\n\nOrientações práticas:\n• A equipe monitora oxigenação, frequência cardíaca e pressão durante o procedimento.\n• Podem ser feitas lavagens, escovados ou biópsias.\n• Siga exatamente as orientações de jejum, medicamentos e retorno.\n\nProcure atendimento sem demora se:\n• Sangramento volumoso, dificuldade respiratória, dor forte no peito ou febre persistente após o exame exige atendimento.\n• Não dirija nem tome decisões importantes após sedação no mesmo dia.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #broncoscopia #bronquios #investigacaopulmonar #biopsia"
+  },
+  {
+    "id": "evali-lesao-pulmonar-associada-ao-uso-de-vape",
+    "titulo": "EVALI: lesão pulmonar associada ao uso de vape",
+    "categoria": "Pneumologia",
+    "dataPublicacao": "2026-12-04T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/evali-lesao-pulmonar-associada-ao-uso-de-vape.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/evali-lesao-pulmonar-associada-ao-uso-de-vape.png",
+    "legendaInstagram": "EVALI: lesão pulmonar associada ao uso de vape\n\nEVALI é uma lesão pulmonar associada ao uso de cigarros eletrônicos ou produtos de vaping. Pode causar tosse, dor no peito, falta de ar, febre e sintomas gastrointestinais.\n\nOrientações práticas:\n• Suspenda o uso de vape e procure avaliação.\n• Informe quais produtos foram usados, há quanto tempo e com que frequência.\n• Não retome o uso após melhora sem orientação.\n\nProcure atendimento sem demora se:\n• Falta de ar, lábios arroxeados, dor no peito, confusão ou piora rápida exige emergência.\n• Saturação baixa ou incapacidade de realizar atividades habituais precisa de avaliação imediata.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #EVALI #vape #cigarroeletronico #lesaopulmonar"
+  },
+  {
+    "id": "tuberculose-transmissao-sintomas-e-tratamento",
+    "titulo": "Tuberculose: transmissão, sintomas e tratamento",
+    "categoria": "Infectologia",
+    "dataPublicacao": "2027-01-01T10:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/panfletos/tuberculose-transmissao-sintomas-e-tratamento.png",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/tuberculose-transmissao-sintomas-e-tratamento.png",
+    "legendaInstagram": "Tuberculose: transmissão, sintomas e tratamento\n\nTuberculose é causada por uma bactéria e a forma pulmonar pode ser transmitida pelo ar quando uma pessoa doente, ainda sem tratamento adequado, tosse, fala ou espirra.\n\nOrientações práticas:\n• Tosse por três semanas ou mais deve ser investigada.\n• O tratamento é gratuito no SUS e precisa ser completado mesmo após melhora.\n• Ambientes ventilados e avaliação dos contatos ajudam a interromper a transmissão.\n\nProcure atendimento sem demora se:\n• Falta de ar, sangue ao tossir, fraqueza intensa ou piora importante exige atendimento rápido.\n• Febre prolongada, suor noturno e emagrecimento também merecem investigação.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #tuberculose #tosse #transmissaopeloar #tratamento"
+  },
+  {
+    "id": "tuberculose-pulmonar-guia-completo",
+    "titulo": "Tuberculose pulmonar: guia completo",
+    "categoria": "Infectologia",
+    "dataPublicacao": "2027-04-20T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/tuberculose-pulmonar-guia-completo.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/tuberculose-pulmonar-guia-completo.webp",
+    "legendaInstagram": "Tuberculose pulmonar: guia completo\n\nNa tuberculose pulmonar, tosse persistente, catarro, febre baixa, suor noturno e perda de peso podem aparecer. O diagnóstico usa avaliação clínica e exames do escarro e/ou imagem.\n\nOrientações práticas:\n• Procure a UBS se a tosse durar três semanas ou mais.\n• Tome os medicamentos todos os dias conforme orientação.\n• Mantenha os ambientes ventilados e leve os contatos para avaliação.\n\nProcure atendimento sem demora se:\n• Tosse com muito sangue, falta de ar, confusão ou fraqueza intensa exige urgência.\n• Efeitos adversos importantes dos remédios devem ser comunicados sem interromper por conta própria.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #tuberculosepulmonar #escarro #tossepersistente #SUS"
+  },
+  {
+    "id": "tuberculose-extrapulmonar-alem-dos-pulmoes",
+    "titulo": "Tuberculose extrapulmonar: além dos pulmões",
+    "categoria": "Infectologia",
+    "dataPublicacao": "2027-04-22T11:00:00-03:00",
+    "imagemUrl": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/social/tuberculose-extrapulmonar-alem-dos-pulmoes.jpg",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/tuberculose-extrapulmonar-alem-dos-pulmoes.png",
+    "legendaInstagram": "Tuberculose extrapulmonar: além dos pulmões\n\nA tuberculose também pode atingir gânglios, pleura, ossos, rins, intestino, sistema nervoso e outros órgãos. Os sintomas variam conforme o local e nem sempre há tosse.\n\nOrientações práticas:\n• Procure avaliação diante de sintomas persistentes sem causa definida.\n• Exames e amostras específicos podem ser necessários.\n• O tratamento deve ser seguido até o fim e acompanhado pelo SUS.\n\nProcure atendimento sem demora se:\n• Confusão, rigidez na nuca, fraqueza neurológica, falta de ar ou piora rápida exige emergência.\n• Pessoas com imunidade reduzida devem ser avaliadas precocemente.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #tuberculoseextrapulmonar #ganglios #pleura #diagnostico"
+  },
+  {
+    "id": "tuberculose-miliar-forma-disseminada-e-grave",
+    "titulo": "Tuberculose miliar: forma disseminada e grave",
+    "categoria": "Infectologia",
+    "dataPublicacao": "2027-04-25T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/tuberculose-miliar-forma-disseminada-e-grave.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/tuberculose-miliar-forma-disseminada-e-grave.webp",
+    "legendaInstagram": "Tuberculose miliar: forma disseminada e grave\n\nTuberculose miliar é uma forma disseminada, quando a bactéria se espalha pelo sangue e pode afetar vários órgãos. É mais frequente em pessoas com imunidade reduzida e pode evoluir rapidamente.\n\nOrientações práticas:\n• Febre prolongada, emagrecimento, fraqueza e sintomas em vários órgãos precisam de investigação.\n• O diagnóstico pode exigir exames de imagem e amostras de diferentes locais.\n• O tratamento é feito com esquema específico e acompanhamento próximo.\n\nProcure atendimento sem demora se:\n• Confusão, falta de ar, pressão baixa, convulsão ou piora rápida exige emergência.\n• Não adie avaliação em crianças pequenas, idosos ou imunossuprimidos.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #tuberculosemiliar #tuberculosedisseminada #imunidade #urgencia"
+  },
+  {
+    "id": "hanseniase-manchas-com-alteracao-de-sensibilidade",
+    "titulo": "Hanseníase: manchas com alteração de sensibilidade",
+    "categoria": "Infectologia",
+    "dataPublicacao": "2027-04-27T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/hanseniase-manchas-com-alteracao-de-sensibilidade.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/hanseniase-manchas-com-alteracao-de-sensibilidade.webp",
+    "legendaInstagram": "Hanseníase: manchas com alteração de sensibilidade\n\nAtinge principalmente a pele e os nervos. Mancha branca, avermelhada ou amarronzada. Diminuição da sensação de calor, dor ou toque. Área seca, sem suor ou com menos pelos.\n\nOrientações práticas:\n• Exame da pele, sensibilidade e nervos.\n• Tratamento combina antibióticos por meses.\n• É gratuito no SUS.\n• Complete todas as doses.\n\nProcure atendimento sem demora se:\n• Nova fraqueza ou perda rápida de sensibilidade.\n• Olho vermelho, dor ocular ou perda de visão.\n• Nervo muito dolorido.\n• Mãos/pés inchados e nódulos dolorosos.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #hanseniase"
+  },
+  {
+    "id": "hiv-e-aids-prevencao-testagem-e-tratamento",
+    "titulo": "HIV e AIDS: prevenção, testagem e tratamento",
+    "categoria": "Infectologia",
+    "dataPublicacao": "2027-04-29T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/hiv-e-aids-prevencao-testagem-e-tratamento.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/hiv-e-aids-prevencao-testagem-e-tratamento.webp",
+    "legendaInstagram": "HIV e AIDS: prevenção, testagem e tratamento\n\nHIV é o vírus; AIDS é o estágio avançado sem tratamento. Relação sexual sem prevenção. Compartilhar agulhas/seringas. Sangue contaminado — hoje raro em transfusões controladas.\n\nOrientações práticas:\n• Preservativos internos/externos.\n• PrEP antes de exposições para pessoas elegíveis.\n• PEP após exposição, iniciada o quanto antes.\n• Não compartilhar material perfurocortante.\n\nProcure atendimento sem demora se:\n• Exposição sexual ou ocupacional recente para avaliar PEP.\n• Febre persistente, perda de peso ou diarreia prolongada.\n• Falta de ar, confusão, convulsão ou dor de cabeça forte.\n• Reação importante a medicamento.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS"
+  },
+  {
+    "id": "leishmaniose-transmissao-sintomas-e-prevencao",
+    "titulo": "Leishmaniose: transmissão, sintomas e prevenção",
+    "categoria": "Infectologia",
+    "dataPublicacao": "2027-05-02T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/leishmaniose-transmissao-sintomas-e-prevencao.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/leishmaniose-transmissao-sintomas-e-prevencao.webp",
+    "legendaInstagram": "Leishmaniose: transmissão, sintomas e prevenção\n\nPode causar feridas na pele ou doença visceral. Pela picada da fêmea infectada do flebotomíneo. Conhecido como mosquito-palha, birigui ou tatuquira. Não passa de pessoa para pessoa pelo convívio.\n\nOrientações práticas:\n• Use telas, mosquiteiros e repelentes indicados.\n• Cubra a pele ao amanhecer e anoitecer em áreas de risco.\n• Mantenha quintal limpo, sem matéria orgânica acumulada.\n• Afaste abrigos de animais da casa quando possível.\n\nProcure atendimento sem demora se:\n• Febre prolongada com barriga aumentada.\n• Sangramento, palidez intensa ou desmaio.\n• Falta de ar, confusão ou fraqueza extrema.\n• Ferida em nariz/boca com dificuldade para respirar ou engolir.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #leishmaniose"
+  },
+  {
+    "id": "paracoccidioidomicose-sinais-e-diagnostico",
+    "titulo": "Paracoccidioidomicose: sinais e diagnóstico",
+    "categoria": "Infectologia",
+    "dataPublicacao": "2027-05-05T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/paracoccidioidomicose-sinais-e-diagnostico.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/paracoccidioidomicose-sinais-e-diagnostico.webp",
+    "legendaInstagram": "Paracoccidioidomicose: sinais e diagnóstico\n\nParacoccidioidomicose é uma micose sistêmica adquirida pela inalação do fungo presente no ambiente. Pode afetar pulmões, boca, pele, gânglios e outros órgãos.\n\nOrientações práticas:\n• Tosse prolongada, perda de peso e feridas na boca precisam de investigação.\n• Informe trabalho rural, contato com solo e tabagismo.\n• O tratamento antifúngico é prolongado e deve ser acompanhado.\n\nProcure atendimento sem demora se:\n• Falta de ar, sangramento, dificuldade para engolir ou piora importante exige avaliação rápida.\n• Crianças e adolescentes com gânglios aumentados e febre persistente merecem atenção.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #paracoccidioidomicose #micosesistemica #pulmoes #diagnostico"
+  },
+  {
+    "id": "histoplasmose-exposicao-sintomas-e-cuidados",
+    "titulo": "Histoplasmose: exposição, sintomas e cuidados",
+    "categoria": "Infectologia",
+    "dataPublicacao": "2027-05-09T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/histoplasmose-exposicao-sintomas-e-cuidados.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/histoplasmose-exposicao-sintomas-e-cuidados.webp",
+    "legendaInstagram": "Histoplasmose: exposição, sintomas e cuidados\n\nHistoplasmose é causada pela inalação de um fungo presente em solo contaminado, especialmente em locais com fezes de aves ou morcegos. Muitas infecções são leves, mas podem ser graves em imunossuprimidos.\n\nOrientações práticas:\n• Informe exposição a cavernas, galinheiros ou demolições.\n• Tosse, febre e cansaço persistentes precisam de avaliação.\n• O diagnóstico combina história, exames de imagem e testes laboratoriais.\n\nProcure atendimento sem demora se:\n• Falta de ar, confusão, pressão baixa, perda de peso intensa ou piora rápida exige atendimento.\n• Pessoas com HIV ou outras imunossupressões devem buscar avaliação precoce.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #histoplasmose #fungo #morcegos #micosesistemica"
+  },
+  {
+    "id": "criptococose-e-neurocriptococose",
+    "titulo": "Criptococose e neurocriptococose",
+    "categoria": "Infectologia",
+    "dataPublicacao": "2027-05-11T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/criptococose-e-neurocriptococose.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/criptococose-e-neurocriptococose.webp",
+    "legendaInstagram": "Criptococose e neurocriptococose\n\nCriptococose é uma micose adquirida do ambiente; quando alcança o sistema nervoso, causa neurocriptococose. O risco de formas graves é maior em pessoas com imunidade reduzida.\n\nOrientações práticas:\n• Cefaleia persistente, febre e alterações neurológicas precisam de investigação.\n• Pessoas vivendo com HIV devem manter tratamento e acompanhamento.\n• O diagnóstico pode exigir exames de sangue e do líquor.\n\nProcure atendimento sem demora se:\n• Confusão, convulsão, rigidez na nuca, perda visual ou dor de cabeça intensa com vômitos exige emergência.\n• Não espere melhora espontânea em pessoas imunossuprimidas.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #criptococose #neurocriptococose #meningitefungica #HIV"
+  },
+  {
+    "id": "toxoplasmose-e-neurotoxoplasmose",
+    "titulo": "Toxoplasmose e neurotoxoplasmose",
+    "categoria": "Infectologia",
+    "dataPublicacao": "2027-05-13T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/toxoplasmose-e-neurotoxoplasmose.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/toxoplasmose-e-neurotoxoplasmose.webp",
+    "legendaInstagram": "Toxoplasmose e neurotoxoplasmose\n\nOcorre principalmente quando a imunidade está muito baixa. Reativação ou infecção por Toxoplasma no sistema nervoso. Forma lesões e inflamação no cérebro. É mais comum em HIV avançado sem tratamento, transplante ou forte imunossupressão.\n\nOrientações práticas:\n• Combinação de medicamentos contra o parasito.\n• Controle de inflamação/convulsão quando indicado.\n• Tratamento antirretroviral é essencial no HIV.\n• Duração é definida pela resposta e imunidade.\n\nProcure atendimento sem demora se:\n• Convulsão.\n• Fraqueza súbita, fala alterada ou desvio da boca.\n• Confusão, sonolência ou desmaio.\n• Dor de cabeça intensa com vômitos.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #neurotoxoplasmose"
+  },
+  {
+    "id": "medicamentos-que-podem-prejudicar-os-rins",
+    "titulo": "Medicamentos que podem prejudicar os rins",
+    "categoria": "Nefrologia",
+    "dataPublicacao": "2027-05-16T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/medicamentos-que-podem-prejudicar-os-rins.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/medicamentos-que-podem-prejudicar-os-rins.webp",
+    "legendaInstagram": "Medicamentos que podem prejudicar os rins\n\nAlguns medicamentos precisam de ajuste ou monitoramento. Os rins eliminam muitos medicamentos e substâncias. Doença renal pode fazer remédios se acumularem. Alguns produtos reduzem o fluxo de sangue nos rins ou causam inflamação.\n\nOrientações práticas:\n• Anti-inflamatórios não esteroides.\n• Alguns antibióticos e antivirais.\n• Contraste de exames em pessoas de risco.\n• Diuréticos e remédios de pressão em situações específicas.\n\nProcure atendimento sem demora se:\n• Redução importante da urina.\n• Inchaço, falta de ar ou ganho rápido de peso.\n• Confusão, fraqueza intensa ou vômitos persistentes.\n• Reação alérgica, manchas extensas ou febre após iniciar remédio.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #remedios #rins"
+  },
+  {
+    "id": "insuficiencia-renal-aguda-reconhecer-rapidamente",
+    "titulo": "Insuficiência renal aguda: reconhecer rapidamente",
+    "categoria": "Nefrologia",
+    "dataPublicacao": "2027-05-18T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/insuficiencia-renal-aguda-reconhecer-rapidamente.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/insuficiencia-renal-aguda-reconhecer-rapidamente.webp",
+    "legendaInstagram": "Insuficiência renal aguda: reconhecer rapidamente\n\nRedução da urina e doença recente merecem atenção. É uma queda rápida do funcionamento dos rins. Pode ocorrer durante infecção grave, desidratação, cirurgia ou uso de medicamentos. Nem sempre causa dor e pode ser percebida apenas nos exames.\n\nOrientações práticas:\n• Evite automedicação, especialmente anti-inflamatórios.\n• Busque orientação em vômitos/diarreia persistentes.\n• Controle diabetes e pressão.\n• Faça exames antes/depois de procedimentos quando indicado.\n\nProcure atendimento sem demora se:\n• Redução importante ou ausência de urina.\n• Inchaço rápido ou falta de ar.\n• Confusão, sonolência, convulsão ou fraqueza intensa.\n• Vômitos persistentes, pressão muito baixa ou infecção grave.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #lesao #renal #aguda"
+  },
+  {
+    "id": "doenca-renal-cronica-prevencao-e-acompanhamento",
+    "titulo": "Doença renal crônica: prevenção e acompanhamento",
+    "categoria": "Nefrologia",
+    "dataPublicacao": "2027-05-20T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/doenca-renal-cronica-prevencao-e-acompanhamento.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/doenca-renal-cronica-prevencao-e-acompanhamento.webp",
+    "legendaInstagram": "Doença renal crônica: prevenção e acompanhamento\n\nDiabetes e pressão alta são fatores de risco importantes. É a alteração da estrutura ou função dos rins por pelo menos três meses. Pode piorar lentamente e ficar sem sintomas por muito tempo. Os rins filtram resíduos, controlam líquidos, sais e participam da pressão arterial.\n\nOrientações práticas:\n• Controle pressão e diabetes.\n• Não fume e reduza o excesso de sal.\n• Evite anti-inflamatórios sem orientação.\n• Use medicamentos corretamente e faça acompanhamento.\n\nProcure atendimento sem demora se:\n• Falta de ar ou inchaço que aumenta rapidamente.\n• Pouca ou nenhuma urina.\n• Confusão, sonolência intensa ou convulsão.\n• Vômitos persistentes ou fraqueza extrema.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #doenca #renal #cronica"
+  },
+  {
+    "id": "sangue-na-urina-quando-investigar",
+    "titulo": "Sangue na urina: quando investigar",
+    "categoria": "Nefrologia",
+    "dataPublicacao": "2027-05-23T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/sangue-na-urina-quando-investigar.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/sangue-na-urina-quando-investigar.webp",
+    "legendaInstagram": "Sangue na urina: quando investigar\n\nNão é normal e precisa ser investigado. Hematúria é a presença de glóbulos vermelhos na urina. Pode ser visível ou aparecer apenas no exame de urina. Urina vermelha, rosada ou cor de chá também pode ter outras causas.\n\nOrientações práticas:\n• Não se automedique com antibióticos ou anti-inflamatórios.\n• Hidrate-se conforme orientação, sem exagero.\n• Observe coágulos, dor, febre e quantidade de urina.\n• Leve fotos da urina e resultados anteriores, se possível.\n\nProcure atendimento sem demora se:\n• Coágulos ou dificuldade para urinar.\n• Sangue com dor intensa na lateral ou nas costas.\n• Febre, calafrios, vômitos ou mal-estar importante.\n• Pouca urina, inchaço, falta de ar ou fraqueza intensa.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #sangue #urina"
+  },
+  {
+    "id": "espuma-persistente-na-urina-pode-ser-proteinuria",
+    "titulo": "Espuma persistente na urina: pode ser proteinúria",
+    "categoria": "Nefrologia",
+    "dataPublicacao": "2027-05-26T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/espuma-persistente-na-urina-pode-ser-proteinuria.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/espuma-persistente-na-urina-pode-ser-proteinuria.webp",
+    "legendaInstagram": "Espuma persistente na urina: pode ser proteinúria\n\nBolhas ocasionais podem ser normais; espuma persistente precisa ser avaliada. Jato forte, vaso com produto de limpeza ou urina concentrada podem formar bolhas. Espuma frequente e que demora a desaparecer pode indicar proteína na urina. Proteína pode escapar quando os filtros dos rins estão alterados.\n\nOrientações práticas:\n• Controle a pressão e a glicose.\n• Evite anti-inflamatórios sem orientação.\n• Não use chás ou suplementos para ‘limpar os rins’.\n• Siga a hidratação orientada para você.\n\nProcure atendimento sem demora se:\n• Pouca urina ou parar de urinar.\n• Inchaço que aumenta rapidamente.\n• Falta de ar, confusão ou fraqueza intensa.\n• Sangue na urina, febre ou dor forte.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #espuma #urina"
+  },
+  {
+    "id": "insuficiencia-renal-causas-pre-renais-renais-e-pos-renais",
+    "titulo": "Insuficiência renal: causas pré-renais, renais e pós-renais",
+    "categoria": "Nefrologia",
+    "dataPublicacao": "2027-05-30T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/insuficiencia-renal-causas-pre-renais-renais-e-pos-renais.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/insuficiencia-renal-causas-pre-renais-renais-e-pos-renais.webp",
+    "legendaInstagram": "Insuficiência renal: causas pré-renais, renais e pós-renais\n\nA localização do problema ajuda a entender a causa. O rim recebe pouco sangue para filtrar. Pode ocorrer em desidratação, sangramento, pressão muito baixa, sepse ou coração enfraquecido. O tecido renal pode estar inicialmente preservado.\n\nOrientações práticas:\n• A urina encontra uma obstrução para sair.\n• Cálculos, próstata aumentada, tumores ou problemas da bexiga podem causar.\n• Pode haver dor, bexiga cheia, jato fraco ou pouca urina.\n• Ultrassom frequentemente ajuda a procurar bloqueio.\n\nProcure atendimento sem demora se:\n• Parar de urinar ou redução importante.\n• Dor forte com dificuldade para urinar.\n• Pressão baixa, desmaio ou sangramento.\n• Febre, confusão ou piora rápida.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #falha"
+  },
+  {
+    "id": "sindrome-nefritica-x-sindrome-nefrotica",
+    "titulo": "Síndrome nefrítica x síndrome nefrótica",
+    "categoria": "Nefrologia",
+    "dataPublicacao": "2027-06-01T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/sindrome-nefritica-x-sindrome-nefrotica.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/sindrome-nefritica-x-sindrome-nefrotica.webp",
+    "legendaInstagram": "Síndrome nefrítica x síndrome nefrótica\n\nSangue na urina, pressão alta e inchaço são sinais importantes. É um conjunto de sinais causado por inflamação dos glomérulos. Os filtros deixam sangue passar para a urina e podem filtrar menos. Não é uma única doença e pode ter várias causas.\n\nOrientações práticas:\n• Não use anti-inflamatórios sem orientação.\n• Evite excesso de sal.\n• Não force água se estiver inchado ou urinando pouco.\n• Use os medicamentos prescritos e faça retornos.\n\nProcure atendimento sem demora se:\n• Pouca ou nenhuma urina.\n• Falta de ar ou inchaço rápido.\n• Pressão muito alta, dor de cabeça intensa ou confusão.\n• Vômitos persistentes, convulsão ou fraqueza extrema.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #sindrome #nefritica"
+  },
+  {
+    "id": "fibromialgia-dor-real-cuidado-possivel",
+    "titulo": "Fibromialgia: dor real, cuidado possível",
+    "categoria": "Ortopedia/Reumatologia",
+    "dataPublicacao": "2027-06-03T11:00:00-03:00",
+    "imagemUrl": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/social/fibromialgia-dor-real-cuidado-possivel.jpg",
+    "imagemSite": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/fibromialgia-dor-real-cuidado-possivel.png",
+    "legendaInstagram": "Fibromialgia: dor real, cuidado possível\n\nÉ uma condição crônica que altera o processamento da dor. Causa dor espalhada pelo corpo por mais de três meses. Pode aumentar a sensibilidade ao toque. Não é doença autoimune nem destrói articulações.\n\nOrientações práticas:\n• Dor e rigidez em várias áreas.\n• Cansaço e sono não reparador.\n• Dificuldade de memória e concentração.\n• Dor de cabeça, intestino irritável e alterações de humor podem coexistir.\n\nProcure atendimento sem demora se:\n• Fraqueza súbita, fala alterada ou desmaio.\n• Febre persistente, perda de peso ou suor noturno.\n• Articulação quente, vermelha e muito inchada.\n• Dor no peito, falta de ar ou perna inchada.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #fibromialgia"
+  },
+  {
+    "id": "fibromialgia-sensibilizacao-central-e-tratamento",
+    "titulo": "Fibromialgia: sensibilização central e tratamento",
+    "categoria": "Ortopedia/Reumatologia",
+    "dataPublicacao": "2027-06-06T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/fibromialgia-sensibilizacao-central-e-tratamento.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/fibromialgia-sensibilizacao-central-e-tratamento.webp",
+    "legendaInstagram": "Fibromialgia: sensibilização central e tratamento\n\nÉ uma condição crônica que altera o processamento da dor. Causa dor espalhada pelo corpo por mais de três meses. Pode aumentar a sensibilidade ao toque. Não é doença autoimune nem destrói articulações.\n\nOrientações práticas:\n• Dor e rigidez em várias áreas.\n• Cansaço e sono não reparador.\n• Dificuldade de memória e concentração.\n• Dor de cabeça, intestino irritável e alterações de humor podem coexistir.\n\nProcure atendimento sem demora se:\n• Fraqueza súbita, fala alterada ou desmaio.\n• Febre persistente, perda de peso ou suor noturno.\n• Articulação quente, vermelha e muito inchada.\n• Dor no peito, falta de ar ou perna inchada.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #fibromialgia"
+  },
+  {
+    "id": "areas-do-cerebro-e-suas-principais-funcoes",
+    "titulo": "Áreas do cérebro e suas principais funções",
+    "categoria": "Neurologia",
+    "dataPublicacao": "2027-06-08T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/areas-do-cerebro-e-suas-principais-funcoes.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/areas-do-cerebro-e-suas-principais-funcoes.webp",
+    "legendaInstagram": "Áreas do cérebro e suas principais funções\n\nAs áreas trabalham em rede — nenhuma função complexa fica em um único ‘ponto’. Planejamento, decisões e controle do comportamento. Início de movimentos voluntários. Produção da fala em grande parte das pessoas.\n\nOrientações práticas:\n• Processa toque, dor, temperatura e posição do corpo.\n• Integra informações espaciais.\n• Ajuda leitura, cálculo e reconhecimento.\n• Lesão pode causar dormência ou negligência de um lado.\n\nProcure atendimento sem demora se:\n• Boca torta, braço fraco ou fala alterada.\n• Confusão, convulsão ou desmaio.\n• Perda súbita de visão ou equilíbrio.\n• Dor de cabeça explosiva.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #areas #cerebro"
+  },
+  {
+    "id": "ave-isquemico-reconhecer-e-agir-rapido",
+    "titulo": "AVE isquêmico: reconhecer e agir rápido",
+    "categoria": "Neurologia",
+    "dataPublicacao": "2027-06-10T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/ave-isquemico-reconhecer-e-agir-rapido.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/ave-isquemico-reconhecer-e-agir-rapido.webp",
+    "legendaInstagram": "AVE isquêmico: reconhecer e agir rápido\n\nCada minuto sem circulação pode aumentar a lesão. Um coágulo impede sangue e oxigênio de chegar a parte do cérebro. É o tipo mais comum de AVC. Pode vir de uma placa na artéria ou do coração.\n\nOrientações práticas:\n• Controle pressão, diabetes e colesterol.\n• Não fume.\n• Trate fibrilação atrial e use anticoagulante se prescrito.\n• Pratique atividade física e mantenha acompanhamento.\n\nProcure atendimento sem demora se:\n• Peça para sorrir: um lado cai?\n• Peça para levantar os dois braços: um desce?\n• Peça para repetir uma frase: a fala está estranha?\n• Anote a hora em que começou ou a última vez bem.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #isquemico"
+  },
+  {
+    "id": "ave-hemorragico-sinais-e-emergencia",
+    "titulo": "AVE hemorrágico: sinais e emergência",
+    "categoria": "Neurologia",
+    "dataPublicacao": "2027-06-13T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/ave-hemorragico-sinais-e-emergencia.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/ave-hemorragico-sinais-e-emergencia.webp",
+    "legendaInstagram": "AVE hemorrágico: sinais e emergência\n\nPode causar piora muito rápida. O sangue vaza dentro ou ao redor do cérebro. Pressiona e lesa o tecido cerebral. Pressão alta descontrolada e aneurisma são causas importantes.\n\nOrientações práticas:\n• Ligue SAMU 192.\n• Anote o horário do início.\n• Mantenha a pessoa em local seguro.\n• Se vomitar e estiver sonolenta, vire de lado se não houve trauma.\n\nProcure atendimento sem demora se:\n• ‘Pior dor de cabeça da vida’ que começa de repente.\n• Desmaio, convulsão ou sonolência crescente.\n• Fraqueza, boca torta ou fala alterada.\n• Vômitos repetidos e rigidez de nuca.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #hemorragico"
+  },
+  {
+    "id": "aneurisma-cerebral-o-que-e-e-sinais-de-ruptura",
+    "titulo": "Aneurisma cerebral: o que é e sinais de ruptura",
+    "categoria": "Neurologia",
+    "dataPublicacao": "2027-06-16T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/aneurisma-cerebral-o-que-e-e-sinais-de-ruptura.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/aneurisma-cerebral-o-que-e-e-sinais-de-ruptura.webp",
+    "legendaInstagram": "Aneurisma cerebral: o que é e sinais de ruptura\n\nMuitos não causam sintomas até romper. Uma área enfraquecida do vaso forma uma bolsa. Tamanho, formato e local influenciam o risco. Nem todo aneurisma rompe.\n\nOrientações práticas:\n• Controle bem a pressão.\n• Não fume.\n• Evite cocaína e outras drogas estimulantes.\n• Faça exames de controle no prazo.\n\nProcure atendimento sem demora se:\n• Dor explosiva e súbita, mesmo se melhorar.\n• Desmaio, convulsão ou sonolência.\n• Fraqueza, fala ou visão alteradas.\n• Vômitos com rigidez de nuca.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #aneurisma #cerebral"
+  },
+  {
+    "id": "tipos-de-cefaleia-e-sinais-de-alarme",
+    "titulo": "Tipos de cefaleia e sinais de alarme",
+    "categoria": "Neurologia",
+    "dataPublicacao": "2027-06-20T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/tipos-de-cefaleia-e-sinais-de-alarme.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/tipos-de-cefaleia-e-sinais-de-alarme.webp",
+    "legendaInstagram": "Tipos de cefaleia e sinais de alarme\n\nTensional e enxaqueca são comuns; alguns sinais indicam causa secundária. Pressão ou aperto dos dois lados. Leve a moderada. Não costuma piorar muito com atividade.\n\nOrientações práticas:\n• Pode pulsar e predominar de um lado.\n• Moderada a forte e piora com atividade.\n• Náusea e sensibilidade à luz/som.\n• Aura pode causar luzes, formigamento ou fala alterada antes.\n\nProcure atendimento sem demora se:\n• Dor súbita que atinge máxima intensidade em segundos/minutos.\n• Febre, rigidez de nuca ou manchas roxas.\n• Fraqueza, confusão, convulsão ou desmaio.\n• Após trauma, em câncer ou imunossupressão.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #tipos #cefaleia"
+  },
+  {
+    "id": "neurocisticercose-transmissao-prevencao-e-tratamento",
+    "titulo": "Neurocisticercose: transmissão, prevenção e tratamento",
+    "categoria": "Neurologia",
+    "dataPublicacao": "2027-06-22T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/neurocisticercose-transmissao-prevencao-e-tratamento.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/neurocisticercose-transmissao-prevencao-e-tratamento.webp",
+    "legendaInstagram": "Neurocisticercose: transmissão, prevenção e tratamento\n\nAcontece ao engolir ovos do parasito em água, alimento ou mãos contaminadas. Carne de porco com larvas pode causar tênia adulta no intestino: teníase. Ovos da tênia em contaminação fecal podem causar cisticercose. Quando as larvas atingem o cérebro, chama-se neurocisticercose.\n\nOrientações práticas:\n• Pode incluir antiparasitário, corticoide e remédio para convulsão.\n• Nem todo cisto recebe o mesmo tratamento.\n• Alguns casos precisam de cirurgia.\n• O tratamento pode inflamar temporariamente as lesões.\n\nProcure atendimento sem demora se:\n• Primeira convulsão ou crise prolongada.\n• Confusão, desmaio ou fraqueza súbita.\n• Dor de cabeça intensa com vômitos.\n• Perda visual ou dificuldade para andar.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #neurocisticercose"
+  },
+  {
+    "id": "tipos-de-anestesia-e-seguranca",
+    "titulo": "Tipos de anestesia e segurança",
+    "categoria": "Anestesiologia",
+    "dataPublicacao": "2027-06-24T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/tipos-de-anestesia-e-seguranca.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/tipos-de-anestesia-e-seguranca.webp",
+    "legendaInstagram": "Tipos de anestesia e segurança\n\nAnestesia pode ser local, regional ou geral. A escolha depende do procedimento, da saúde da pessoa e do planejamento do anestesiologista; em todas as modalidades há avaliação e monitoramento apropriados.\n\nOrientações práticas:\n• Informe alergias, doenças, cirurgias anteriores e todos os medicamentos.\n• Cumpra o jejum exatamente como orientado.\n• Converse sobre medos, experiências anteriores e o que esperar da recuperação.\n\nProcure atendimento sem demora se:\n• Após a alta, falta de ar, dor no peito, desmaio, fraqueza persistente ou reação alérgica exige atendimento.\n• Não dirija nem tome decisões importantes enquanto houver efeito de sedativos.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #anestesia #anestesialocal #anestesiaregional #anestesiageral #seguranca"
+  },
+  {
+    "id": "anestesia-regional-como-funciona",
+    "titulo": "Anestesia regional: como funciona",
+    "categoria": "Anestesiologia",
+    "dataPublicacao": "2027-06-27T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/anestesia-regional-como-funciona.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/anestesia-regional-como-funciona.webp",
+    "legendaInstagram": "Anestesia regional: como funciona\n\nPode ser raqui, peridural ou bloqueio de um nervo. Anestésico é aplicado perto de nervos ou da coluna. Bloqueia dor em um braço, perna ou parte inferior do corpo. A região fica pesada, quente ou dormente.\n\nOrientações práticas:\n• Cesárea e parto.\n• Cirurgias de membros.\n• Procedimentos do abdome inferior e pelve.\n• Controle de dor após cirurgia.\n\nProcure atendimento sem demora se:\n• Falta de ar ou dormência subindo rapidamente.\n• Fraqueza prolongada além do esperado.\n• Dor de cabeça intensa ao sentar/ficar em pé.\n• Febre, dor forte nas costas ou alteração de controle urinário/intestino.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #anestesia #regional"
+  },
+  {
+    "id": "anestesia-geral-sono-controlado-e-monitorado",
+    "titulo": "Anestesia geral: sono controlado e monitorado",
+    "categoria": "Anestesiologia",
+    "dataPublicacao": "2027-06-30T11:00:00-03:00",
+    "imagemUrl": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/feed/anestesia-geral-sono-controlado-e-monitorado.jpg",
+    "imagemSite": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/anestesia-geral-sono-controlado-e-monitorado.webp",
+    "legendaInstagram": "Anestesia geral: sono controlado e monitorado\n\nMedicamentos mantêm inconsciência, controle da dor e condições seguras. Medicamentos são dados pela veia e/ou respiração. Você fica inconsciente e sem sentir dor. A equipe controla respiração, circulação e temperatura.\n\nOrientações práticas:\n• Respeite o jejum orientado.\n• Informe todos os remédios, alergias e uso de drogas/álcool.\n• Conte problemas em anestesias anteriores.\n• Avise sobre dentes soltos, apneia do sono e possibilidade de gravidez.\n\nProcure atendimento sem demora se:\n• Sonolência, náusea, dor de garganta e calafrio podem ocorrer.\n• Tenha acompanhante e não dirija pelo período orientado.\n• Procure ajuda por falta de ar, dor no peito ou desmaio.\n• Confusão persistente, febre ou vômitos repetidos precisam avaliação.\n\nLeia o panfleto completo no site do AbraSUS: https://abrasusprogramadocuidado.github.io/ABRAsus-/\n\nConteúdo educativo. Não substitui consulta, diagnóstico ou tratamento individualizado.\n\n#AbraSUS #anestesia #geral"
+  }
+]

@@ -3,7 +3,7 @@ import path from "node:path";
 
 const GRAPH_VERSION = "v26.0";
 const GRAPH_ROOT = `https://graph.facebook.com/${GRAPH_VERSION}`;
-const SCHEDULE_PATH = path.resolve("content/programacao-site-21-panfletos.json");
+const SCHEDULE_PATH = path.resolve("content/programacao-redes-sociais-93.json");
 const STATE_PATH = path.resolve("content/redes-sociais-publicadas.json");
 
 const pageAccessToken = process.env.META_PAGE_ACCESS_TOKEN?.trim();

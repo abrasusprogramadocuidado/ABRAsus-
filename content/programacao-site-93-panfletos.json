@@ -1,0 +1,4044 @@
+[
+  {
+    "id": "seja-bem-vindo-a-saude-que-transforma",
+    "titulo": "Seja bem-vindo à saúde que transforma",
+    "categoria": "Promoção da Saúde",
+    "descricao": "O AbraSUS é um projeto de educação em saúde do Programa de Iniciação Tecnológica do HDT. O objetivo é aproximar informação confiável da rotina das pessoas, com linguagem clara e materiais que podem ser consultados e compartilhados.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "O AbraSUS é um projeto de educação em saúde do Programa de Iniciação Tecnológica do HDT. O objetivo é aproximar informação confiável da rotina das pessoas, com linguagem clara e materiais que podem ser consultados e compartilhados.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Acompanhe os panfletos e salve os conteúdos úteis.",
+          "Compartilhe informação confiável com familiares e comunidade.",
+          "Use o material para preparar dúvidas antes de uma consulta."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Os conteúdos são educativos e não substituem avaliação profissional.",
+          "Em urgências, procure um serviço de saúde ou acione o SAMU 192."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "AbraSUS",
+      "PIT",
+      "HDT",
+      "educação em saúde",
+      "informação confiável"
+    ],
+    "dataPublicacao": "2026-11-01T11:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/seja-bem-vindo-a-saude-que-transforma.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/seja-bem-vindo-a-saude-que-transforma.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/seja-bem-vindo-a-saude-que-transforma.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "higiene-das-maos-um-cuidado-que-protege",
+    "titulo": "Higiene das mãos: um cuidado que protege",
+    "categoria": "Promoção da Saúde",
+    "descricao": "As mãos transportam microrganismos entre pessoas, objetos, alimentos e superfícies. A higiene correta reduz infecções e protege especialmente crianças, idosos e pessoas com imunidade reduzida.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "As mãos transportam microrganismos entre pessoas, objetos, alimentos e superfícies. A higiene correta reduz infecções e protege especialmente crianças, idosos e pessoas com imunidade reduzida.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Use água e sabonete quando houver sujeira visível, após usar o banheiro e antes de preparar alimentos.",
+          "Friccione palmas, dorso, entre os dedos, unhas, polegares e punhos.",
+          "Álcool a 70% é uma alternativa quando as mãos não estão visivelmente sujas."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Feridas, vermelhidão intensa, secreção ou dor persistente nas mãos merecem avaliação.",
+          "Em ambientes de cuidado, siga sempre as orientações da equipe de saúde."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "higiene das mãos",
+      "prevenção de infecções",
+      "água e sabão",
+      "álcool 70"
+    ],
+    "dataPublicacao": "2026-11-03T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/higiene-das-maos-um-cuidado-que-protege.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/higiene-das-maos-um-cuidado-que-protege.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/higiene-das-maos-um-cuidado-que-protege.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "seguranca-dos-alimentos-prevencao-comeca-na-cozinha",
+    "titulo": "Segurança dos alimentos: prevenção começa na cozinha",
+    "categoria": "Promoção da Saúde",
+    "descricao": "Alimentos podem transmitir microrganismos quando são mal lavados, cozidos de forma insuficiente ou conservados fora da temperatura adequada. Cuidados simples na cozinha evitam diarreia, vômitos e surtos familiares.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Alimentos podem transmitir microrganismos quando são mal lavados, cozidos de forma insuficiente ou conservados fora da temperatura adequada. Cuidados simples na cozinha evitam diarreia, vômitos e surtos familiares.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Lave as mãos, utensílios e superfícies antes de cozinhar.",
+          "Separe alimentos crus dos prontos para consumo.",
+          "Cozinhe bem carnes e ovos e refrigere sobras sem demora."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Procure atendimento diante de sangue nas fezes, vômitos persistentes, pouca urina, sonolência ou sinais de desidratação.",
+          "Crianças pequenas, idosos, gestantes e imunossuprimidos exigem atenção mais precoce."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "segurança dos alimentos",
+      "intoxicação alimentar",
+      "prevenção",
+      "cozinha segura"
+    ],
+    "dataPublicacao": "2026-11-05T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/seguranca-dos-alimentos-prevencao-comeca-na-cozinha.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/seguranca-dos-alimentos-prevencao-comeca-na-cozinha.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/seguranca-dos-alimentos-prevencao-comeca-na-cozinha.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "atividade-fisica-movimento-e-saude",
+    "titulo": "Atividade física: movimento é saúde",
+    "categoria": "Promoção da Saúde",
+    "descricao": "Movimentar o corpo regularmente ajuda o coração, os músculos, os ossos, o sono e a saúde mental. O melhor exercício é aquele que combina com a condição de saúde e pode ser mantido com segurança.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Movimentar o corpo regularmente ajuda o coração, os músculos, os ossos, o sono e a saúde mental. O melhor exercício é aquele que combina com a condição de saúde e pode ser mantido com segurança.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Comece de forma gradual e escolha atividades prazerosas.",
+          "Inclua movimentos de força, equilíbrio e resistência conforme orientação.",
+          "Reduza longos períodos sentado e respeite seus limites."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Interrompa o exercício e procure avaliação se houver dor no peito, desmaio, falta de ar intensa ou palpitação persistente.",
+          "Pessoas com doença crônica ou sintomas novos devem conversar com um profissional antes de aumentar muito a intensidade."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "atividade física",
+      "movimento",
+      "prevenção",
+      "qualidade de vida"
+    ],
+    "dataPublicacao": "2026-11-08T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/atividade-fisica-movimento-e-saude.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/atividade-fisica-movimento-e-saude.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/atividade-fisica-movimento-e-saude.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "higiene-do-sono-habitos-para-dormir-melhor",
+    "titulo": "Higiene do sono: hábitos para dormir melhor",
+    "categoria": "Promoção da Saúde",
+    "descricao": "Sono de qualidade participa da memória, do humor, da imunidade e do controle metabólico. Horários irregulares, telas, cafeína tarde da noite e ambiente inadequado podem dificultar o descanso.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Sono de qualidade participa da memória, do humor, da imunidade e do controle metabólico. Horários irregulares, telas, cafeína tarde da noite e ambiente inadequado podem dificultar o descanso.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Mantenha horários semelhantes para dormir e acordar.",
+          "Diminua luz, telas e estimulantes nas horas anteriores ao sono.",
+          "Deixe o quarto escuro, silencioso e confortável."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Procure avaliação se ronco alto vier com pausas respiratórias, se houver sonolência perigosa durante o dia ou insônia persistente.",
+          "Mudanças intensas de humor e pensamentos de autoagressão exigem ajuda imediata."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "sono",
+      "higiene do sono",
+      "insônia",
+      "saúde mental"
+    ],
+    "dataPublicacao": "2026-11-10T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/higiene-do-sono-habitos-para-dormir-melhor.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/higiene-do-sono-habitos-para-dormir-melhor.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/higiene-do-sono-habitos-para-dormir-melhor.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "saude-mental-cuidar-tambem-e-pedir-ajuda",
+    "titulo": "Saúde mental: cuidar também é pedir ajuda",
+    "categoria": "Promoção da Saúde",
+    "descricao": "Saúde mental faz parte da saúde como um todo. Tristeza, ansiedade e sobrecarga podem acontecer, mas sofrimento intenso ou persistente não precisa ser enfrentado sozinho.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Saúde mental faz parte da saúde como um todo. Tristeza, ansiedade e sobrecarga podem acontecer, mas sofrimento intenso ou persistente não precisa ser enfrentado sozinho.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Converse com alguém de confiança e procure a UBS ou a Rede de Atenção Psicossocial.",
+          "Mantenha, quando possível, rotina de sono, alimentação, movimento e vínculos sociais.",
+          "Evite usar álcool ou medicamentos por conta própria para aliviar o sofrimento."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Risco de autoagressão, confusão, agitação extrema ou incapacidade de se manter seguro exigem ajuda imediata.",
+          "Nesses casos, procure urgência, SAMU 192 ou apoio presencial de alguém de confiança."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "saúde mental",
+      "acolhimento",
+      "RAPS",
+      "autocuidado",
+      "pedir ajuda"
+    ],
+    "dataPublicacao": "2026-11-12T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/saude-mental-cuidar-tambem-e-pedir-ajuda.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/saude-mental-cuidar-tambem-e-pedir-ajuda.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/saude-mental-cuidar-tambem-e-pedir-ajuda.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "hipertensao-arterial-diagnostico-controle-e-cuidados",
+    "titulo": "Hipertensão arterial: diagnóstico, controle e cuidados",
+    "categoria": "Cardiologia",
+    "descricao": "Hipertensão é a elevação persistente da pressão arterial e muitas vezes não causa sintomas. O diagnóstico não depende de uma medida isolada: exige técnica correta, repetição e avaliação profissional, podendo incluir MAPA ou MRPA.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Hipertensão é a elevação persistente da pressão arterial e muitas vezes não causa sintomas. O diagnóstico não depende de uma medida isolada: exige técnica correta, repetição e avaliação profissional, podendo incluir MAPA ou MRPA.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Meça a pressão em repouso, com manguito adequado e braço apoiado.",
+          "Use os medicamentos nos horários prescritos e não interrompa por conta própria.",
+          "Reduza sal, mantenha atividade física e acompanhe diabetes, colesterol e peso."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Dor no peito, falta de ar intensa, desmaio, fraqueza de um lado do corpo, alteração da fala ou visão exigem emergência.",
+          "Valores muito elevados acompanhados de sintomas precisam de avaliação imediata."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "hipertensão",
+      "pressão alta",
+      "diagnóstico",
+      "MAPA",
+      "MRPA"
+    ],
+    "dataPublicacao": "2026-12-16T10:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/hipertensao-arterial-diagnostico-controle-e-cuidados.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/hipertensao-arterial-diagnostico-controle-e-cuidados.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/hipertensao-arterial-diagnostico-controle-e-cuidados.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "diabetes-mellitus-conhecer-para-cuidar",
+    "titulo": "Diabetes mellitus: conhecer para cuidar",
+    "categoria": "Clínica Médica",
+    "descricao": "Diabetes ocorre quando a glicose permanece elevada no sangue por falta de insulina ou dificuldade de seu uso. Sede excessiva, muita urina, perda de peso e visão embaçada podem aparecer, mas a doença também pode ser silenciosa.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Diabetes ocorre quando a glicose permanece elevada no sangue por falta de insulina ou dificuldade de seu uso. Sede excessiva, muita urina, perda de peso e visão embaçada podem aparecer, mas a doença também pode ser silenciosa.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Faça acompanhamento e exames conforme orientação da equipe de saúde.",
+          "Use corretamente os medicamentos e observe os pés todos os dias.",
+          "Alimentação, movimento e controle da pressão ajudam a reduzir complicações."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Confusão, sonolência, vômitos repetidos, respiração alterada ou desidratação exigem urgência.",
+          "Ferida no pé, glicose muito baixa com alteração de consciência ou sintomas persistentes precisam de atendimento."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "diabetes",
+      "glicose",
+      "insulina",
+      "pé diabético",
+      "prevenção"
+    ],
+    "dataPublicacao": "2026-10-28T10:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/diabetes-mellitus-conhecer-para-cuidar.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/diabetes-mellitus-conhecer-para-cuidar.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/diabetes-mellitus-conhecer-para-cuidar.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "dislipidemia-colesterol-e-triglicerideos",
+    "titulo": "Dislipidemia: colesterol e triglicerídeos",
+    "categoria": "Cardiologia",
+    "descricao": "Cuidar das gorduras do sangue protege o coração e o cérebro. Dislipidemia é a alteração das gorduras no sangue, como colesterol e triglicerídeos.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Cuidar das gorduras do sangue protege o coração e o cérebro. Dislipidemia é a alteração das gorduras no sangue, como colesterol e triglicerídeos. Em excesso ou fora do equilíbrio, elas favorecem placas nas artérias e aumentam o risco de infarto e AVC. LDL: quando elevado, pode se acumular nas artérias. HDL: ajuda no transporte do colesterol para eliminação.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Repita exames na frequência orientada.",
+          "Leve resultados anteriores às consultas.",
+          "Converse sobre efeitos adversos antes de abandonar o tratamento.",
+          "Crianças e adultos jovens também podem ter alterações hereditárias."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Dor ou pressão no peito, suor frio, falta de ar ou desmaio.",
+          "Fraqueza ou dormência súbita de um lado do corpo.",
+          "Fala enrolada, rosto torto ou confusão repentina.",
+          "Dislipidemia geralmente é silenciosa, mas infarto e AVC são emergências. Ligue para o SAMU 192."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "dislipidemia"
+    ],
+    "dataPublicacao": "2026-11-22T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/dislipidemia-colesterol-e-triglicerideos.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/dislipidemia-colesterol-e-triglicerideos.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/dislipidemia-colesterol-e-triglicerideos.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "eletrocardiograma-o-que-o-exame-mostra",
+    "titulo": "Eletrocardiograma: o que o exame mostra",
+    "categoria": "Cardiologia",
+    "descricao": "Um exame rápido, seguro e sem dor. O eletrocardiograma registra os sinais elétricos que fazem o coração bater.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Um exame rápido, seguro e sem dor. O eletrocardiograma registra os sinais elétricos que fazem o coração bater. Ele ajuda a avaliar o ritmo e pode mostrar alterações que precisam de investigação. É simples, rápido e geralmente dura poucos minutos. Não aplica choque nem corrente elétrica no corpo.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Em geral, não exige jejum.",
+          "Evite cremes ou óleos no peito no dia do exame.",
+          "Use roupa fácil de retirar e avise quais medicamentos utiliza.",
+          "Leve exames anteriores, se tiver."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Dor ou aperto no peito, especialmente com suor frio ou náusea.",
+          "Falta de ar intensa.",
+          "Desmaio ou sensação de desmaio.",
+          "Palpitação com fraqueza intensa, confusão ou dor no peito."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "eletrocardiograma"
+    ],
+    "dataPublicacao": "2026-11-24T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/eletrocardiograma-o-que-o-exame-mostra.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/eletrocardiograma-o-que-o-exame-mostra.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/eletrocardiograma-o-que-o-exame-mostra.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "mapa-x-mrpa-qual-e-a-diferenca",
+    "titulo": "MAPA x MRPA: qual é a diferença?",
+    "categoria": "Cardiologia",
+    "descricao": "Entenda a diferença entre os exames. Monitorização Ambulatorial da Pressão Arterial.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Entenda a diferença entre os exames. Monitorização Ambulatorial da Pressão Arterial. Um aparelho fica preso ao corpo geralmente por 24 horas. O manguito infla automaticamente várias vezes, inclusive durante o sono.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "A pressão pode mudar ao longo do dia e também pela ansiedade da consulta. MAPA e MRPA registram medidas no cotidiano e ajudam a confirmar o diagnóstico e avaliar o tratamento.",
+          "Podem identificar pressão alta só no consultório (‘avental branco’).",
+          "Podem revelar pressão normal na consulta, mas alta em casa (‘hipertensão mascarada’)."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Pressão muito alta acompanhada de dor no peito ou falta de ar.",
+          "Fraqueza em um lado do corpo, fala enrolada ou confusão.",
+          "Desmaio, convulsão ou dor de cabeça súbita e muito intensa.",
+          "Sintomas importantes valem mais que um número isolado. Procure emergência ou ligue 192 quando houver sinais de gravidade."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "mapa",
+      "mrpa"
+    ],
+    "dataPublicacao": "2026-11-26T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/mapa-x-mrpa-qual-e-a-diferenca.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/mapa-x-mrpa-qual-e-a-diferenca.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/mapa-x-mrpa-qual-e-a-diferenca.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "arritmias-do-ritmo-ao-cuidado",
+    "titulo": "Arritmias: do ritmo ao cuidado",
+    "categoria": "Cardiologia",
+    "descricao": "Arritmia é uma alteração na frequência ou no ritmo dos batimentos. Pode causar palpitações, sensação de falha, cansaço ou tontura, mas o tipo só pode ser definido com avaliação e registro do ritmo.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Arritmia é uma alteração na frequência ou no ritmo dos batimentos. Pode causar palpitações, sensação de falha, cansaço ou tontura, mas o tipo só pode ser definido com avaliação e registro do ritmo.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Anote quando a palpitação começa, quanto dura e o que estava fazendo.",
+          "Evite automedicação e excesso de estimulantes.",
+          "Leve a lista de medicamentos e exames anteriores à consulta."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Palpitação com dor no peito, desmaio, falta de ar intensa ou fraqueza súbita exige emergência.",
+          "Batimento muito acelerado ou lento com mal-estar importante também deve ser avaliado rapidamente."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "arritmia",
+      "palpitação",
+      "ritmo cardíaco",
+      "eletrocardiograma"
+    ],
+    "dataPublicacao": "2026-12-23T10:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/arritmias-do-ritmo-ao-cuidado.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/arritmias-do-ritmo-ao-cuidado.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/arritmias-do-ritmo-ao-cuidado.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "arritmias-cardiacas-tipos-e-sinais-de-alerta",
+    "titulo": "Arritmias cardíacas: tipos e sinais de alerta",
+    "categoria": "Cardiologia",
+    "descricao": "As arritmias podem nascer nos átrios ou ventrículos e deixar o coração rápido, lento ou irregular. Algumas são benignas; outras aumentam o risco de desmaio, insuficiência cardíaca ou AVC.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "As arritmias podem nascer nos átrios ou ventrículos e deixar o coração rápido, lento ou irregular. Algumas são benignas; outras aumentam o risco de desmaio, insuficiência cardíaca ou AVC.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "O eletrocardiograma registra o ritmo naquele momento; Holter e outros monitores podem ser necessários.",
+          "Siga o tratamento indicado e não ajuste antiarrítmicos por conta própria.",
+          "Controle pressão, diabetes, sono e consumo de estimulantes."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Desmaio, dor no peito, falta de ar intensa, confusão ou sinais de AVC exigem atendimento imediato.",
+          "Procure avaliação rápida se a palpitação for prolongada ou acompanhada de fraqueza intensa."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "arritmias cardíacas",
+      "fibrilação atrial",
+      "taquicardia",
+      "bradicardia"
+    ],
+    "dataPublicacao": "2026-12-01T11:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/arritmias-cardiacas-tipos-e-sinais-de-alerta.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/arritmias-cardiacas-tipos-e-sinais-de-alerta.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/arritmias-cardiacas-tipos-e-sinais-de-alerta.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "insuficiencia-cardiaca-sinais-cuidados-e-acompanhamento",
+    "titulo": "Insuficiência cardíaca: sinais, cuidados e acompanhamento",
+    "categoria": "Cardiologia",
+    "descricao": "Na insuficiência cardíaca, o coração não consegue bombear ou receber sangue adequadamente. Falta de ar, cansaço, inchaço nas pernas e necessidade de dormir mais sentado podem indicar acúmulo de líquido.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Na insuficiência cardíaca, o coração não consegue bombear ou receber sangue adequadamente. Falta de ar, cansaço, inchaço nas pernas e necessidade de dormir mais sentado podem indicar acúmulo de líquido.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Use os medicamentos exatamente como prescritos.",
+          "Observe peso, inchaço e piora da falta de ar.",
+          "Reduza sal e ajuste líquidos apenas conforme orientação da equipe."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Falta de ar em repouso, lábios arroxeados, desmaio, dor no peito ou piora rápida do inchaço exigem urgência.",
+          "Ganho rápido de peso e redução importante da urina merecem contato precoce com a equipe."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "insuficiência cardíaca",
+      "falta de ar",
+      "edema",
+      "coração"
+    ],
+    "dataPublicacao": "2026-12-25T10:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/insuficiencia-cardiaca-sinais-cuidados-e-acompanhamento.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/insuficiencia-cardiaca-sinais-cuidados-e-acompanhamento.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/insuficiencia-cardiaca-sinais-cuidados-e-acompanhamento.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "cateterismo-cardiaco-como-e-feito",
+    "titulo": "Cateterismo cardíaco: como é feito",
+    "categoria": "Cardiologia",
+    "descricao": "O cateterismo usa um tubo fino introduzido por uma artéria do punho ou da virilha para visualizar vasos do coração e medir pressões. O paciente costuma permanecer acordado, com anestesia local e monitoramento.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "O cateterismo usa um tubo fino introduzido por uma artéria do punho ou da virilha para visualizar vasos do coração e medir pressões. O paciente costuma permanecer acordado, com anestesia local e monitoramento.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Informe alergias, gravidez, doença renal e todos os medicamentos, especialmente anticoagulantes.",
+          "Siga as orientações de jejum e hidratação da equipe.",
+          "Após o exame, mantenha o local protegido e respeite o repouso indicado."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Sangramento que não para, aumento rápido de volume no local, dor no peito, falta de ar ou membro frio/pálido exigem atendimento.",
+          "Febre ou piora da dor no ponto de punção também precisa ser comunicada."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "cateterismo",
+      "coronariografia",
+      "contraste",
+      "procedimento cardíaco"
+    ],
+    "dataPublicacao": "2026-12-18T10:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/cateterismo-cardiaco-como-e-feito.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/cateterismo-cardiaco-como-e-feito.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/cateterismo-cardiaco-como-e-feito.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "dor-no-peito-tipos-e-sinais-de-alarme",
+    "titulo": "Dor no peito: tipos e sinais de alarme",
+    "categoria": "Cardiologia",
+    "descricao": "Entenda os tipos de dor e quando procurar emergência. Anginosa: desconforto em aperto, pressão, peso ou queimação, geralmente no centro do peito; pode surgir com esforço ou estresse e irradiar para braço, ombro, costas, pescoço ou mandíbula.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Entenda os tipos de dor e quando procurar emergência. Anginosa: desconforto em aperto, pressão, peso ou queimação, geralmente no centro do peito; pode surgir com esforço ou estresse e irradiar para braço, ombro, costas, pescoço ou mandíbula. Não anginosa: dor com características menos compatíveis com falta de sangue no coração, como dor localizada que piora ao apertar o local ou com certos movimentos. A aparência da dor não confirma a causa. Infarto pode ser atípico ou ocorrer sem dor forte.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Pare a atividade e sente-se em local seguro.",
+          "Ligue para o SAMU 192 ou procure emergência imediatamente.",
+          "Não dirija se estiver passando mal.",
+          "Não espere a dor melhorar e não se automedique."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Dor leve, já conhecida, claramente ligada a movimento e sem sinais de alarme pode ser avaliada inicialmente em consulta.",
+          "Ainda assim, procure atendimento se persistir, piorar, repetir ou houver dúvida.",
+          "Dor nova no peito merece avaliação, especialmente em pessoas com diabetes, hipertensão, colesterol alto, tabagismo ou doença cardíaca.",
+          "Dor no peito súbita ou acompanhada de sinais de gravidade é emergência: SAMU 192."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "peito"
+    ],
+    "dataPublicacao": "2026-12-09T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/dor-no-peito-tipos-e-sinais-de-alarme.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/dor-no-peito-tipos-e-sinais-de-alarme.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/dor-no-peito-tipos-e-sinais-de-alarme.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "refluxo-gastroesofagico-sintomas-e-cuidados",
+    "titulo": "Refluxo gastroesofágico: sintomas e cuidados",
+    "categoria": "Gastroenterologia",
+    "descricao": "Quando o conteúdo do estômago volta para o esôfago. Refluxo ocasional pode acontecer com muitas pessoas.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Quando o conteúdo do estômago volta para o esôfago. Refluxo ocasional pode acontecer com muitas pessoas. DRGE é quando o refluxo causa sintomas repetidos, incômodos ou complicações. O ácido pode irritar o esôfago e, às vezes, garganta e vias respiratórias.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Azia ou queimação atrás do peito.",
+          "Gosto ácido ou comida voltando à boca.",
+          "Piora após refeições ou ao deitar.",
+          "Tosse, rouquidão ou pigarro em algumas pessoas."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Dor no peito com suor frio, falta de ar ou desmaio.",
+          "Dificuldade progressiva ou dor para engolir.",
+          "Vômito com sangue ou aspecto de borra de café.",
+          "Fezes pretas ou sangue nas fezes."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "refluxo"
+    ],
+    "dataPublicacao": "2026-12-13T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/refluxo-gastroesofagico-sintomas-e-cuidados.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/refluxo-gastroesofagico-sintomas-e-cuidados.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/refluxo-gastroesofagico-sintomas-e-cuidados.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "gastrite-o-que-e-e-como-cuidar",
+    "titulo": "Gastrite: o que é e como cuidar",
+    "categoria": "Gastroenterologia",
+    "descricao": "Inflamação da camada interna do estômago tem diferentes causas. Gastrite é inflamação do revestimento do estômago.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Inflamação da camada interna do estômago tem diferentes causas. Gastrite é inflamação do revestimento do estômago. Gastropatia é dano da mucosa com pouca ou nenhuma inflamação. Muitas pessoas não têm sintomas.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Tratar a causa: H. pylori exige combinação prescrita.",
+          "Revisar anti-inflamatórios com a equipe.",
+          "Medicamentos que reduzem ácido podem ser usados quando indicados.",
+          "Evite álcool e gatilhos individuais."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Vômito com sangue ou aspecto de borra de café.",
+          "Fezes pretas ou com sangue.",
+          "Tontura, desmaio, falta de ar ou palidez.",
+          "Dor súbita e muito intensa."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "gastrite"
+    ],
+    "dataPublicacao": "2026-12-15T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/gastrite-o-que-e-e-como-cuidar.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/gastrite-o-que-e-e-como-cuidar.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/gastrite-o-que-e-e-como-cuidar.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "antiacidos-x-ibp-entenda-a-diferenca",
+    "titulo": "Antiácidos x IBP: entenda a diferença",
+    "categoria": "Gastroenterologia",
+    "descricao": "Um neutraliza o ácido; o outro reduz sua produção. Neutralizam temporariamente o ácido já presente no estômago.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Um neutraliza o ácido; o outro reduz sua produção. Neutralizam temporariamente o ácido já presente no estômago. Podem aliviar azia leve por algumas horas. Não tratam a causa e não são indicados para uso diário sem avaliação.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Revise periodicamente se ainda há indicação.",
+          "Não suspenda abruptamente tratamento longo sem orientação.",
+          "Informe todos os medicamentos e doenças.",
+          "Pessoas com doença renal, cardíaca ou dieta com pouco sódio precisam atenção a alguns antiácidos."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Dor no peito com falta de ar, suor frio ou desmaio.",
+          "Dificuldade/dor para engolir.",
+          "Vômito com sangue ou fezes pretas.",
+          "Perda de peso, anemia ou vômitos persistentes."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "antiácidos"
+    ],
+    "dataPublicacao": "2026-12-30T10:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/antiacidos-x-ibp-entenda-a-diferenca.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/antiacidos-x-ibp-entenda-a-diferenca.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/antiacidos-x-ibp-entenda-a-diferenca.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "doenca-de-crohn-sintomas-diagnostico-e-tratamento",
+    "titulo": "Doença de Crohn: sintomas, diagnóstico e tratamento",
+    "categoria": "Gastroenterologia",
+    "descricao": "Pode alternar fases de crise e remissão. É uma doença inflamatória que pode atingir qualquer parte do tubo digestivo.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Pode alternar fases de crise e remissão. É uma doença inflamatória que pode atingir qualquer parte do tubo digestivo. A causa exata não é conhecida e envolve resposta imune e outros fatores. Pode afetar camadas profundas do intestino.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Objetiva controlar a inflamação, induzir remissão e evitar complicações.",
+          "Pode incluir imunomoduladores, biológicos e outros medicamentos.",
+          "Cirurgia pode ser necessária em obstrução, fístula, abscesso ou falha do tratamento.",
+          "Não interrompa o tratamento quando melhorar."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Dor abdominal intensa ou barriga distendida.",
+          "Vômitos persistentes ou não eliminar gases/fezes.",
+          "Sangramento importante.",
+          "Febre alta, calafrios ou dor/inchaço ao redor do ânus."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "doença",
+      "crohn"
+    ],
+    "dataPublicacao": "2026-12-20T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/doenca-de-crohn-sintomas-diagnostico-e-tratamento.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/doenca-de-crohn-sintomas-diagnostico-e-tratamento.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/doenca-de-crohn-sintomas-diagnostico-e-tratamento.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "cancer-colorretal-rastreamento-e-sinais-de-alarme",
+    "titulo": "Câncer colorretal: rastreamento e sinais de alarme",
+    "categoria": "Gastroenterologia",
+    "descricao": "O câncer de intestino pode ser encontrado antes dos sintomas. Começa no cólon ou reto, partes do intestino grosso.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "O câncer de intestino pode ser encontrado antes dos sintomas. Começa no cólon ou reto, partes do intestino grosso. Muitos tumores surgem de pólipos, que podem ser retirados. Quando detectado cedo, costuma ter maior chance de cura.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Mantenha peso saudável e atividade física.",
+          "Consuma frutas, verduras, feijões e alimentos com fibras.",
+          "Evite tabaco e reduza álcool.",
+          "Limite carnes processadas e excesso de carne vermelha."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Sangramento em grande quantidade ou fezes pretas.",
+          "Tontura, desmaio ou fraqueza intensa.",
+          "Dor abdominal forte, vômitos ou barriga distendida.",
+          "Não conseguir evacuar/eliminar gases."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "câncer",
+      "colorretal"
+    ],
+    "dataPublicacao": "2026-12-22T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/cancer-colorretal-rastreamento-e-sinais-de-alarme.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/cancer-colorretal-rastreamento-e-sinais-de-alarme.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/cancer-colorretal-rastreamento-e-sinais-de-alarme.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "cancer-colorretal-exames-prevencao-e-investigacao",
+    "titulo": "Câncer colorretal: exames, prevenção e investigação",
+    "categoria": "Gastroenterologia",
+    "descricao": "O câncer de intestino pode ser encontrado antes dos sintomas. Começa no cólon ou reto, partes do intestino grosso.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "O câncer de intestino pode ser encontrado antes dos sintomas. Começa no cólon ou reto, partes do intestino grosso. Muitos tumores surgem de pólipos, que podem ser retirados. Quando detectado cedo, costuma ter maior chance de cura.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Mantenha peso saudável e atividade física.",
+          "Consuma frutas, verduras, feijões e alimentos com fibras.",
+          "Evite tabaco e reduza álcool.",
+          "Limite carnes processadas e excesso de carne vermelha."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Sangramento em grande quantidade ou fezes pretas.",
+          "Tontura, desmaio ou fraqueza intensa.",
+          "Dor abdominal forte, vômitos ou barriga distendida.",
+          "Não conseguir evacuar/eliminar gases."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "câncer",
+      "colorretal"
+    ],
+    "dataPublicacao": "2026-12-24T11:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/cancer-colorretal-exames-prevencao-e-investigacao.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/cancer-colorretal-exames-prevencao-e-investigacao.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/cancer-colorretal-exames-prevencao-e-investigacao.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "hernias-como-reconhecer-e-quando-procurar-ajuda",
+    "titulo": "Hérnias: como reconhecer e quando procurar ajuda",
+    "categoria": "Cirurgia",
+    "descricao": "Pode aparecer na virilha, umbigo ou cicatriz de cirurgia. Gordura ou intestino atravessa um ponto fraco da parede abdominal.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Pode aparecer na virilha, umbigo ou cicatriz de cirurgia. Gordura ou intestino atravessa um ponto fraco da parede abdominal. O abaulamento pode aumentar ao tossir, fazer força ou ficar em pé. Pode diminuir ao deitar.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Evite esforço que provoque dor até avaliação.",
+          "Trate tosse e prisão de ventre.",
+          "Não force um caroço doloroso para dentro.",
+          "Mantenha peso saudável e pare de fumar."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Caroço duro, muito doloroso e que não reduz.",
+          "Pele vermelha, arroxeada ou escura sobre a hérnia.",
+          "Vômitos, barriga distendida ou dor abdominal forte.",
+          "Não eliminar gases ou fezes."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "hérnias"
+    ],
+    "dataPublicacao": "2026-12-27T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/hernias-como-reconhecer-e-quando-procurar-ajuda.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/hernias-como-reconhecer-e-quando-procurar-ajuda.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/hernias-como-reconhecer-e-quando-procurar-ajuda.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "apendicite-sinais-e-atendimento-rapido",
+    "titulo": "Apendicite: sinais e atendimento rápido",
+    "categoria": "Cirurgia",
+    "descricao": "A inflamação do apêndice pode perfurar sem tratamento. Inflamação do apêndice, pequena estrutura ligada ao intestino grosso.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "A inflamação do apêndice pode perfurar sem tratamento. Inflamação do apêndice, pequena estrutura ligada ao intestino grosso. Pode bloquear, inchar e infeccionar. Sem tratamento, pode perfurar e espalhar infecção.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Cirurgia para retirar o apêndice é comum.",
+          "Antibióticos fazem parte do tratamento.",
+          "Alguns casos selecionados podem ser tratados sem cirurgia.",
+          "A equipe decide conforme gravidade e exames."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Dor abdominal forte ou que piora por horas.",
+          "Rigidez da barriga ou dor ao mínimo movimento.",
+          "Febre alta, confusão ou fraqueza intensa.",
+          "Vômitos repetidos ou desidratação."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "apendicite"
+    ],
+    "dataPublicacao": "2026-12-30T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/apendicite-sinais-e-atendimento-rapido.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/apendicite-sinais-e-atendimento-rapido.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/apendicite-sinais-e-atendimento-rapido.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "complicacoes-pos-operatorias-sinais-de-alerta",
+    "titulo": "Complicações pós-operatórias: sinais de alerta",
+    "categoria": "Cirurgia",
+    "descricao": "Dor leve e cansaço podem ocorrer, mas piora progressiva não é esperada. Dor controlável e que melhora aos poucos.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Dor leve e cansaço podem ocorrer, mas piora progressiva não é esperada. Dor controlável e que melhora aos poucos. Pequeno inchaço ou roxo perto da incisão. Cansaço e apetite reduzido por curto período.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Mantenha limpa e seca conforme instrução.",
+          "Lave as mãos antes e depois de tocar.",
+          "Não retire pontos ou cola.",
+          "Não aplique pomada sem prescrição."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Falta de ar, dor no peito ou tosse com sangue.",
+          "Desmaio, confusão ou palidez intensa.",
+          "Sangramento volumoso.",
+          "Perna subitamente inchada e dolorosa."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "complicações",
+      "pós-operatórias"
+    ],
+    "dataPublicacao": "2027-01-03T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/complicacoes-pos-operatorias-sinais-de-alerta.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/complicacoes-pos-operatorias-sinais-de-alerta.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/complicacoes-pos-operatorias-sinais-de-alerta.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "curativos-e-feridas-cuidados-e-sinais-de-infeccao",
+    "titulo": "Curativos e feridas: cuidados e sinais de infecção",
+    "categoria": "Cirurgia",
+    "descricao": "Nem toda ferida deve ser fechada imediatamente. Ferida recente, limpa e com bordas aproximáveis pode ser suturada/colada.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Nem toda ferida deve ser fechada imediatamente. Ferida recente, limpa e com bordas aproximáveis pode ser suturada/colada. A equipe avalia profundidade, local e tempo. Feridas cirúrgicas limpas costumam fechar por primeira intenção.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Lave as mãos.",
+          "Controle sangramento com pressão direta.",
+          "Irrigue com água limpa/soro e retire sujeira superficial.",
+          "Cubra com material limpo que não grude."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Sangramento que não para com pressão.",
+          "Ferida profunda, extensa, sobre articulação ou com perda de sensibilidade.",
+          "Mordida humana/animal ou objeto sujo/enferrujado.",
+          "Corpo estranho, tendão/osso visível ou movimento comprometido."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "curativo",
+      "ideal"
+    ],
+    "dataPublicacao": "2027-01-05T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/curativos-e-feridas-cuidados-e-sinais-de-infeccao.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/curativos-e-feridas-cuidados-e-sinais-de-infeccao.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/curativos-e-feridas-cuidados-e-sinais-de-infeccao.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "videolaparoscopia-pequenas-incisoes-visao-ampliada",
+    "titulo": "Videolaparoscopia: pequenas incisões, visão ampliada",
+    "categoria": "Cirurgia",
+    "descricao": "Uma câmera e instrumentos finos permitem ver e operar o abdome. Técnica também chamada de laparoscopia ou cirurgia por vídeo.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Uma câmera e instrumentos finos permitem ver e operar o abdome. Técnica também chamada de laparoscopia ou cirurgia por vídeo. Pode servir para diagnosticar e tratar. Uma câmera transmite imagens ampliadas para um monitor.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Geralmente sob anestesia geral.",
+          "Faz-se uma pequena incisão perto do umbigo.",
+          "Outras pequenas incisões recebem os instrumentos.",
+          "O cirurgião opera olhando o monitor."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Sangramento, infecção, trombose e reação à anestesia podem ocorrer.",
+          "Raramente há lesão de órgão ou necessidade de converter para cirurgia aberta.",
+          "Procure urgência por falta de ar, dor intensa, febre ou desmaio.",
+          "Vômitos persistentes, barriga muito inchada ou ferida com pus também alertam."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "videolaparoscopia"
+    ],
+    "dataPublicacao": "2027-01-07T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/videolaparoscopia-pequenas-incisoes-visao-ampliada.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/videolaparoscopia-pequenas-incisoes-visao-ampliada.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/videolaparoscopia-pequenas-incisoes-visao-ampliada.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "queimaduras-primeiros-cuidados-e-quando-buscar-ajuda",
+    "titulo": "Queimaduras: primeiros cuidados e quando buscar ajuda",
+    "categoria": "Cirurgia",
+    "descricao": "Calor, eletricidade e produtos químicos podem queimar. Afaste a pessoa da fonte sem se colocar em risco.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Calor, eletricidade e produtos químicos podem queimar. Afaste a pessoa da fonte sem se colocar em risco. Desligue a eletricidade antes de tocar. Retire roupa e joias próximas se não estiverem grudadas.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Coloque a área sob água corrente fresca.",
+          "Faça isso o quanto antes.",
+          "Evite água muito fria em áreas extensas.",
+          "Cubra depois com pano limpo ou curativo não aderente."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Fumaça, rouquidão, tosse preta ou dificuldade para respirar.",
+          "Área extensa, circular ou pele branca, marrom ou carbonizada.",
+          "Choque elétrico de alta tensão.",
+          "Confusão, desmaio ou sinais de choque."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "queimaduras"
+    ],
+    "dataPublicacao": "2027-01-10T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/queimaduras-primeiros-cuidados-e-quando-buscar-ajuda.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/queimaduras-primeiros-cuidados-e-quando-buscar-ajuda.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/queimaduras-primeiros-cuidados-e-quando-buscar-ajuda.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "hidratacao-quanta-agua-beber-por-dia",
+    "titulo": "Hidratação: quanta água beber por dia?",
+    "categoria": "Promoção da Saúde",
+    "descricao": "Dois litros podem ser suficientes para alguns e inadequados para outros. Depende de idade, peso, alimentação e atividade física.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Dois litros podem ser suficientes para alguns e inadequados para outros. Depende de idade, peso, alimentação e atividade física. Clima quente e exercício aumentam as perdas. Febre, vômitos, diarreia, gestação e amamentação mudam a necessidade.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Beba ao longo do dia, antes de sentir sede intensa.",
+          "Tenha uma garrafa ou copo acessível.",
+          "Observe sede, boca seca, calor, atividade e quantidade de urina.",
+          "Prefira água a bebidas açucaradas."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Sede intensa persistente com muita urina.",
+          "Pouca urina apesar de beber líquidos.",
+          "Confusão, desmaio ou convulsão.",
+          "Inchaço ou falta de ar."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "quanta",
+      "água",
+      "beber?"
+    ],
+    "dataPublicacao": "2027-01-12T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/hidratacao-quanta-agua-beber-por-dia.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/hidratacao-quanta-agua-beber-por-dia.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/hidratacao-quanta-agua-beber-por-dia.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "dengue-sinais-de-alarme-e-quando-procurar-ajuda",
+    "titulo": "Dengue: sinais de alarme e quando procurar ajuda",
+    "categoria": "Infectologia",
+    "descricao": "Doença transmitida pelo mosquito aedes aegypti. A fêmea infectada do Aedes aegypti transmite pela picada.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Doença transmitida pelo mosquito aedes aegypti. A fêmea infectada do Aedes aegypti transmite pela picada. Não passa por abraço, beijo, talheres ou convivência. A pessoa pode ter dengue mais de uma vez.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Descanse e beba líquidos com frequência.",
+          "Use soro de reidratação quando orientado.",
+          "Tome somente medicamentos liberados pela equipe.",
+          "Retorne na data indicada mesmo se a febre baixar."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Dor abdominal intensa e contínua.",
+          "Vômitos frequentes.",
+          "Sangramento, tontura ou desmaio.",
+          "Sonolência, irritabilidade ou fraqueza intensa."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "dengue"
+    ],
+    "dataPublicacao": "2027-01-14T11:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/dengue-sinais-de-alarme-e-quando-procurar-ajuda.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/dengue-sinais-de-alarme-e-quando-procurar-ajuda.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/dengue-sinais-de-alarme-e-quando-procurar-ajuda.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "dengue-prevencao-reconhecimento-e-cuidado",
+    "titulo": "Dengue: prevenção, reconhecimento e cuidado",
+    "categoria": "Infectologia",
+    "descricao": "Doença transmitida pelo mosquito aedes aegypti. A fêmea infectada do Aedes aegypti transmite pela picada.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Doença transmitida pelo mosquito aedes aegypti. A fêmea infectada do Aedes aegypti transmite pela picada. Não passa por abraço, beijo, talheres ou convivência. A pessoa pode ter dengue mais de uma vez.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Descanse e beba líquidos com frequência.",
+          "Use soro de reidratação quando orientado.",
+          "Tome somente medicamentos liberados pela equipe.",
+          "Retorne na data indicada mesmo se a febre baixar."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Dor abdominal intensa e contínua.",
+          "Vômitos frequentes.",
+          "Sangramento, tontura ou desmaio.",
+          "Sonolência, irritabilidade ou fraqueza intensa."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "dengue"
+    ],
+    "dataPublicacao": "2027-01-17T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/dengue-prevencao-reconhecimento-e-cuidado.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/dengue-prevencao-reconhecimento-e-cuidado.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/dengue-prevencao-reconhecimento-e-cuidado.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "chikungunya-sintomas-transmissao-e-prevencao",
+    "titulo": "Chikungunya: sintomas, transmissão e prevenção",
+    "categoria": "Infectologia",
+    "descricao": "Chikungunya é transmitida pelo mosquito Aedes e costuma causar febre e dor intensa nas articulações. Em algumas pessoas, a dor pode persistir por semanas ou meses.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Chikungunya é transmitida pelo mosquito Aedes e costuma causar febre e dor intensa nas articulações. Em algumas pessoas, a dor pode persistir por semanas ou meses.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Hidrate-se, descanse e procure avaliação para confirmar o diagnóstico.",
+          "Não use medicamentos por conta própria, especialmente antes de excluir dengue.",
+          "Elimine água parada e use proteção contra picadas."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Sonolência, falta de ar, dor no peito, vômitos persistentes, pouca urina ou piora importante exigem atendimento.",
+          "Recém-nascidos, idosos, gestantes e pessoas com doenças crônicas merecem avaliação precoce."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "chikungunya",
+      "Aedes aegypti",
+      "dor articular",
+      "prevenção"
+    ],
+    "dataPublicacao": "2027-01-20T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/chikungunya-sintomas-transmissao-e-prevencao.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/chikungunya-sintomas-transmissao-e-prevencao.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/chikungunya-sintomas-transmissao-e-prevencao.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "zika-transmissao-prevencao-e-cuidados",
+    "titulo": "Zika: transmissão, prevenção e cuidados",
+    "categoria": "Infectologia",
+    "descricao": "Zika é uma infecção viral transmitida principalmente pelo Aedes. Pode causar manchas, coceira, febre baixa e olhos vermelhos; na gestação, exige atenção especial pelo risco ao bebê.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Zika é uma infecção viral transmitida principalmente pelo Aedes. Pode causar manchas, coceira, febre baixa e olhos vermelhos; na gestação, exige atenção especial pelo risco ao bebê.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Procure orientação, especialmente durante a gestação.",
+          "Use repelente adequado, roupas que cubram a pele e elimine criadouros.",
+          "Utilize preservativo, pois também pode ocorrer transmissão sexual."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Fraqueza progressiva, dificuldade para respirar, sinais neurológicos ou piora importante exigem urgência.",
+          "Gestantes com suspeita devem contatar o pré-natal sem demora."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "zika",
+      "Aedes aegypti",
+      "gestação",
+      "prevenção"
+    ],
+    "dataPublicacao": "2027-01-24T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/zika-transmissao-prevencao-e-cuidados.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/zika-transmissao-prevencao-e-cuidados.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/zika-transmissao-prevencao-e-cuidados.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "febre-amarela-vacinacao-e-prevencao",
+    "titulo": "Febre amarela: vacinação e prevenção",
+    "categoria": "Infectologia",
+    "descricao": "Febre amarela é transmitida por mosquitos em áreas de circulação do vírus; não passa de pessoa para pessoa. A vacinação é a principal forma de prevenção para quem tem indicação.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Febre amarela é transmitida por mosquitos em áreas de circulação do vírus; não passa de pessoa para pessoa. A vacinação é a principal forma de prevenção para quem tem indicação.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Mantenha a situação vacinal atualizada conforme o calendário e a área de risco.",
+          "Use repelente, telas e roupas protetoras em áreas de exposição.",
+          "Informe à equipe de saúde se estiver grávida, imunossuprimido ou tiver alergias antes de vacinar."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Febre com pele ou olhos amarelados, sangramento, vômitos persistentes ou redução da urina exige atendimento imediato.",
+          "Não se automedique com anti-inflamatórios diante de suspeita."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "febre amarela",
+      "vacinação",
+      "mosquitos",
+      "prevenção"
+    ],
+    "dataPublicacao": "2027-01-26T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/febre-amarela-vacinacao-e-prevencao.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/febre-amarela-vacinacao-e-prevencao.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/febre-amarela-vacinacao-e-prevencao.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "acidente-ofidico-o-que-fazer-apos-uma-picada",
+    "titulo": "Acidente ofídico: o que fazer após uma picada",
+    "categoria": "Clínica Médica",
+    "descricao": "Picada de serpente pode causar dor, inchaço, sangramento, alterações neurológicas ou musculares. O soro correto depende do tipo de acidente e deve ser administrado em serviço de saúde.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Picada de serpente pode causar dor, inchaço, sangramento, alterações neurológicas ou musculares. O soro correto depende do tipo de acidente e deve ser administrado em serviço de saúde.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Lave o local com água e sabão, mantenha a pessoa em repouso e procure atendimento imediatamente.",
+          "Retire anéis, pulseiras ou objetos apertados do membro.",
+          "Se for seguro, fotografe o animal sem tentar capturá-lo."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Não faça torniquete, cortes, sucção nem aplique substâncias caseiras.",
+          "Inchaço progressivo, sangramento, vômitos, visão dupla, fraqueza ou urina escura indicam gravidade."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "acidente ofídico",
+      "serpente",
+      "soro antiofídico",
+      "primeiros socorros"
+    ],
+    "dataPublicacao": "2026-10-26T22:20:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/acidente-ofidico-o-que-fazer-apos-uma-picada.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/acidente-ofidico-o-que-fazer-apos-uma-picada.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/acidente-ofidico-o-que-fazer-apos-uma-picada.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "animais-peconhentos-prevencao-e-reconhecimento",
+    "titulo": "Animais peçonhentos: prevenção e reconhecimento",
+    "categoria": "Clínica Médica",
+    "descricao": "Animais peçonhentos injetam toxinas por ferrões, presas ou estruturas semelhantes. Serpentes, escorpiões, aranhas, abelhas e algumas lagartas podem causar acidentes relevantes.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Animais peçonhentos injetam toxinas por ferrões, presas ou estruturas semelhantes. Serpentes, escorpiões, aranhas, abelhas e algumas lagartas podem causar acidentes relevantes.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Use calçados e luvas em áreas de risco e sacuda roupas e sapatos antes de usar.",
+          "Mantenha quintais limpos e vede frestas.",
+          "Após um acidente, lave o local e procure orientação rapidamente."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Falta de ar, vômitos, suor intenso, sonolência, sangramento ou dor/inchaço progressivos exigem urgência.",
+          "Crianças pequenas e idosos devem ser avaliados precocemente."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "animais peçonhentos",
+      "escorpião",
+      "aranha",
+      "serpente",
+      "prevenção"
+    ],
+    "dataPublicacao": "2027-01-31T11:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/animais-peconhentos-prevencao-e-reconhecimento.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/animais-peconhentos-prevencao-e-reconhecimento.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/animais-peconhentos-prevencao-e-reconhecimento.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "acidente-com-arraia-primeiros-cuidados",
+    "titulo": "Acidente com arraia: primeiros cuidados",
+    "categoria": "Clínica Médica",
+    "descricao": "O ferrão da arraia causa ferida dolorosa, pode deixar fragmentos e aumentar o risco de infecção. A dor costuma ser intensa e o ferimento precisa ser avaliado.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "O ferrão da arraia causa ferida dolorosa, pode deixar fragmentos e aumentar o risco de infecção. A dor costuma ser intensa e o ferimento precisa ser avaliado.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Saia da água com segurança, lave o local e procure atendimento.",
+          "Água morna suportável pode ajudar na dor enquanto se busca cuidado.",
+          "Mantenha a vacinação contra tétano atualizada."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Não corte, não sugue e não tente retirar fragmentos profundos.",
+          "Sangramento intenso, desmaio, falta de ar, ferida no tórax/abdome ou dor persistente exigem emergência."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "acidente com arraia",
+      "ferimento",
+      "primeiros socorros",
+      "tétano"
+    ],
+    "dataPublicacao": "2026-10-30T10:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/acidente-com-arraia-primeiros-cuidados.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/acidente-com-arraia-primeiros-cuidados.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/acidente-com-arraia-primeiros-cuidados.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "choque-anafilatico-reconhecer-para-agir-rapido",
+    "titulo": "Choque anafilático: reconhecer para agir rápido",
+    "categoria": "Clínica Médica",
+    "descricao": "Anafilaxia é uma reação alérgica grave e rápida. Pode ocorrer após alimentos, medicamentos, picadas ou outras exposições e comprometer respiração e circulação.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Anafilaxia é uma reação alérgica grave e rápida. Pode ocorrer após alimentos, medicamentos, picadas ou outras exposições e comprometer respiração e circulação.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Afaste o possível gatilho quando for seguro e acione o SAMU 192.",
+          "Se a pessoa possui autoinjetor de adrenalina prescrito, use conforme o plano médico.",
+          "Mantenha a pessoa deitada, salvo dificuldade respiratória ou vômitos."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Inchaço de língua ou garganta, chiado, falta de ar, desmaio, pressão baixa ou urticária generalizada com outros sintomas são emergência.",
+          "Não espere a reação passar sozinha."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "anafilaxia",
+      "alergia grave",
+      "adrenalina",
+      "emergência"
+    ],
+    "dataPublicacao": "2026-11-13T10:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/choque-anafilatico-reconhecer-para-agir-rapido.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/choque-anafilatico-reconhecer-para-agir-rapido.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/choque-anafilatico-reconhecer-para-agir-rapido.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "sepse-sinais-de-alerta-e-atendimento-urgente",
+    "titulo": "Sepse: sinais de alerta e atendimento urgente",
+    "categoria": "Clínica Médica",
+    "descricao": "Sepse acontece quando a resposta do organismo a uma infecção começa a comprometer órgãos. Pode surgir a partir de infecções pulmonares, urinárias, abdominais, de pele e de outros locais.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Sepse acontece quando a resposta do organismo a uma infecção começa a comprometer órgãos. Pode surgir a partir de infecções pulmonares, urinárias, abdominais, de pele e de outros locais.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Procure avaliação se uma infecção vier acompanhada de piora geral importante.",
+          "Informe doenças, medicamentos, cirurgias recentes e quando os sintomas começaram.",
+          "Não adie atendimento esperando apenas a febre baixar."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Confusão, respiração rápida ou difícil, pressão baixa, pele fria/manchada, pouca urina ou sonolência intensa exigem emergência.",
+          "Idosos e imunossuprimidos podem ter sepse mesmo sem febre alta."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "sepse",
+      "infecção",
+      "sinais de alerta",
+      "emergência"
+    ],
+    "dataPublicacao": "2026-11-18T10:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/sepse-sinais-de-alerta-e-atendimento-urgente.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/sepse-sinais-de-alerta-e-atendimento-urgente.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/sepse-sinais-de-alerta-e-atendimento-urgente.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "erisipela-e-celulite-infeccoes-da-pele",
+    "titulo": "Erisipela e celulite: infecções da pele",
+    "categoria": "Clínica Médica",
+    "descricao": "Infecções costumam ser quentes, dolorosas e podem se espalhar. Infecção bacteriana mais superficial da pele.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Infecções costumam ser quentes, dolorosas e podem se espalhar. Infecção bacteriana mais superficial da pele. Placa vermelha, quente, dolorosa e inchada. A borda costuma ser mais nítida e elevada.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Infecção de camadas mais profundas da pele e tecido abaixo dela.",
+          "Vermelhidão tende a ter bordas menos definidas.",
+          "Causa calor, dor e inchaço.",
+          "Pode aumentar rapidamente."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Vermelhidão nova que cresce, dói ou aquece.",
+          "Inchaço persistente de uma perna.",
+          "Mancha com dormência ou fraqueza.",
+          "Ferida, secreção ou mau cheiro."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "erisipela,",
+      "celulite",
+      "outra",
+      "marca?"
+    ],
+    "dataPublicacao": "2026-11-11T10:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/erisipela-e-celulite-infeccoes-da-pele.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/erisipela-e-celulite-infeccoes-da-pele.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/erisipela-e-celulite-infeccoes-da-pele.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "infeccao-do-trato-urinario-sintomas-e-cuidados",
+    "titulo": "Infecção do trato urinário: sintomas e cuidados",
+    "categoria": "Clínica Médica",
+    "descricao": "Infecção urinária pode causar ardor, urgência, aumento da frequência e dor na parte baixa do abdome. Febre e dor nas costas podem indicar acometimento dos rins.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Infecção urinária pode causar ardor, urgência, aumento da frequência e dor na parte baixa do abdome. Febre e dor nas costas podem indicar acometimento dos rins.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Procure avaliação para confirmar a causa e definir se precisa de antibiótico.",
+          "Beba líquidos conforme sua condição de saúde.",
+          "Não use antibiótico guardado nem interrompa o tratamento prescrito."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Febre, calafrios, vômitos, dor lombar, confusão, gravidez ou piora rápida exigem avaliação precoce.",
+          "Pouca urina ou mal-estar intenso precisa de atendimento imediato."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "infecção urinária",
+      "ITU",
+      "ardor ao urinar",
+      "antibióticos"
+    ],
+    "dataPublicacao": "2026-11-04T10:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/infeccao-do-trato-urinario-sintomas-e-cuidados.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/infeccao-do-trato-urinario-sintomas-e-cuidados.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/infeccao-do-trato-urinario-sintomas-e-cuidados.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "febre-sinais-de-alarme-medicamentos-e-cuidados",
+    "titulo": "Febre: sinais de alarme, medicamentos e cuidados",
+    "categoria": "Clínica Médica",
+    "descricao": "Febre é um sinal do organismo, não uma doença isolada. O contexto, a duração, a idade e os sintomas associados ajudam a identificar a causa e a gravidade.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Febre é um sinal do organismo, não uma doença isolada. O contexto, a duração, a idade e os sintomas associados ajudam a identificar a causa e a gravidade.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Meça a temperatura, mantenha hidratação e observe a evolução.",
+          "Use antitérmicos apenas na dose e no intervalo orientados.",
+          "Não alterne remédios nem use antibiótico por conta própria."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Rigidez na nuca, falta de ar, confusão, convulsão, manchas arroxeadas, desidratação ou piora intensa exigem urgência.",
+          "Bebês pequenos, gestantes, idosos e imunossuprimidos precisam de avaliação mais precoce."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "febre",
+      "antitérmicos",
+      "sinais de alarme",
+      "hidratação"
+    ],
+    "dataPublicacao": "2026-11-06T10:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/febre-sinais-de-alarme-medicamentos-e-cuidados.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/febre-sinais-de-alarme-medicamentos-e-cuidados.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/febre-sinais-de-alarme-medicamentos-e-cuidados.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "febre-como-identificar-e-quando-procurar-atendimento",
+    "titulo": "Febre: como identificar e quando procurar atendimento",
+    "categoria": "Clínica Médica",
+    "descricao": "A sensação de estar quente não substitui a medida com termômetro. A febre pode acompanhar infecções e outras condições, e deve ser interpretada junto com o estado geral da pessoa.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "A sensação de estar quente não substitui a medida com termômetro. A febre pode acompanhar infecções e outras condições, e deve ser interpretada junto com o estado geral da pessoa.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Registre temperatura, horários e sintomas associados.",
+          "Ofereça líquidos e roupas leves; evite banhos gelados.",
+          "Procure orientação se a febre persistir ou não houver causa clara."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Sonolência difícil de despertar, confusão, convulsão, dificuldade para respirar, manchas roxas ou incapacidade de beber líquidos exigem emergência.",
+          "Recém-nascidos com febre devem ser avaliados imediatamente."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "febre",
+      "termômetro",
+      "sinais de alerta",
+      "quando procurar atendimento"
+    ],
+    "dataPublicacao": "2027-02-18T11:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/febre-como-identificar-e-quando-procurar-atendimento.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/febre-como-identificar-e-quando-procurar-atendimento.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/febre-como-identificar-e-quando-procurar-atendimento.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "dpoc-respiracao-prevencao-e-tratamento",
+    "titulo": "DPOC: respiração, prevenção e tratamento",
+    "categoria": "Pneumologia",
+    "descricao": "DPOC causa limitação persistente do fluxo de ar, geralmente relacionada ao tabagismo ou exposição prolongada a fumaças e poeiras. Tosse, catarro e falta de ar aos esforços podem piorar com o tempo.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "DPOC causa limitação persistente do fluxo de ar, geralmente relacionada ao tabagismo ou exposição prolongada a fumaças e poeiras. Tosse, catarro e falta de ar aos esforços podem piorar com o tempo.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Parar de fumar é a medida mais importante.",
+          "Use inaladores com a técnica ensinada e mantenha vacinas e acompanhamento em dia.",
+          "Atividade física e reabilitação pulmonar podem melhorar a capacidade funcional."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Falta de ar em repouso, lábios arroxeados, confusão, febre alta ou dificuldade para falar frases exigem urgência.",
+          "Aumento súbito do catarro ou mudança de cor merece avaliação."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "DPOC",
+      "tabagismo",
+      "falta de ar",
+      "inaladores"
+    ],
+    "dataPublicacao": "2027-02-21T11:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/dpoc-respiracao-prevencao-e-tratamento.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/dpoc-respiracao-prevencao-e-tratamento.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/dpoc-respiracao-prevencao-e-tratamento.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "asma-controle-crises-e-sinais-de-alerta",
+    "titulo": "Asma: controle, crises e sinais de alerta",
+    "categoria": "Pneumologia",
+    "descricao": "Asma é uma inflamação crônica das vias aéreas que causa chiado, aperto no peito, tosse e falta de ar. Os sintomas variam e podem piorar à noite, com exercício, infecções ou exposição a gatilhos.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Asma é uma inflamação crônica das vias aéreas que causa chiado, aperto no peito, tosse e falta de ar. Os sintomas variam e podem piorar à noite, com exercício, infecções ou exposição a gatilhos.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Use o controlador e o alívio conforme o plano prescrito.",
+          "Confira a técnica do inalador e reconheça seus gatilhos.",
+          "Mantenha acompanhamento mesmo quando estiver sem sintomas."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Dificuldade para falar, lábios arroxeados, sonolência, esforço intenso para respirar ou pouca resposta ao remédio de alívio exigem emergência.",
+          "Crises repetidas indicam controle inadequado e precisam de revisão."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "asma",
+      "chiado",
+      "bombinha",
+      "crise de asma"
+    ],
+    "dataPublicacao": "2026-11-25T10:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/asma-controle-crises-e-sinais-de-alerta.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/asma-controle-crises-e-sinais-de-alerta.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/asma-controle-crises-e-sinais-de-alerta.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "tosse-causas-comuns-e-sinais-de-alerta",
+    "titulo": "Tosse: causas comuns e sinais de alerta",
+    "categoria": "Pneumologia",
+    "descricao": "Tosse é um reflexo de proteção e pode ocorrer em resfriados, alergias, asma, refluxo, uso de medicamentos e outras doenças. A duração e os sintomas associados ajudam na investigação.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Tosse é um reflexo de proteção e pode ocorrer em resfriados, alergias, asma, refluxo, uso de medicamentos e outras doenças. A duração e os sintomas associados ajudam na investigação.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Hidrate-se, evite fumaça e observe se a tosse é seca ou com secreção.",
+          "Não use antibióticos ou xaropes por conta própria.",
+          "Procure avaliação se durar semanas ou estiver piorando."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Sangue no escarro, falta de ar, dor no peito, febre persistente, perda de peso ou queda do estado geral exigem avaliação rápida.",
+          "Engasgo súbito com dificuldade respiratória é emergência."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "tosse",
+      "sinais de alerta",
+      "vias aéreas",
+      "pneumologia"
+    ],
+    "dataPublicacao": "2026-12-02T10:00:00-03:00",
+    "imagem": "assets/programacao-93/site/tosse-causas-comuns-e-sinais-de-alerta.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/tosse-causas-comuns-e-sinais-de-alerta.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/tosse-causas-comuns-e-sinais-de-alerta.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "falta-de-ar-causas-e-quando-procurar-ajuda",
+    "titulo": "Falta de ar: causas e quando procurar ajuda",
+    "categoria": "Pneumologia",
+    "descricao": "Falta de ar pode vir dos pulmões, do coração, do sangue, de infecções ou de outras condições. O início, os gatilhos e os sintomas associados orientam a investigação.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Falta de ar pode vir dos pulmões, do coração, do sangue, de infecções ou de outras condições. O início, os gatilhos e os sintomas associados orientam a investigação.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Interrompa o esforço e fique em posição confortável.",
+          "Use somente medicamentos já prescritos para essa situação.",
+          "Observe início, duração, chiado, febre, dor e inchaço."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Falta de ar súbita ou em repouso, lábios arroxeados, dor no peito, desmaio, confusão ou incapacidade de falar frases exige emergência.",
+          "Acione o SAMU 192 se houver piora rápida."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "falta de ar",
+      "dispneia",
+      "sinais de gravidade",
+      "emergência"
+    ],
+    "dataPublicacao": "2026-11-20T10:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/falta-de-ar-causas-e-quando-procurar-ajuda.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/falta-de-ar-causas-e-quando-procurar-ajuda.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/falta-de-ar-causas-e-quando-procurar-ajuda.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "ciclo-menstrual-fases-e-variacoes",
+    "titulo": "Ciclo menstrual: fases e variações",
+    "categoria": "Ginecologia e Obstetrícia",
+    "descricao": "O ciclo é contado do primeiro dia de uma menstruação ao primeiro dia da próxima. Hormônios preparam o ovário e o útero para uma possível gravidez.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "O ciclo é contado do primeiro dia de uma menstruação ao primeiro dia da próxima. Hormônios preparam o ovário e o útero para uma possível gravidez. Ovulação é a liberação do óvulo. Sem gravidez, o revestimento do útero descama: é a menstruação.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Anote início e fim do sangramento.",
+          "Registre intensidade, coágulos e escapes.",
+          "Observe cólica, tontura, cansaço e humor.",
+          "Leve o registro às consultas."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Encharcar absorventes repetidamente em pouco tempo.",
+          "Desmaio, falta de ar, palidez ou fraqueza intensa.",
+          "Dor pélvica súbita e muito forte.",
+          "Atraso menstrual com dor e sangramento."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "ciclo",
+      "menstrual"
+    ],
+    "dataPublicacao": "2027-03-03T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/ciclo-menstrual-fases-e-variacoes.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/ciclo-menstrual-fases-e-variacoes.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/ciclo-menstrual-fases-e-variacoes.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "ciclo-menstrual-x-metodos-contraceptivos",
+    "titulo": "Ciclo menstrual x métodos contraceptivos",
+    "categoria": "Ginecologia e Obstetrícia",
+    "descricao": "Eficácia, saúde, preferências e possibilidade de gravidez futura importam. DIU de cobre, implante e métodos hormonais.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Eficácia, saúde, preferências e possibilidade de gravidez futura importam. DIU de cobre, implante e métodos hormonais. Pílulas e injetáveis. Preservativos internos e externos.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Métodos que não dependem de lembrar todo dia costumam ser mais eficazes.",
+          "A pílula perde eficácia com esquecimentos.",
+          "Camisinha pode falhar se usada incorretamente.",
+          "Tabelinha é menos confiável quando o ciclo varia."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Dor no peito, falta de ar ou tosse com sangue.",
+          "Inchaço e dor súbitos em uma perna.",
+          "Dor de cabeça nova e intensa com alteração visual ou fraqueza.",
+          "Dor abdominal forte, desmaio ou atraso com sangramento."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "métodos",
+      "contraceptivos"
+    ],
+    "dataPublicacao": "2027-03-07T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/ciclo-menstrual-x-metodos-contraceptivos.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/ciclo-menstrual-x-metodos-contraceptivos.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/ciclo-menstrual-x-metodos-contraceptivos.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "corrimentos-vaginais-o-que-e-normal-e-quando-procurar-ajuda",
+    "titulo": "Corrimentos vaginais: o que é normal e quando procurar ajuda",
+    "categoria": "Ginecologia e Obstetrícia",
+    "descricao": "Observe mudanças de cor, odor e sintomas associados. Secreção clara ou esbranquiçada, sem cheiro forte.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Observe mudanças de cor, odor e sintomas associados. Secreção clara ou esbranquiçada, sem cheiro forte. Pode variar ao longo do ciclo, gravidez ou excitação. Não costuma causar coceira, ardor, dor ou feridas.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Lave apenas a parte externa com água e produto suave.",
+          "Mantenha a região seca e troque roupa úmida.",
+          "Use preservativo interno ou externo.",
+          "Se houver suspeita de IST, parceiros podem precisar de avaliação."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Corrimento novo, persistente ou recorrente.",
+          "Mau cheiro, coceira ou dor.",
+          "Sintomas após relação sem preservativo.",
+          "Durante a gestação."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "corrimentos",
+      "vaginais"
+    ],
+    "dataPublicacao": "2027-03-09T11:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/corrimentos-vaginais-o-que-e-normal-e-quando-procurar-ajuda.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/corrimentos-vaginais-o-que-e-normal-e-quando-procurar-ajuda.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/corrimentos-vaginais-o-que-e-normal-e-quando-procurar-ajuda.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "corrimentos-vaginais-causas-prevencao-e-tratamento",
+    "titulo": "Corrimentos vaginais: causas, prevenção e tratamento",
+    "categoria": "Ginecologia e Obstetrícia",
+    "descricao": "Observe mudanças de cor, odor e sintomas associados. Secreção clara ou esbranquiçada, sem cheiro forte.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Observe mudanças de cor, odor e sintomas associados. Secreção clara ou esbranquiçada, sem cheiro forte. Pode variar ao longo do ciclo, gravidez ou excitação. Não costuma causar coceira, ardor, dor ou feridas.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Lave apenas a parte externa com água e produto suave.",
+          "Mantenha a região seca e troque roupa úmida.",
+          "Use preservativo interno ou externo.",
+          "Se houver suspeita de IST, parceiros podem precisar de avaliação."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Corrimento novo, persistente ou recorrente.",
+          "Mau cheiro, coceira ou dor.",
+          "Sintomas após relação sem preservativo.",
+          "Durante a gestação."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "corrimentos",
+      "vaginais"
+    ],
+    "dataPublicacao": "2027-03-11T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/corrimentos-vaginais-causas-prevencao-e-tratamento.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/corrimentos-vaginais-causas-prevencao-e-tratamento.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/corrimentos-vaginais-causas-prevencao-e-tratamento.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "sop-conhecer-para-cuidar-melhor-da-sua-saude",
+    "titulo": "SOP: conhecer para cuidar melhor da sua saúde",
+    "categoria": "Ginecologia e Obstetrícia",
+    "descricao": "Envolve alterações de ovulação e/ou excesso de hormônios androgênicos. Condição hormonal comum na idade reprodutiva.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Envolve alterações de ovulação e/ou excesso de hormônios androgênicos. Condição hormonal comum na idade reprodutiva. Pode causar ovulação irregular e sinais de excesso de andrógenos. Ultrassom com muitos folículos não confirma SOP sozinho.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Aumenta o risco de alteração da glicose e diabetes.",
+          "Pode se associar a colesterol alterado e pressão alta.",
+          "Longos períodos sem menstruar podem engrossar o endométrio.",
+          "Pode afetar sono, autoestima, ansiedade e humor."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Ciclos muito irregulares ou meses sem menstruar.",
+          "Acne ou pelos que incomodam.",
+          "Desejo de engravidar sem sucesso.",
+          "Sinais de glicose alta ou ganho de peso rápido."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "síndrome",
+      "ovários",
+      "policísticos"
+    ],
+    "dataPublicacao": "2027-03-14T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/sop-conhecer-para-cuidar-melhor-da-sua-saude.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/sop-conhecer-para-cuidar-melhor-da-sua-saude.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/sop-conhecer-para-cuidar-melhor-da-sua-saude.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "pre-natal-baixo-risco-x-alto-risco",
+    "titulo": "Pré-natal: baixo risco x alto risco",
+    "categoria": "Ginecologia e Obstetrícia",
+    "descricao": "Uma condição materna ou fetal exige vigilância mais próxima. Há maior chance de problema na gestação, parto ou pós-parto.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Uma condição materna ou fetal exige vigilância mais próxima. Há maior chance de problema na gestação, parto ou pós-parto. Pode existir desde antes da gravidez ou surgir depois. Hipertensão, diabetes e doença cardíaca são exemplos.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "A UBS continua participando do acompanhamento.",
+          "Equipe especializada compartilha decisões e exames.",
+          "Consultas podem ser mais frequentes.",
+          "Medicamentos e plano de parto são revistos."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Sangramento, perda de líquido ou dor intensa.",
+          "Falta de ar, dor no peito ou desmaio.",
+          "Convulsão, confusão ou fraqueza de um lado.",
+          "Dor de cabeça forte com alteração visual."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "pré-natal",
+      "alto",
+      "risco"
+    ],
+    "dataPublicacao": "2027-03-16T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/pre-natal-baixo-risco-x-alto-risco.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/pre-natal-baixo-risco-x-alto-risco.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/pre-natal-baixo-risco-x-alto-risco.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "sindromes-hipertensivas-da-gestacao",
+    "titulo": "Síndromes hipertensivas da gestação",
+    "categoria": "Ginecologia e Obstetrícia",
+    "descricao": "Pré-eclâmpsia pode surgir após 20 semanas e também no pós-parto. Hipertensão crônica: já existia antes ou aparece cedo.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Pré-eclâmpsia pode surgir após 20 semanas e também no pós-parto. Hipertensão crônica: já existia antes ou aparece cedo. Hipertensão gestacional: surge após 20 semanas sem outros sinais iniciais. Pré-eclâmpsia: pressão alta associada a sinais de comprometimento de órgãos.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Dor de cabeça forte ou persistente.",
+          "Visão borrada, luzes ou manchas.",
+          "Dor forte na boca do estômago ou lado direito superior.",
+          "Inchaço súbito em face e mãos."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Pressão muito alta conforme o plano da equipe.",
+          "Convulsão, confusão ou desmaio.",
+          "Dor de cabeça intensa com alteração visual.",
+          "Falta de ar, dor no peito ou dor abdominal forte."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "pressão",
+      "alta",
+      "gestação"
+    ],
+    "dataPublicacao": "2027-03-18T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/sindromes-hipertensivas-da-gestacao.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/sindromes-hipertensivas-da-gestacao.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/sindromes-hipertensivas-da-gestacao.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "ulceras-genitais-causas-e-quando-procurar-atendimento",
+    "titulo": "Úlceras genitais: causas e quando procurar atendimento",
+    "categoria": "Ginecologia e Obstetrícia",
+    "descricao": "Podem doer ou não e algumas são infecções sexualmente transmissíveis. Bolhas, feridas abertas, cortes ou áreas descamadas.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Podem doer ou não e algumas são infecções sexualmente transmissíveis. Bolhas, feridas abertas, cortes ou áreas descamadas. Podem surgir na vulva, vagina, pênis, ânus ou boca. Podem doer, arder, coçar ou não causar dor.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Procure UBS ou serviço de IST o quanto antes.",
+          "Evite relações até avaliação e orientação.",
+          "Não estoure bolhas nem aplique substâncias caseiras.",
+          "Lave suavemente e mantenha a região seca."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Dor muito forte ou dificuldade para urinar.",
+          "Febre alta, mal-estar ou lesões se espalhando rapidamente.",
+          "Olhos, boca ou outras mucosas também acometidos.",
+          "Gestante com feridas, sangramento ou dor."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "úlceras",
+      "genitais"
+    ],
+    "dataPublicacao": "2027-03-21T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/ulceras-genitais-causas-e-quando-procurar-atendimento.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/ulceras-genitais-causas-e-quando-procurar-atendimento.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/ulceras-genitais-causas-e-quando-procurar-atendimento.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "cancer-do-colo-do-utero-prevencao-e-diagnostico-precoce",
+    "titulo": "Câncer do colo do útero: prevenção e diagnóstico precoce",
+    "categoria": "Ginecologia e Obstetrícia",
+    "descricao": "O teste de DNA-HPV é o exame primário onde já está disponível. Mulheres e qualquer pessoa com colo do útero.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "O teste de DNA-HPV é o exame primário onde já está disponível. Mulheres e qualquer pessoa com colo do útero. Faixa recomendada: 25 a 64 anos. Para quem já teve atividade sexual.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "O DNA-HPV oncogênico passou a ser o teste primário no país.",
+          "Com resultado negativo, o intervalo usual é de cinco anos.",
+          "O Papanicolau continua onde o novo teste ainda não está disponível.",
+          "Resultado alterado não significa automaticamente câncer."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Sangramento intenso com tontura ou fraqueza.",
+          "Dor pélvica forte com febre.",
+          "Desmaio, palidez intensa ou falta de ar.",
+          "Sangramento na gravidez."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "câncer",
+      "colo",
+      "útero"
+    ],
+    "dataPublicacao": "2027-03-24T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/cancer-do-colo-do-utero-prevencao-e-diagnostico-precoce.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/cancer-do-colo-do-utero-prevencao-e-diagnostico-precoce.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/cancer-do-colo-do-utero-prevencao-e-diagnostico-precoce.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "cancer-de-mama-rastreamento-e-sinais-de-alerta",
+    "titulo": "Câncer de mama: rastreamento e sinais de alerta",
+    "categoria": "Ginecologia e Obstetrícia",
+    "descricao": "No brasil, a faixa prioritária é de 50 a 74 anos a cada dois anos. É feito em pessoas sem sinais ou sintomas.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "No brasil, a faixa prioritária é de 50 a 74 anos a cada dois anos. É feito em pessoas sem sinais ou sintomas. A mamografia pode encontrar alterações pequenas. A recomendação nacional prioritária é dos 50 aos 74 anos, a cada dois anos.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Observe e toque as mamas quando se sentir confortável.",
+          "Conhecer o habitual ajuda a perceber mudanças.",
+          "Não existe técnica obrigatória de autoexame.",
+          "Uma mudança nova deve ser avaliada."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Novo nódulo duro ou que cresce.",
+          "Vermelhidão e inchaço que não melhoram.",
+          "Ferida no mamilo ou secreção com sangue.",
+          "Caroço na axila persistente."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "câncer",
+      "mama"
+    ],
+    "dataPublicacao": "2027-03-28T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/cancer-de-mama-rastreamento-e-sinais-de-alerta.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/cancer-de-mama-rastreamento-e-sinais-de-alerta.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/cancer-de-mama-rastreamento-e-sinais-de-alerta.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "rastreamento-cancer-do-colo-do-utero-x-cancer-de-mama",
+    "titulo": "Rastreamento: câncer do colo do útero x câncer de mama",
+    "categoria": "Ginecologia e Obstetrícia",
+    "descricao": "O teste de DNA-HPV é o exame primário onde já está disponível. Mulheres e qualquer pessoa com colo do útero.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "O teste de DNA-HPV é o exame primário onde já está disponível. Mulheres e qualquer pessoa com colo do útero. Faixa recomendada: 25 a 64 anos. Para quem já teve atividade sexual.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "O DNA-HPV oncogênico passou a ser o teste primário no país.",
+          "Com resultado negativo, o intervalo usual é de cinco anos.",
+          "O Papanicolau continua onde o novo teste ainda não está disponível.",
+          "Resultado alterado não significa automaticamente câncer."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Sangramento intenso com tontura ou fraqueza.",
+          "Dor pélvica forte com febre.",
+          "Desmaio, palidez intensa ou falta de ar.",
+          "Sangramento na gravidez."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "câncer",
+      "colo",
+      "útero"
+    ],
+    "dataPublicacao": "2027-03-30T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/rastreamento-cancer-do-colo-do-utero-x-cancer-de-mama.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/rastreamento-cancer-do-colo-do-utero-x-cancer-de-mama.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/rastreamento-cancer-do-colo-do-utero-x-cancer-de-mama.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "falta-de-ar-dispneia-tipos-diagnostico-e-cuidados",
+    "titulo": "Falta de ar (dispneia): tipos, diagnóstico e cuidados",
+    "categoria": "Pneumologia",
+    "descricao": "Dispneia é a sensação desconfortável de dificuldade para respirar. Pode aparecer aos esforços, ao deitar ou de forma súbita, e precisa ser avaliada de acordo com a causa.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Dispneia é a sensação desconfortável de dificuldade para respirar. Pode aparecer aos esforços, ao deitar ou de forma súbita, e precisa ser avaliada de acordo com a causa.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Registre em quais situações ocorre e se limita atividades.",
+          "Informe tabagismo, doenças cardíacas ou pulmonares e medicamentos.",
+          "Exames podem incluir oximetria, radiografia, eletrocardiograma e espirometria."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Início súbito, dor no peito, desmaio, confusão, lábios arroxeados ou falta de ar em repouso exige emergência.",
+          "Piora progressiva ou inchaço nas pernas também merece avaliação breve."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "dispneia",
+      "falta de ar",
+      "diagnóstico",
+      "pneumologia"
+    ],
+    "dataPublicacao": "2027-04-01T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/falta-de-ar-dispneia-tipos-diagnostico-e-cuidados.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/falta-de-ar-dispneia-tipos-diagnostico-e-cuidados.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/falta-de-ar-dispneia-tipos-diagnostico-e-cuidados.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "pneumonia-x-gripe-x-covid-19-entenda-as-diferencas",
+    "titulo": "Pneumonia x gripe x COVID-19: entenda as diferenças",
+    "categoria": "Pneumologia",
+    "descricao": "Gripe e COVID-19 são infecções virais que podem causar febre, tosse e dores; pneumonia é uma infecção do pulmão que pode ser viral ou bacteriana. Os sintomas se sobrepõem e o exame clínico é importante.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Gripe e COVID-19 são infecções virais que podem causar febre, tosse e dores; pneumonia é uma infecção do pulmão que pode ser viral ou bacteriana. Os sintomas se sobrepõem e o exame clínico é importante.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Mantenha hidratação, repouso e evite contato próximo enquanto houver sintomas contagiosos.",
+          "Faça testagem e use máscara conforme orientação local.",
+          "Não use antibiótico sem avaliação, pois ele não trata vírus."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Falta de ar, dor no peito, confusão, lábios arroxeados, febre persistente ou queda importante do estado geral exigem atendimento.",
+          "Idosos, gestantes, crianças pequenas e pessoas com doenças crônicas precisam de avaliação mais precoce."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "pneumonia",
+      "gripe",
+      "COVID-19",
+      "sintomas respiratórios"
+    ],
+    "dataPublicacao": "2026-12-11T10:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/pneumonia-x-gripe-x-covid-19-entenda-as-diferencas.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/pneumonia-x-gripe-x-covid-19-entenda-as-diferencas.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/pneumonia-x-gripe-x-covid-19-entenda-as-diferencas.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "espirometria-o-exame-do-sopro",
+    "titulo": "Espirometria: o exame do sopro",
+    "categoria": "Pneumologia",
+    "descricao": "A espirometria mede quanto ar a pessoa consegue inspirar e expirar e com que velocidade. Ajuda no diagnóstico e acompanhamento de asma, DPOC e outras alterações respiratórias.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "A espirometria mede quanto ar a pessoa consegue inspirar e expirar e com que velocidade. Ajuda no diagnóstico e acompanhamento de asma, DPOC e outras alterações respiratórias.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Use roupa confortável e siga as orientações sobre inaladores e alimentação.",
+          "Avise sobre infecção recente, cirurgia, gravidez ou problemas cardíacos.",
+          "Durante o exame, será necessário soprar com força várias vezes para obter medidas confiáveis."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "O exame deve ser adiado ou ajustado quando houver condição clínica que aumente o risco, conforme avaliação da equipe.",
+          "Dor no peito, tontura intensa ou falta de ar importante durante o teste deve ser comunicada imediatamente."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "espirometria",
+      "exame do sopro",
+      "asma",
+      "DPOC"
+    ],
+    "dataPublicacao": "2026-11-27T10:00:00-03:00",
+    "imagem": "assets/programacao-93/site/espirometria-o-exame-do-sopro.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/espirometria-o-exame-do-sopro.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/espirometria-o-exame-do-sopro.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "broncoscopia-preparo-exame-e-cuidados",
+    "titulo": "Broncoscopia: preparo, exame e cuidados",
+    "categoria": "Pneumologia",
+    "descricao": "Broncoscopia permite visualizar as vias respiratórias com um aparelho fino e flexível, além de coletar amostras quando necessário. É feita com anestesia local e sedação conforme o caso.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Broncoscopia permite visualizar as vias respiratórias com um aparelho fino e flexível, além de coletar amostras quando necessário. É feita com anestesia local e sedação conforme o caso.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Respeite o jejum e informe medicamentos, alergias e uso de anticoagulantes.",
+          "Organize acompanhante se houver sedação.",
+          "Após o exame, aguarde a liberação para comer e beber."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Falta de ar crescente, dor no peito, febre persistente ou sangramento em quantidade exige contato imediato com o serviço.",
+          "Pequena irritação na garganta pode ocorrer, mas piora progressiva não é esperada."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "broncoscopia",
+      "vias aéreas",
+      "sedação",
+      "biópsia"
+    ],
+    "dataPublicacao": "2026-12-09T10:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/broncoscopia-preparo-exame-e-cuidados.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/broncoscopia-preparo-exame-e-cuidados.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/broncoscopia-preparo-exame-e-cuidados.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "broncoscopia-avaliacao-direta-das-vias-aereas",
+    "titulo": "Broncoscopia: avaliação direta das vias aéreas",
+    "categoria": "Pneumologia",
+    "descricao": "A broncoscopia examina traqueia e brônquios diretamente. Pode investigar sangramento, alterações em exames de imagem, infecções, obstruções e lesões.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "A broncoscopia examina traqueia e brônquios diretamente. Pode investigar sangramento, alterações em exames de imagem, infecções, obstruções e lesões.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "A equipe monitora oxigenação, frequência cardíaca e pressão durante o procedimento.",
+          "Podem ser feitas lavagens, escovados ou biópsias.",
+          "Siga exatamente as orientações de jejum, medicamentos e retorno."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Sangramento volumoso, dificuldade respiratória, dor forte no peito ou febre persistente após o exame exige atendimento.",
+          "Não dirija nem tome decisões importantes após sedação no mesmo dia."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "broncoscopia",
+      "brônquios",
+      "investigação pulmonar",
+      "biópsia"
+    ],
+    "dataPublicacao": "2027-04-11T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/broncoscopia-avaliacao-direta-das-vias-aereas.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/broncoscopia-avaliacao-direta-das-vias-aereas.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/broncoscopia-avaliacao-direta-das-vias-aereas.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "evali-lesao-pulmonar-associada-ao-uso-de-vape",
+    "titulo": "EVALI: lesão pulmonar associada ao uso de vape",
+    "categoria": "Pneumologia",
+    "descricao": "EVALI é uma lesão pulmonar associada ao uso de cigarros eletrônicos ou produtos de vaping. Pode causar tosse, dor no peito, falta de ar, febre e sintomas gastrointestinais.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "EVALI é uma lesão pulmonar associada ao uso de cigarros eletrônicos ou produtos de vaping. Pode causar tosse, dor no peito, falta de ar, febre e sintomas gastrointestinais.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Suspenda o uso de vape e procure avaliação.",
+          "Informe quais produtos foram usados, há quanto tempo e com que frequência.",
+          "Não retome o uso após melhora sem orientação."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Falta de ar, lábios arroxeados, dor no peito, confusão ou piora rápida exige emergência.",
+          "Saturação baixa ou incapacidade de realizar atividades habituais precisa de avaliação imediata."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "EVALI",
+      "vape",
+      "cigarro eletrônico",
+      "lesão pulmonar"
+    ],
+    "dataPublicacao": "2026-12-04T10:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/evali-lesao-pulmonar-associada-ao-uso-de-vape.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/evali-lesao-pulmonar-associada-ao-uso-de-vape.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/evali-lesao-pulmonar-associada-ao-uso-de-vape.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "tuberculose-transmissao-sintomas-e-tratamento",
+    "titulo": "Tuberculose: transmissão, sintomas e tratamento",
+    "categoria": "Infectologia",
+    "descricao": "Tuberculose é causada por uma bactéria e a forma pulmonar pode ser transmitida pelo ar quando uma pessoa doente, ainda sem tratamento adequado, tosse, fala ou espirra.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Tuberculose é causada por uma bactéria e a forma pulmonar pode ser transmitida pelo ar quando uma pessoa doente, ainda sem tratamento adequado, tosse, fala ou espirra.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Tosse por três semanas ou mais deve ser investigada.",
+          "O tratamento é gratuito no SUS e precisa ser completado mesmo após melhora.",
+          "Ambientes ventilados e avaliação dos contatos ajudam a interromper a transmissão."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Falta de ar, sangue ao tossir, fraqueza intensa ou piora importante exige atendimento rápido.",
+          "Febre prolongada, suor noturno e emagrecimento também merecem investigação."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "tuberculose",
+      "tosse",
+      "transmissão pelo ar",
+      "tratamento"
+    ],
+    "dataPublicacao": "2027-01-01T10:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/tuberculose-transmissao-sintomas-e-tratamento.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/tuberculose-transmissao-sintomas-e-tratamento.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/tuberculose-transmissao-sintomas-e-tratamento.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "tuberculose-pulmonar-guia-completo",
+    "titulo": "Tuberculose pulmonar: guia completo",
+    "categoria": "Infectologia",
+    "descricao": "Na tuberculose pulmonar, tosse persistente, catarro, febre baixa, suor noturno e perda de peso podem aparecer. O diagnóstico usa avaliação clínica e exames do escarro e/ou imagem.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Na tuberculose pulmonar, tosse persistente, catarro, febre baixa, suor noturno e perda de peso podem aparecer. O diagnóstico usa avaliação clínica e exames do escarro e/ou imagem.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Procure a UBS se a tosse durar três semanas ou mais.",
+          "Tome os medicamentos todos os dias conforme orientação.",
+          "Mantenha os ambientes ventilados e leve os contatos para avaliação."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Tosse com muito sangue, falta de ar, confusão ou fraqueza intensa exige urgência.",
+          "Efeitos adversos importantes dos remédios devem ser comunicados sem interromper por conta própria."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "tuberculose pulmonar",
+      "escarro",
+      "tosse persistente",
+      "SUS"
+    ],
+    "dataPublicacao": "2027-04-20T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/tuberculose-pulmonar-guia-completo.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/tuberculose-pulmonar-guia-completo.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/tuberculose-pulmonar-guia-completo.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "tuberculose-extrapulmonar-alem-dos-pulmoes",
+    "titulo": "Tuberculose extrapulmonar: além dos pulmões",
+    "categoria": "Infectologia",
+    "descricao": "A tuberculose também pode atingir gânglios, pleura, ossos, rins, intestino, sistema nervoso e outros órgãos. Os sintomas variam conforme o local e nem sempre há tosse.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "A tuberculose também pode atingir gânglios, pleura, ossos, rins, intestino, sistema nervoso e outros órgãos. Os sintomas variam conforme o local e nem sempre há tosse.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Procure avaliação diante de sintomas persistentes sem causa definida.",
+          "Exames e amostras específicos podem ser necessários.",
+          "O tratamento deve ser seguido até o fim e acompanhado pelo SUS."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Confusão, rigidez na nuca, fraqueza neurológica, falta de ar ou piora rápida exige emergência.",
+          "Pessoas com imunidade reduzida devem ser avaliadas precocemente."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "tuberculose extrapulmonar",
+      "gânglios",
+      "pleura",
+      "diagnóstico"
+    ],
+    "dataPublicacao": "2027-04-22T11:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/tuberculose-extrapulmonar-alem-dos-pulmoes.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/tuberculose-extrapulmonar-alem-dos-pulmoes.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/tuberculose-extrapulmonar-alem-dos-pulmoes.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "tuberculose-miliar-forma-disseminada-e-grave",
+    "titulo": "Tuberculose miliar: forma disseminada e grave",
+    "categoria": "Infectologia",
+    "descricao": "Tuberculose miliar é uma forma disseminada, quando a bactéria se espalha pelo sangue e pode afetar vários órgãos. É mais frequente em pessoas com imunidade reduzida e pode evoluir rapidamente.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Tuberculose miliar é uma forma disseminada, quando a bactéria se espalha pelo sangue e pode afetar vários órgãos. É mais frequente em pessoas com imunidade reduzida e pode evoluir rapidamente.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Febre prolongada, emagrecimento, fraqueza e sintomas em vários órgãos precisam de investigação.",
+          "O diagnóstico pode exigir exames de imagem e amostras de diferentes locais.",
+          "O tratamento é feito com esquema específico e acompanhamento próximo."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Confusão, falta de ar, pressão baixa, convulsão ou piora rápida exige emergência.",
+          "Não adie avaliação em crianças pequenas, idosos ou imunossuprimidos."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "tuberculose miliar",
+      "tuberculose disseminada",
+      "imunidade",
+      "urgência"
+    ],
+    "dataPublicacao": "2027-04-25T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/tuberculose-miliar-forma-disseminada-e-grave.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/tuberculose-miliar-forma-disseminada-e-grave.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/tuberculose-miliar-forma-disseminada-e-grave.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "hanseniase-manchas-com-alteracao-de-sensibilidade",
+    "titulo": "Hanseníase: manchas com alteração de sensibilidade",
+    "categoria": "Infectologia",
+    "descricao": "Atinge principalmente a pele e os nervos. Mancha branca, avermelhada ou amarronzada.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Atinge principalmente a pele e os nervos. Mancha branca, avermelhada ou amarronzada. Diminuição da sensação de calor, dor ou toque. Área seca, sem suor ou com menos pelos.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Exame da pele, sensibilidade e nervos.",
+          "Tratamento combina antibióticos por meses.",
+          "É gratuito no SUS.",
+          "Complete todas as doses."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Nova fraqueza ou perda rápida de sensibilidade.",
+          "Olho vermelho, dor ocular ou perda de visão.",
+          "Nervo muito dolorido.",
+          "Mãos/pés inchados e nódulos dolorosos."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "hanseníase"
+    ],
+    "dataPublicacao": "2027-04-27T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/hanseniase-manchas-com-alteracao-de-sensibilidade.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/hanseniase-manchas-com-alteracao-de-sensibilidade.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/hanseniase-manchas-com-alteracao-de-sensibilidade.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "hiv-e-aids-prevencao-testagem-e-tratamento",
+    "titulo": "HIV e AIDS: prevenção, testagem e tratamento",
+    "categoria": "Infectologia",
+    "descricao": "HIV é o vírus; AIDS é o estágio avançado sem tratamento. Relação sexual sem prevenção.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "HIV é o vírus; AIDS é o estágio avançado sem tratamento. Relação sexual sem prevenção. Compartilhar agulhas/seringas. Sangue contaminado — hoje raro em transfusões controladas.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Preservativos internos/externos.",
+          "PrEP antes de exposições para pessoas elegíveis.",
+          "PEP após exposição, iniciada o quanto antes.",
+          "Não compartilhar material perfurocortante."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Exposição sexual ou ocupacional recente para avaliar PEP.",
+          "Febre persistente, perda de peso ou diarreia prolongada.",
+          "Falta de ar, confusão, convulsão ou dor de cabeça forte.",
+          "Reação importante a medicamento."
+        ]
+      }
+    ],
+    "palavrasChave": [],
+    "dataPublicacao": "2027-04-29T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/hiv-e-aids-prevencao-testagem-e-tratamento.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/hiv-e-aids-prevencao-testagem-e-tratamento.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/hiv-e-aids-prevencao-testagem-e-tratamento.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "leishmaniose-transmissao-sintomas-e-prevencao",
+    "titulo": "Leishmaniose: transmissão, sintomas e prevenção",
+    "categoria": "Infectologia",
+    "descricao": "Pode causar feridas na pele ou doença visceral. Pela picada da fêmea infectada do flebotomíneo.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Pode causar feridas na pele ou doença visceral. Pela picada da fêmea infectada do flebotomíneo. Conhecido como mosquito-palha, birigui ou tatuquira. Não passa de pessoa para pessoa pelo convívio.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Use telas, mosquiteiros e repelentes indicados.",
+          "Cubra a pele ao amanhecer e anoitecer em áreas de risco.",
+          "Mantenha quintal limpo, sem matéria orgânica acumulada.",
+          "Afaste abrigos de animais da casa quando possível."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Febre prolongada com barriga aumentada.",
+          "Sangramento, palidez intensa ou desmaio.",
+          "Falta de ar, confusão ou fraqueza extrema.",
+          "Ferida em nariz/boca com dificuldade para respirar ou engolir."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "leishmaniose"
+    ],
+    "dataPublicacao": "2027-05-02T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/leishmaniose-transmissao-sintomas-e-prevencao.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/leishmaniose-transmissao-sintomas-e-prevencao.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/leishmaniose-transmissao-sintomas-e-prevencao.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "paracoccidioidomicose-sinais-e-diagnostico",
+    "titulo": "Paracoccidioidomicose: sinais e diagnóstico",
+    "categoria": "Infectologia",
+    "descricao": "Paracoccidioidomicose é uma micose sistêmica adquirida pela inalação do fungo presente no ambiente. Pode afetar pulmões, boca, pele, gânglios e outros órgãos.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Paracoccidioidomicose é uma micose sistêmica adquirida pela inalação do fungo presente no ambiente. Pode afetar pulmões, boca, pele, gânglios e outros órgãos.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Tosse prolongada, perda de peso e feridas na boca precisam de investigação.",
+          "Informe trabalho rural, contato com solo e tabagismo.",
+          "O tratamento antifúngico é prolongado e deve ser acompanhado."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Falta de ar, sangramento, dificuldade para engolir ou piora importante exige avaliação rápida.",
+          "Crianças e adolescentes com gânglios aumentados e febre persistente merecem atenção."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "paracoccidioidomicose",
+      "micose sistêmica",
+      "pulmões",
+      "diagnóstico"
+    ],
+    "dataPublicacao": "2027-05-05T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/paracoccidioidomicose-sinais-e-diagnostico.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/paracoccidioidomicose-sinais-e-diagnostico.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/paracoccidioidomicose-sinais-e-diagnostico.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "histoplasmose-exposicao-sintomas-e-cuidados",
+    "titulo": "Histoplasmose: exposição, sintomas e cuidados",
+    "categoria": "Infectologia",
+    "descricao": "Histoplasmose é causada pela inalação de um fungo presente em solo contaminado, especialmente em locais com fezes de aves ou morcegos. Muitas infecções são leves, mas podem ser graves em imunossuprimidos.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Histoplasmose é causada pela inalação de um fungo presente em solo contaminado, especialmente em locais com fezes de aves ou morcegos. Muitas infecções são leves, mas podem ser graves em imunossuprimidos.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Informe exposição a cavernas, galinheiros ou demolições.",
+          "Tosse, febre e cansaço persistentes precisam de avaliação.",
+          "O diagnóstico combina história, exames de imagem e testes laboratoriais."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Falta de ar, confusão, pressão baixa, perda de peso intensa ou piora rápida exige atendimento.",
+          "Pessoas com HIV ou outras imunossupressões devem buscar avaliação precoce."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "histoplasmose",
+      "fungo",
+      "morcegos",
+      "micose sistêmica"
+    ],
+    "dataPublicacao": "2027-05-09T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/histoplasmose-exposicao-sintomas-e-cuidados.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/histoplasmose-exposicao-sintomas-e-cuidados.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/histoplasmose-exposicao-sintomas-e-cuidados.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "criptococose-e-neurocriptococose",
+    "titulo": "Criptococose e neurocriptococose",
+    "categoria": "Infectologia",
+    "descricao": "Criptococose é uma micose adquirida do ambiente; quando alcança o sistema nervoso, causa neurocriptococose. O risco de formas graves é maior em pessoas com imunidade reduzida.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Criptococose é uma micose adquirida do ambiente; quando alcança o sistema nervoso, causa neurocriptococose. O risco de formas graves é maior em pessoas com imunidade reduzida.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Cefaleia persistente, febre e alterações neurológicas precisam de investigação.",
+          "Pessoas vivendo com HIV devem manter tratamento e acompanhamento.",
+          "O diagnóstico pode exigir exames de sangue e do líquor."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Confusão, convulsão, rigidez na nuca, perda visual ou dor de cabeça intensa com vômitos exige emergência.",
+          "Não espere melhora espontânea em pessoas imunossuprimidas."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "criptococose",
+      "neurocriptococose",
+      "meningite fúngica",
+      "HIV"
+    ],
+    "dataPublicacao": "2027-05-11T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/criptococose-e-neurocriptococose.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/criptococose-e-neurocriptococose.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/criptococose-e-neurocriptococose.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "toxoplasmose-e-neurotoxoplasmose",
+    "titulo": "Toxoplasmose e neurotoxoplasmose",
+    "categoria": "Infectologia",
+    "descricao": "Ocorre principalmente quando a imunidade está muito baixa. Reativação ou infecção por Toxoplasma no sistema nervoso.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Ocorre principalmente quando a imunidade está muito baixa. Reativação ou infecção por Toxoplasma no sistema nervoso. Forma lesões e inflamação no cérebro. É mais comum em HIV avançado sem tratamento, transplante ou forte imunossupressão.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Combinação de medicamentos contra o parasito.",
+          "Controle de inflamação/convulsão quando indicado.",
+          "Tratamento antirretroviral é essencial no HIV.",
+          "Duração é definida pela resposta e imunidade."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Convulsão.",
+          "Fraqueza súbita, fala alterada ou desvio da boca.",
+          "Confusão, sonolência ou desmaio.",
+          "Dor de cabeça intensa com vômitos."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "neurotoxoplasmose"
+    ],
+    "dataPublicacao": "2027-05-13T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/toxoplasmose-e-neurotoxoplasmose.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/toxoplasmose-e-neurotoxoplasmose.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/toxoplasmose-e-neurotoxoplasmose.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "medicamentos-que-podem-prejudicar-os-rins",
+    "titulo": "Medicamentos que podem prejudicar os rins",
+    "categoria": "Nefrologia",
+    "descricao": "Alguns medicamentos precisam de ajuste ou monitoramento. Os rins eliminam muitos medicamentos e substâncias.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Alguns medicamentos precisam de ajuste ou monitoramento. Os rins eliminam muitos medicamentos e substâncias. Doença renal pode fazer remédios se acumularem. Alguns produtos reduzem o fluxo de sangue nos rins ou causam inflamação.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Anti-inflamatórios não esteroides.",
+          "Alguns antibióticos e antivirais.",
+          "Contraste de exames em pessoas de risco.",
+          "Diuréticos e remédios de pressão em situações específicas."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Redução importante da urina.",
+          "Inchaço, falta de ar ou ganho rápido de peso.",
+          "Confusão, fraqueza intensa ou vômitos persistentes.",
+          "Reação alérgica, manchas extensas ou febre após iniciar remédio."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "remédios",
+      "rins"
+    ],
+    "dataPublicacao": "2027-05-16T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/medicamentos-que-podem-prejudicar-os-rins.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/medicamentos-que-podem-prejudicar-os-rins.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/medicamentos-que-podem-prejudicar-os-rins.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "insuficiencia-renal-aguda-reconhecer-rapidamente",
+    "titulo": "Insuficiência renal aguda: reconhecer rapidamente",
+    "categoria": "Nefrologia",
+    "descricao": "Redução da urina e doença recente merecem atenção. É uma queda rápida do funcionamento dos rins.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Redução da urina e doença recente merecem atenção. É uma queda rápida do funcionamento dos rins. Pode ocorrer durante infecção grave, desidratação, cirurgia ou uso de medicamentos. Nem sempre causa dor e pode ser percebida apenas nos exames.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Evite automedicação, especialmente anti-inflamatórios.",
+          "Busque orientação em vômitos/diarreia persistentes.",
+          "Controle diabetes e pressão.",
+          "Faça exames antes/depois de procedimentos quando indicado."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Redução importante ou ausência de urina.",
+          "Inchaço rápido ou falta de ar.",
+          "Confusão, sonolência, convulsão ou fraqueza intensa.",
+          "Vômitos persistentes, pressão muito baixa ou infecção grave."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "lesão",
+      "renal",
+      "aguda"
+    ],
+    "dataPublicacao": "2027-05-18T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/insuficiencia-renal-aguda-reconhecer-rapidamente.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/insuficiencia-renal-aguda-reconhecer-rapidamente.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/insuficiencia-renal-aguda-reconhecer-rapidamente.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "doenca-renal-cronica-prevencao-e-acompanhamento",
+    "titulo": "Doença renal crônica: prevenção e acompanhamento",
+    "categoria": "Nefrologia",
+    "descricao": "Diabetes e pressão alta são fatores de risco importantes. É a alteração da estrutura ou função dos rins por pelo menos três meses.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Diabetes e pressão alta são fatores de risco importantes. É a alteração da estrutura ou função dos rins por pelo menos três meses. Pode piorar lentamente e ficar sem sintomas por muito tempo. Os rins filtram resíduos, controlam líquidos, sais e participam da pressão arterial.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Controle pressão e diabetes.",
+          "Não fume e reduza o excesso de sal.",
+          "Evite anti-inflamatórios sem orientação.",
+          "Use medicamentos corretamente e faça acompanhamento."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Falta de ar ou inchaço que aumenta rapidamente.",
+          "Pouca ou nenhuma urina.",
+          "Confusão, sonolência intensa ou convulsão.",
+          "Vômitos persistentes ou fraqueza extrema."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "doença",
+      "renal",
+      "crônica"
+    ],
+    "dataPublicacao": "2027-05-20T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/doenca-renal-cronica-prevencao-e-acompanhamento.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/doenca-renal-cronica-prevencao-e-acompanhamento.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/doenca-renal-cronica-prevencao-e-acompanhamento.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "sangue-na-urina-quando-investigar",
+    "titulo": "Sangue na urina: quando investigar",
+    "categoria": "Nefrologia",
+    "descricao": "Não é normal e precisa ser investigado. Hematúria é a presença de glóbulos vermelhos na urina.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Não é normal e precisa ser investigado. Hematúria é a presença de glóbulos vermelhos na urina. Pode ser visível ou aparecer apenas no exame de urina. Urina vermelha, rosada ou cor de chá também pode ter outras causas.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Não se automedique com antibióticos ou anti-inflamatórios.",
+          "Hidrate-se conforme orientação, sem exagero.",
+          "Observe coágulos, dor, febre e quantidade de urina.",
+          "Leve fotos da urina e resultados anteriores, se possível."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Coágulos ou dificuldade para urinar.",
+          "Sangue com dor intensa na lateral ou nas costas.",
+          "Febre, calafrios, vômitos ou mal-estar importante.",
+          "Pouca urina, inchaço, falta de ar ou fraqueza intensa."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "sangue",
+      "urina"
+    ],
+    "dataPublicacao": "2027-05-23T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/sangue-na-urina-quando-investigar.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/sangue-na-urina-quando-investigar.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/sangue-na-urina-quando-investigar.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "espuma-persistente-na-urina-pode-ser-proteinuria",
+    "titulo": "Espuma persistente na urina: pode ser proteinúria",
+    "categoria": "Nefrologia",
+    "descricao": "Bolhas ocasionais podem ser normais; espuma persistente precisa ser avaliada. Jato forte, vaso com produto de limpeza ou urina concentrada podem formar bolhas.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Bolhas ocasionais podem ser normais; espuma persistente precisa ser avaliada. Jato forte, vaso com produto de limpeza ou urina concentrada podem formar bolhas. Espuma frequente e que demora a desaparecer pode indicar proteína na urina. Proteína pode escapar quando os filtros dos rins estão alterados.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Controle a pressão e a glicose.",
+          "Evite anti-inflamatórios sem orientação.",
+          "Não use chás ou suplementos para ‘limpar os rins’.",
+          "Siga a hidratação orientada para você."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Pouca urina ou parar de urinar.",
+          "Inchaço que aumenta rapidamente.",
+          "Falta de ar, confusão ou fraqueza intensa.",
+          "Sangue na urina, febre ou dor forte."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "espuma",
+      "urina"
+    ],
+    "dataPublicacao": "2027-05-26T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/espuma-persistente-na-urina-pode-ser-proteinuria.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/espuma-persistente-na-urina-pode-ser-proteinuria.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/espuma-persistente-na-urina-pode-ser-proteinuria.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "insuficiencia-renal-causas-pre-renais-renais-e-pos-renais",
+    "titulo": "Insuficiência renal: causas pré-renais, renais e pós-renais",
+    "categoria": "Nefrologia",
+    "descricao": "A localização do problema ajuda a entender a causa. O rim recebe pouco sangue para filtrar.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "A localização do problema ajuda a entender a causa. O rim recebe pouco sangue para filtrar. Pode ocorrer em desidratação, sangramento, pressão muito baixa, sepse ou coração enfraquecido. O tecido renal pode estar inicialmente preservado.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "A urina encontra uma obstrução para sair.",
+          "Cálculos, próstata aumentada, tumores ou problemas da bexiga podem causar.",
+          "Pode haver dor, bexiga cheia, jato fraco ou pouca urina.",
+          "Ultrassom frequentemente ajuda a procurar bloqueio."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Parar de urinar ou redução importante.",
+          "Dor forte com dificuldade para urinar.",
+          "Pressão baixa, desmaio ou sangramento.",
+          "Febre, confusão ou piora rápida."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "falha?"
+    ],
+    "dataPublicacao": "2027-05-30T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/insuficiencia-renal-causas-pre-renais-renais-e-pos-renais.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/insuficiencia-renal-causas-pre-renais-renais-e-pos-renais.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/insuficiencia-renal-causas-pre-renais-renais-e-pos-renais.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "sindrome-nefritica-x-sindrome-nefrotica",
+    "titulo": "Síndrome nefrítica x síndrome nefrótica",
+    "categoria": "Nefrologia",
+    "descricao": "Sangue na urina, pressão alta e inchaço são sinais importantes. É um conjunto de sinais causado por inflamação dos glomérulos.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Sangue na urina, pressão alta e inchaço são sinais importantes. É um conjunto de sinais causado por inflamação dos glomérulos. Os filtros deixam sangue passar para a urina e podem filtrar menos. Não é uma única doença e pode ter várias causas.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Não use anti-inflamatórios sem orientação.",
+          "Evite excesso de sal.",
+          "Não force água se estiver inchado ou urinando pouco.",
+          "Use os medicamentos prescritos e faça retornos."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Pouca ou nenhuma urina.",
+          "Falta de ar ou inchaço rápido.",
+          "Pressão muito alta, dor de cabeça intensa ou confusão.",
+          "Vômitos persistentes, convulsão ou fraqueza extrema."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "síndrome",
+      "nefrítica"
+    ],
+    "dataPublicacao": "2027-06-01T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/sindrome-nefritica-x-sindrome-nefrotica.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/sindrome-nefritica-x-sindrome-nefrotica.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/sindrome-nefritica-x-sindrome-nefrotica.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "fibromialgia-dor-real-cuidado-possivel",
+    "titulo": "Fibromialgia: dor real, cuidado possível",
+    "categoria": "Ortopedia/Reumatologia",
+    "descricao": "É uma condição crônica que altera o processamento da dor. Causa dor espalhada pelo corpo por mais de três meses.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "É uma condição crônica que altera o processamento da dor. Causa dor espalhada pelo corpo por mais de três meses. Pode aumentar a sensibilidade ao toque. Não é doença autoimune nem destrói articulações.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Dor e rigidez em várias áreas.",
+          "Cansaço e sono não reparador.",
+          "Dificuldade de memória e concentração.",
+          "Dor de cabeça, intestino irritável e alterações de humor podem coexistir."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Fraqueza súbita, fala alterada ou desmaio.",
+          "Febre persistente, perda de peso ou suor noturno.",
+          "Articulação quente, vermelha e muito inchada.",
+          "Dor no peito, falta de ar ou perna inchada."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "fibromialgia"
+    ],
+    "dataPublicacao": "2027-06-03T11:00:00-03:00",
+    "imagem": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/fibromialgia-dor-real-cuidado-possivel.png",
+    "linkPdf": "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/fibromialgia-dor-real-cuidado-possivel.png",
+    "paginas": [
+      "https://ndvxslryeexocgcmszsi.supabase.co/storage/v1/object/public/panfletos/site/fibromialgia-dor-real-cuidado-possivel.png"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "fibromialgia-sensibilizacao-central-e-tratamento",
+    "titulo": "Fibromialgia: sensibilização central e tratamento",
+    "categoria": "Ortopedia/Reumatologia",
+    "descricao": "É uma condição crônica que altera o processamento da dor. Causa dor espalhada pelo corpo por mais de três meses.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "É uma condição crônica que altera o processamento da dor. Causa dor espalhada pelo corpo por mais de três meses. Pode aumentar a sensibilidade ao toque. Não é doença autoimune nem destrói articulações.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Dor e rigidez em várias áreas.",
+          "Cansaço e sono não reparador.",
+          "Dificuldade de memória e concentração.",
+          "Dor de cabeça, intestino irritável e alterações de humor podem coexistir."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Fraqueza súbita, fala alterada ou desmaio.",
+          "Febre persistente, perda de peso ou suor noturno.",
+          "Articulação quente, vermelha e muito inchada.",
+          "Dor no peito, falta de ar ou perna inchada."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "fibromialgia"
+    ],
+    "dataPublicacao": "2027-06-06T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/fibromialgia-sensibilizacao-central-e-tratamento.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/fibromialgia-sensibilizacao-central-e-tratamento.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/fibromialgia-sensibilizacao-central-e-tratamento.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "areas-do-cerebro-e-suas-principais-funcoes",
+    "titulo": "Áreas do cérebro e suas principais funções",
+    "categoria": "Neurologia",
+    "descricao": "As áreas trabalham em rede — nenhuma função complexa fica em um único ‘ponto’. Planejamento, decisões e controle do comportamento.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "As áreas trabalham em rede — nenhuma função complexa fica em um único ‘ponto’. Planejamento, decisões e controle do comportamento. Início de movimentos voluntários. Produção da fala em grande parte das pessoas.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Processa toque, dor, temperatura e posição do corpo.",
+          "Integra informações espaciais.",
+          "Ajuda leitura, cálculo e reconhecimento.",
+          "Lesão pode causar dormência ou negligência de um lado."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Boca torta, braço fraco ou fala alterada.",
+          "Confusão, convulsão ou desmaio.",
+          "Perda súbita de visão ou equilíbrio.",
+          "Dor de cabeça explosiva."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "áreas",
+      "cérebro"
+    ],
+    "dataPublicacao": "2027-06-08T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/areas-do-cerebro-e-suas-principais-funcoes.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/areas-do-cerebro-e-suas-principais-funcoes.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/areas-do-cerebro-e-suas-principais-funcoes.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "ave-isquemico-reconhecer-e-agir-rapido",
+    "titulo": "AVE isquêmico: reconhecer e agir rápido",
+    "categoria": "Neurologia",
+    "descricao": "Cada minuto sem circulação pode aumentar a lesão. Um coágulo impede sangue e oxigênio de chegar a parte do cérebro.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Cada minuto sem circulação pode aumentar a lesão. Um coágulo impede sangue e oxigênio de chegar a parte do cérebro. É o tipo mais comum de AVC. Pode vir de uma placa na artéria ou do coração.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Controle pressão, diabetes e colesterol.",
+          "Não fume.",
+          "Trate fibrilação atrial e use anticoagulante se prescrito.",
+          "Pratique atividade física e mantenha acompanhamento."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Peça para sorrir: um lado cai?",
+          "Peça para levantar os dois braços: um desce?",
+          "Peça para repetir uma frase: a fala está estranha?",
+          "Anote a hora em que começou ou a última vez bem."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "isquêmico"
+    ],
+    "dataPublicacao": "2027-06-10T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/ave-isquemico-reconhecer-e-agir-rapido.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/ave-isquemico-reconhecer-e-agir-rapido.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/ave-isquemico-reconhecer-e-agir-rapido.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "ave-hemorragico-sinais-e-emergencia",
+    "titulo": "AVE hemorrágico: sinais e emergência",
+    "categoria": "Neurologia",
+    "descricao": "Pode causar piora muito rápida. O sangue vaza dentro ou ao redor do cérebro.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Pode causar piora muito rápida. O sangue vaza dentro ou ao redor do cérebro. Pressiona e lesa o tecido cerebral. Pressão alta descontrolada e aneurisma são causas importantes.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Ligue SAMU 192.",
+          "Anote o horário do início.",
+          "Mantenha a pessoa em local seguro.",
+          "Se vomitar e estiver sonolenta, vire de lado se não houve trauma."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "‘Pior dor de cabeça da vida’ que começa de repente.",
+          "Desmaio, convulsão ou sonolência crescente.",
+          "Fraqueza, boca torta ou fala alterada.",
+          "Vômitos repetidos e rigidez de nuca."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "hemorrágico"
+    ],
+    "dataPublicacao": "2027-06-13T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/ave-hemorragico-sinais-e-emergencia.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/ave-hemorragico-sinais-e-emergencia.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/ave-hemorragico-sinais-e-emergencia.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "aneurisma-cerebral-o-que-e-e-sinais-de-ruptura",
+    "titulo": "Aneurisma cerebral: o que é e sinais de ruptura",
+    "categoria": "Neurologia",
+    "descricao": "Muitos não causam sintomas até romper. Uma área enfraquecida do vaso forma uma bolsa.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Muitos não causam sintomas até romper. Uma área enfraquecida do vaso forma uma bolsa. Tamanho, formato e local influenciam o risco. Nem todo aneurisma rompe.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Controle bem a pressão.",
+          "Não fume.",
+          "Evite cocaína e outras drogas estimulantes.",
+          "Faça exames de controle no prazo."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Dor explosiva e súbita, mesmo se melhorar.",
+          "Desmaio, convulsão ou sonolência.",
+          "Fraqueza, fala ou visão alteradas.",
+          "Vômitos com rigidez de nuca."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "aneurisma",
+      "cerebral"
+    ],
+    "dataPublicacao": "2027-06-16T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/aneurisma-cerebral-o-que-e-e-sinais-de-ruptura.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/aneurisma-cerebral-o-que-e-e-sinais-de-ruptura.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/aneurisma-cerebral-o-que-e-e-sinais-de-ruptura.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "tipos-de-cefaleia-e-sinais-de-alarme",
+    "titulo": "Tipos de cefaleia e sinais de alarme",
+    "categoria": "Neurologia",
+    "descricao": "Tensional e enxaqueca são comuns; alguns sinais indicam causa secundária. Pressão ou aperto dos dois lados.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Tensional e enxaqueca são comuns; alguns sinais indicam causa secundária. Pressão ou aperto dos dois lados. Leve a moderada. Não costuma piorar muito com atividade.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Pode pulsar e predominar de um lado.",
+          "Moderada a forte e piora com atividade.",
+          "Náusea e sensibilidade à luz/som.",
+          "Aura pode causar luzes, formigamento ou fala alterada antes."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Dor súbita que atinge máxima intensidade em segundos/minutos.",
+          "Febre, rigidez de nuca ou manchas roxas.",
+          "Fraqueza, confusão, convulsão ou desmaio.",
+          "Após trauma, em câncer ou imunossupressão."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "tipos",
+      "cefaleia"
+    ],
+    "dataPublicacao": "2027-06-20T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/tipos-de-cefaleia-e-sinais-de-alarme.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/tipos-de-cefaleia-e-sinais-de-alarme.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/tipos-de-cefaleia-e-sinais-de-alarme.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "neurocisticercose-transmissao-prevencao-e-tratamento",
+    "titulo": "Neurocisticercose: transmissão, prevenção e tratamento",
+    "categoria": "Neurologia",
+    "descricao": "Acontece ao engolir ovos do parasito em água, alimento ou mãos contaminadas. Carne de porco com larvas pode causar tênia adulta no intestino: teníase.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Acontece ao engolir ovos do parasito em água, alimento ou mãos contaminadas. Carne de porco com larvas pode causar tênia adulta no intestino: teníase. Ovos da tênia em contaminação fecal podem causar cisticercose. Quando as larvas atingem o cérebro, chama-se neurocisticercose.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Pode incluir antiparasitário, corticoide e remédio para convulsão.",
+          "Nem todo cisto recebe o mesmo tratamento.",
+          "Alguns casos precisam de cirurgia.",
+          "O tratamento pode inflamar temporariamente as lesões."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Primeira convulsão ou crise prolongada.",
+          "Confusão, desmaio ou fraqueza súbita.",
+          "Dor de cabeça intensa com vômitos.",
+          "Perda visual ou dificuldade para andar."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "neurocisticercose"
+    ],
+    "dataPublicacao": "2027-06-22T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/neurocisticercose-transmissao-prevencao-e-tratamento.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/neurocisticercose-transmissao-prevencao-e-tratamento.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/neurocisticercose-transmissao-prevencao-e-tratamento.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "tipos-de-anestesia-e-seguranca",
+    "titulo": "Tipos de anestesia e segurança",
+    "categoria": "Anestesiologia",
+    "descricao": "Anestesia pode ser local, regional ou geral. A escolha depende do procedimento, da saúde da pessoa e do planejamento do anestesiologista; em todas as modalidades há avaliação e monitoramento apropriados.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Anestesia pode ser local, regional ou geral. A escolha depende do procedimento, da saúde da pessoa e do planejamento do anestesiologista; em todas as modalidades há avaliação e monitoramento apropriados.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Informe alergias, doenças, cirurgias anteriores e todos os medicamentos.",
+          "Cumpra o jejum exatamente como orientado.",
+          "Converse sobre medos, experiências anteriores e o que esperar da recuperação."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Após a alta, falta de ar, dor no peito, desmaio, fraqueza persistente ou reação alérgica exige atendimento.",
+          "Não dirija nem tome decisões importantes enquanto houver efeito de sedativos."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "anestesia",
+      "anestesia local",
+      "anestesia regional",
+      "anestesia geral",
+      "segurança"
+    ],
+    "dataPublicacao": "2027-06-24T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/tipos-de-anestesia-e-seguranca.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/tipos-de-anestesia-e-seguranca.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/tipos-de-anestesia-e-seguranca.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "anestesia-regional-como-funciona",
+    "titulo": "Anestesia regional: como funciona",
+    "categoria": "Anestesiologia",
+    "descricao": "Pode ser raqui, peridural ou bloqueio de um nervo. Anestésico é aplicado perto de nervos ou da coluna.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Pode ser raqui, peridural ou bloqueio de um nervo. Anestésico é aplicado perto de nervos ou da coluna. Bloqueia dor em um braço, perna ou parte inferior do corpo. A região fica pesada, quente ou dormente.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Cesárea e parto.",
+          "Cirurgias de membros.",
+          "Procedimentos do abdome inferior e pelve.",
+          "Controle de dor após cirurgia."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Falta de ar ou dormência subindo rapidamente.",
+          "Fraqueza prolongada além do esperado.",
+          "Dor de cabeça intensa ao sentar/ficar em pé.",
+          "Febre, dor forte nas costas ou alteração de controle urinário/intestino."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "anestesia",
+      "regional"
+    ],
+    "dataPublicacao": "2027-06-27T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/anestesia-regional-como-funciona.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/anestesia-regional-como-funciona.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/anestesia-regional-como-funciona.webp"
+    ],
+    "publicado": true
+  },
+  {
+    "id": "anestesia-geral-sono-controlado-e-monitorado",
+    "titulo": "Anestesia geral: sono controlado e monitorado",
+    "categoria": "Anestesiologia",
+    "descricao": "Medicamentos mantêm inconsciência, controle da dor e condições seguras. Medicamentos são dados pela veia e/ou respiração.",
+    "descricaoLonga": [
+      {
+        "titulo": "Sobre o tema",
+        "texto": "Medicamentos mantêm inconsciência, controle da dor e condições seguras. Medicamentos são dados pela veia e/ou respiração. Você fica inconsciente e sem sentir dor. A equipe controla respiração, circulação e temperatura.",
+        "itens": []
+      },
+      {
+        "titulo": "Orientações práticas",
+        "texto": "",
+        "itens": [
+          "Respeite o jejum orientado.",
+          "Informe todos os remédios, alergias e uso de drogas/álcool.",
+          "Conte problemas em anestesias anteriores.",
+          "Avise sobre dentes soltos, apneia do sono e possibilidade de gravidez."
+        ]
+      },
+      {
+        "titulo": "Quando ligar o alerta",
+        "texto": "",
+        "itens": [
+          "Sonolência, náusea, dor de garganta e calafrio podem ocorrer.",
+          "Tenha acompanhante e não dirija pelo período orientado.",
+          "Procure ajuda por falta de ar, dor no peito ou desmaio.",
+          "Confusão persistente, febre ou vômitos repetidos precisam avaliação."
+        ]
+      }
+    ],
+    "palavrasChave": [
+      "anestesia",
+      "geral"
+    ],
+    "dataPublicacao": "2027-06-30T11:00:00-03:00",
+    "imagem": "assets/programacao-93/site/anestesia-geral-sono-controlado-e-monitorado.webp",
+    "linkPdf": "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/anestesia-geral-sono-controlado-e-monitorado.webp",
+    "paginas": [
+      "https://abrasusprogramadocuidado.github.io/ABRAsus-/assets/programacao-93/site/anestesia-geral-sono-controlado-e-monitorado.webp"
+    ],
+    "publicado": true
+  }
+]

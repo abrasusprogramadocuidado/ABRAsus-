@@ -797,7 +797,7 @@
 // Campos: id, titulo, categoria, descricao, descricaoLonga, dataPublicacao, imagem, linkPdf, palavrasChave, acessos
 // dataPublicacao aceita formato "AAAA-MM-DDTHH:mm:ss-03:00"; panfletos futuros aparecem automaticamente na data marcada.
 // =====================================================
-const panfletos = [];
+let panfletos = [];
 
 // =====================================================
 // CONFIGURAÇÕES E ESTADO LOCAL
@@ -1000,8 +1000,24 @@ function normalizarPanfleto(panfleto) {
 
 function todosPanfletos(opcoes = {}) {
   const porId = new Map();
-  [...panfletos.map(normalizarPanfleto), ...panfletosRemotos, ...panfletosLocais]
-    .forEach(panfleto => porId.set(panfleto.id, panfleto));
+  panfletos.map(normalizarPanfleto).forEach(panfleto => porId.set(panfleto.id, panfleto));
+  panfletosRemotos.forEach(remoto => {
+    const padrao = porId.get(remoto.id);
+    if (!padrao) {
+      porId.set(remoto.id, remoto);
+      return;
+    }
+    porId.set(remoto.id, {
+      ...padrao,
+      ...remoto,
+      // As imagens revisadas do catálogo versionado prevalecem. Os demais
+      // campos e o status publicado continuam administráveis pelo Supabase.
+      imagem: padrao.imagem || remoto.imagem,
+      linkPdf: padrao.linkPdf || remoto.linkPdf,
+      paginas: padrao.paginas.length ? padrao.paginas : remoto.paginas
+    });
+  });
+  panfletosLocais.forEach(panfleto => porId.set(panfleto.id, panfleto));
   const lista = [...porId.values()].filter(panfleto => panfleto.publicado !== false);
   if (opcoes.incluirAgendados || previewAgendados) return lista;
   return lista.filter(estaPublicado);
@@ -1022,6 +1038,18 @@ async function carregarPanfletosRemotos() {
     renderTudo();
   } catch (erro) {
     console.warn("Não foi possível carregar panfletos do Supabase:", erro);
+  }
+}
+
+async function carregarProgramacaoPadrao() {
+  try {
+    const resposta = await fetch("content/programacao-site-93-panfletos.json", { cache: "no-store" });
+    if (!resposta.ok) throw new Error(`HTTP ${resposta.status}`);
+    const dados = await resposta.json();
+    panfletos = Array.isArray(dados) ? dados : [];
+    renderTudo();
+  } catch (erro) {
+    console.warn("Não foi possível carregar a programação padrão dos panfletos:", erro);
   }
 }
 
@@ -1591,6 +1619,7 @@ document.addEventListener("click", (evento) => {
 document.addEventListener("DOMContentLoaded", () => {
   prepararRevealsEstaticos();
   renderTudo();
+  carregarProgramacaoPadrao();
   carregarPanfletosRemotos();
   iniciarReveal();
 

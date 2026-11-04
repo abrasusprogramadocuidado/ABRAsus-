@@ -48,7 +48,12 @@
     },
     "seja-bem-vindo-a-saude-que-transforma": {
       "title": "Seja bem-vindo à saúde que transforma",
-      "scheduledAt": "2026-11-01T11:00:00-03:00"
+      "scheduledAt": "2026-11-01T11:00:00-03:00",
+      "facebook": {
+        "id": "1348151428388603_122109933735515666",
+        "existing": false,
+        "publishedAt": "2026-11-04T13:09:23.170Z"
+      }
     },
     "higiene-das-maos-um-cuidado-que-protege": {
       "title": "Higiene das mãos: um cuidado que protege",
@@ -57,6 +62,15 @@
         "id": "1348151428388603_122109659793515666",
         "existing": false,
         "publishedAt": "2026-11-03T20:24:49.010Z"
+      }
+    },
+    "infeccao-do-trato-urinario-sintomas-e-cuidados": {
+      "title": "Infecção do trato urinário: sintomas e cuidados",
+      "scheduledAt": "2026-11-04T10:00:00-03:00",
+      "facebook": {
+        "id": "1348151428388603_122109933849515666",
+        "existing": false,
+        "publishedAt": "2026-11-04T13:09:36.017Z"
       }
     }
   }

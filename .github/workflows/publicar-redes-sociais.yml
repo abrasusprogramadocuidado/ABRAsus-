@@ -1,6 +1,16 @@
 name: Publicar panfletos nas redes sociais
 
 on:
+  # Ao corrigir o publicador, a programação ou uma imagem, tenta recuperar
+  # imediatamente os itens pendentes. O arquivo de estado fica fora desta
+  # lista para que o commit automático não crie um ciclo infinito.
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/publicar-redes-sociais.yml"
+      - "scripts/publish_social_media.mjs"
+      - "content/programacao-redes-sociais-93.json"
+      - "assets/programacao-93/feed/**"
   schedule:
     # Mantém os 21 agendamentos anteriores: 10:00 em Araguaína/São Paulo.
     - cron: "0 13 * * 3,5"

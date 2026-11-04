@@ -53,7 +53,13 @@
         "id": "1348151428388603_122109933735515666",
         "existing": false,
         "publishedAt": "2026-11-04T13:09:23.170Z"
-      }
+      },
+      "instagram": {
+        "id": "18111204040920231",
+        "existing": false,
+        "publishedAt": "2026-11-04T13:11:59.279Z"
+      },
+      "completedAt": "2026-11-04T13:11:59.316Z"
     },
     "higiene-das-maos-um-cuidado-que-protege": {
       "title": "Higiene das mãos: um cuidado que protege",
@@ -62,7 +68,13 @@
         "id": "1348151428388603_122109659793515666",
         "existing": false,
         "publishedAt": "2026-11-03T20:24:49.010Z"
-      }
+      },
+      "instagram": {
+        "id": "18122964490979418",
+        "existing": false,
+        "publishedAt": "2026-11-04T13:12:11.245Z"
+      },
+      "completedAt": "2026-11-04T13:12:11.246Z"
     },
     "infeccao-do-trato-urinario-sintomas-e-cuidados": {
       "title": "Infecção do trato urinário: sintomas e cuidados",
@@ -71,7 +83,13 @@
         "id": "1348151428388603_122109933849515666",
         "existing": false,
         "publishedAt": "2026-11-04T13:09:36.017Z"
-      }
+      },
+      "instagram": {
+        "id": "18646979368012825",
+        "existing": false,
+        "publishedAt": "2026-11-04T13:12:19.663Z"
+      },
+      "completedAt": "2026-11-04T13:12:19.664Z"
     }
   }
 }

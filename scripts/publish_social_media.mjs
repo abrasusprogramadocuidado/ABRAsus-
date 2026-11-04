@@ -123,14 +123,14 @@ async function publishInstagram(item) {
   // pode retornar o erro 9007 ("Media ID is not available").
   for (let attempt = 1; attempt <= 30; attempt++) {
     const status = await graphRequest(container.id, {
-      params: { fields: "status_code,status,error_message" },
+      params: { fields: "status_code" },
     });
-    const statusCode = String(status.status_code || status.status || "").toUpperCase();
+    const statusCode = String(status.status_code || "").toUpperCase();
 
     if (statusCode === "FINISHED") break;
     if (["ERROR", "EXPIRED"].includes(statusCode)) {
       throw new Error(
-        `Instagram não conseguiu processar a imagem: ${status.error_message || statusCode}`,
+        `Instagram não conseguiu processar a imagem: ${statusCode}`,
       );
     }
     if (attempt === 30) {

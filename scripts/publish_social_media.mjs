@@ -52,6 +52,24 @@ async function saveState(state) {
   await fs.writeFile(STATE_PATH, `${JSON.stringify(state, null, 2)}\n`, "utf8");
 }
 
+function sleep(milliseconds) {
+  return new Promise((resolve) => setTimeout(resolve, milliseconds));
+}
+
+async function assertPublicImage(imageUrl) {
+  const response = await fetch(imageUrl, {
+    headers: { range: "bytes=0-0", "user-agent": "AbraSUS-Publicador/1.0" },
+  });
+  const contentType = String(response.headers.get("content-type") || "").toLowerCase();
+  await response.body?.cancel().catch(() => {});
+
+  if (!response.ok || !contentType.startsWith("image/")) {
+    throw new Error(
+      `Imagem indisponível ou inválida: HTTP ${response.status}, tipo ${contentType || "desconhecido"}`,
+    );
+  }
+}
+
 function compact(value) {
   return String(value ?? "").replace(/\r\n/g, "\n").trim();
 }
@@ -100,11 +118,42 @@ async function publishInstagram(item) {
     method: "POST",
     params: { image_url: item.imagemUrl, caption: item.legendaInstagram },
   });
-  const result = await graphRequest(`${instagramUserId}/media_publish`, {
-    method: "POST",
-    params: { creation_id: container.id },
-  });
-  return { id: result.id, existing: false, publishedAt: new Date().toISOString() };
+
+  // O Instagram processa a imagem de forma assíncrona. Publicar imediatamente
+  // pode retornar o erro 9007 ("Media ID is not available").
+  for (let attempt = 1; attempt <= 30; attempt++) {
+    const status = await graphRequest(container.id, {
+      params: { fields: "status_code,status,error_message" },
+    });
+    const statusCode = String(status.status_code || status.status || "").toUpperCase();
+
+    if (statusCode === "FINISHED") break;
+    if (["ERROR", "EXPIRED"].includes(statusCode)) {
+      throw new Error(
+        `Instagram não conseguiu processar a imagem: ${status.error_message || statusCode}`,
+      );
+    }
+    if (attempt === 30) {
+      throw new Error("Instagram não concluiu o processamento da imagem em 150 segundos.");
+    }
+    await sleep(5_000);
+  }
+
+  let lastError;
+  for (let attempt = 1; attempt <= 5; attempt++) {
+    try {
+      const result = await graphRequest(`${instagramUserId}/media_publish`, {
+        method: "POST",
+        params: { creation_id: container.id },
+      });
+      return { id: result.id, existing: false, publishedAt: new Date().toISOString() };
+    } catch (error) {
+      lastError = error;
+      if (!/Media ID is not available|código 9007/i.test(error.message) || attempt === 5) throw error;
+      await sleep(attempt * 5_000);
+    }
+  }
+  throw lastError;
 }
 
 const schedule = await readJson(SCHEDULE_PATH, []);
@@ -136,6 +185,15 @@ for (const item of due) {
     title: item.titulo,
     scheduledAt: item.dataPublicacao,
   });
+
+  try {
+    await assertPublicImage(item.imagemUrl);
+  } catch (error) {
+    failures++;
+    console.error(`Imagem: ${error.message}`);
+    await saveState(state);
+    continue;
+  }
 
   if (!record.facebook) {
     try {

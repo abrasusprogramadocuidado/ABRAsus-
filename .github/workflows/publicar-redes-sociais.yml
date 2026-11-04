@@ -6,6 +6,9 @@ on:
     - cron: "0 13 * * 3,5"
     # Programação principal dos 93 temas: 11:00 em Araguaína/São Paulo.
     - cron: "0 14 * * *"
+    # Recuperação automática: repete a verificação a cada 2 horas. O script
+    # ignora o que já foi publicado e tenta novamente apenas itens pendentes.
+    - cron: "23 */2 * * *"
   workflow_dispatch:
     inputs:
       dry_run:

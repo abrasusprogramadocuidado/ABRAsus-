@@ -90,6 +90,21 @@
         "publishedAt": "2026-11-04T13:12:19.663Z"
       },
       "completedAt": "2026-11-04T13:12:19.664Z"
+    },
+    "seguranca-dos-alimentos-prevencao-comeca-na-cozinha": {
+      "title": "Segurança dos alimentos: prevenção começa na cozinha",
+      "scheduledAt": "2026-11-05T11:00:00-03:00",
+      "facebook": {
+        "id": "1348151428388603_122110584033515666",
+        "existing": false,
+        "publishedAt": "2026-11-05T20:55:09.550Z"
+      },
+      "instagram": {
+        "id": "17981328113914711",
+        "existing": false,
+        "publishedAt": "2026-11-05T20:55:23.032Z"
+      },
+      "completedAt": "2026-11-05T20:55:23.033Z"
     }
   }
 }

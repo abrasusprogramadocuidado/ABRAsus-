@@ -105,6 +105,21 @@
         "publishedAt": "2026-11-05T20:55:23.032Z"
       },
       "completedAt": "2026-11-05T20:55:23.033Z"
+    },
+    "febre-sinais-de-alarme-medicamentos-e-cuidados": {
+      "title": "Febre: sinais de alarme, medicamentos e cuidados",
+      "scheduledAt": "2026-11-06T10:00:00-03:00",
+      "facebook": {
+        "id": "1348151428388603_122110927407515666",
+        "existing": false,
+        "publishedAt": "2026-11-06T19:31:38.085Z"
+      },
+      "instagram": {
+        "id": "18109551670963668",
+        "existing": false,
+        "publishedAt": "2026-11-06T19:31:53.278Z"
+      },
+      "completedAt": "2026-11-06T19:31:53.279Z"
     }
   }
 }

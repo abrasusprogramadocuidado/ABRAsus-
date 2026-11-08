@@ -120,6 +120,21 @@
         "publishedAt": "2026-11-06T19:31:53.278Z"
       },
       "completedAt": "2026-11-06T19:31:53.279Z"
+    },
+    "atividade-fisica-movimento-e-saude": {
+      "title": "Atividade física: movimento é saúde",
+      "scheduledAt": "2026-11-08T11:00:00-03:00",
+      "facebook": {
+        "id": "1348151428388603_122111634087515666",
+        "existing": false,
+        "publishedAt": "2026-11-08T18:37:17.908Z"
+      },
+      "instagram": {
+        "id": "18026298581926470",
+        "existing": false,
+        "publishedAt": "2026-11-08T18:37:26.523Z"
+      },
+      "completedAt": "2026-11-08T18:37:26.524Z"
     }
   }
 }

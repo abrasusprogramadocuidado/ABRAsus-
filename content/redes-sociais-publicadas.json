@@ -150,6 +150,21 @@
         "publishedAt": "2026-11-10T20:41:42.878Z"
       },
       "completedAt": "2026-11-10T20:41:42.879Z"
+    },
+    "erisipela-e-celulite-infeccoes-da-pele": {
+      "title": "Erisipela e celulite: infecções da pele",
+      "scheduledAt": "2026-11-11T10:00:00-03:00",
+      "facebook": {
+        "id": "1348151428388603_122112870777515666",
+        "existing": false,
+        "publishedAt": "2026-11-11T17:56:15.481Z"
+      },
+      "instagram": {
+        "id": "18116211821029587",
+        "existing": false,
+        "publishedAt": "2026-11-11T17:56:26.396Z"
+      },
+      "completedAt": "2026-11-11T17:56:26.396Z"
     }
   }
 }

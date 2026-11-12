@@ -165,6 +165,21 @@
         "publishedAt": "2026-11-11T17:56:26.396Z"
       },
       "completedAt": "2026-11-11T17:56:26.396Z"
+    },
+    "saude-mental-cuidar-tambem-e-pedir-ajuda": {
+      "title": "Saúde mental: cuidar também é pedir ajuda",
+      "scheduledAt": "2026-11-12T11:00:00-03:00",
+      "facebook": {
+        "id": "1348151428388603_122113348587515666",
+        "existing": false,
+        "publishedAt": "2026-11-12T18:25:13.151Z"
+      },
+      "instagram": {
+        "id": "18137399572738046",
+        "existing": false,
+        "publishedAt": "2026-11-12T18:25:26.423Z"
+      },
+      "completedAt": "2026-11-12T18:25:26.424Z"
     }
   }
 }

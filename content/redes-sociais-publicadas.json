@@ -180,6 +180,21 @@
         "publishedAt": "2026-11-12T18:25:26.423Z"
       },
       "completedAt": "2026-11-12T18:25:26.424Z"
+    },
+    "choque-anafilatico-reconhecer-para-agir-rapido": {
+      "title": "Choque anafilático: reconhecer para agir rápido",
+      "scheduledAt": "2026-11-13T10:00:00-03:00",
+      "facebook": {
+        "id": "1348151428388603_122113674009515666",
+        "existing": false,
+        "publishedAt": "2026-11-13T17:52:05.994Z"
+      },
+      "instagram": {
+        "id": "18123144952948930",
+        "existing": false,
+        "publishedAt": "2026-11-13T17:52:14.671Z"
+      },
+      "completedAt": "2026-11-13T17:52:14.671Z"
     }
   }
 }

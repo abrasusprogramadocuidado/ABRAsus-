@@ -1196,7 +1196,7 @@ function criarCard(panfleto) {
   const origem = marcadores.length ? `<span class="card-fonte">${escapeHtml(marcadores.join(" · "))}</span>` : "";
 
   return `
-    <article class="card-panfleto reveal" data-id="${escapeHtml(panfleto.id)}" id="card-${escapeHtml(panfleto.id)}">
+    <article class="card-panfleto" data-id="${escapeHtml(panfleto.id)}" id="card-${escapeHtml(panfleto.id)}">
       <div class="card-capa" style="background:${visual.cor};">
         ${capa}
         <span class="card-categoria-tag" style="background:${visual.tagCor}; color:${visual.tagTexto};">${escapeHtml(panfleto.categoria)}</span>
@@ -1240,7 +1240,7 @@ function renderCategoriaBloco(categoria, itens) {
     : `<div class="categoria-vazio">Em breve novos panfletos de ${escapeHtml(categoria)} serão adicionados aqui.</div>`;
 
   return `
-    <section class="categoria-bloco reveal" aria-labelledby="${idCategoria}">
+    <section class="categoria-bloco" aria-labelledby="${idCategoria}">
       <div class="categoria-cabecalho">
         <div>
           <h3 id="${idCategoria}"><span aria-hidden="true">${visual.icone}</span>${escapeHtml(categoria)}</h3>

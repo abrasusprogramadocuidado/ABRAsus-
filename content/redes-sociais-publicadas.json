@@ -225,6 +225,21 @@
         "publishedAt": "2026-11-20T13:10:06.156Z"
       },
       "completedAt": "2026-11-20T13:10:06.157Z"
+    },
+    "dislipidemia-colesterol-e-triglicerideos": {
+      "title": "Dislipidemia: colesterol e triglicerídeos",
+      "scheduledAt": "2026-11-22T11:00:00-03:00",
+      "facebook": {
+        "id": "1348151428388603_122117144025515666",
+        "existing": false,
+        "publishedAt": "2026-11-22T17:53:24.758Z"
+      },
+      "instagram": {
+        "id": "17909230152605779",
+        "existing": false,
+        "publishedAt": "2026-11-22T17:53:41.045Z"
+      },
+      "completedAt": "2026-11-22T17:53:41.046Z"
     }
   }
 }

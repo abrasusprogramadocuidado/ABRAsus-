@@ -270,6 +270,21 @@
         "publishedAt": "2026-11-25T14:35:26.583Z"
       },
       "completedAt": "2026-11-25T14:35:26.584Z"
+    },
+    "mapa-x-mrpa-qual-e-a-diferenca": {
+      "title": "MAPA x MRPA: qual é a diferença?",
+      "scheduledAt": "2026-11-26T11:00:00-03:00",
+      "facebook": {
+        "id": "1348151428388603_122118467103515666",
+        "existing": false,
+        "publishedAt": "2026-11-26T21:42:47.052Z"
+      },
+      "instagram": {
+        "id": "18659087248006791",
+        "existing": false,
+        "publishedAt": "2026-11-26T21:43:00.743Z"
+      },
+      "completedAt": "2026-11-26T21:43:00.744Z"
     }
   }
 }
